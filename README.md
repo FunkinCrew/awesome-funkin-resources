@@ -1,7 +1,7 @@
 # funkin-resources
 FRIDAY NIGHT FUNKIN' RESOURCES AND STUFF
 
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md) 
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md) 
 
 This will hopefully be a nice, catchall place for nearly damn everything Friday Night Funkin' related for fans, modders, freaks, and addicts.
 
