@@ -41,6 +41,7 @@ Furthur reading:
 - [Base Friday Night Funkin' aka Vanilla](https://github.com/FunkinCrew/funkin) - The original open source game by The Funkin' Crew.
 - [PsychEngine](https://github.com/ShadowMario/FNF-PsychEngine)
 - [Funkin' Forever Engine](https://github.com/BeastlyGabi/Funkin-Forever-Engine)
+- [Codename Engine](https://github.com/YoshiCrafter29/CodenameEngine)
 
 ### Haxe/HaxeFlixel Resources
 - [Haxe introduction](https://haxe.org/manual/introduction.html)
