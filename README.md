@@ -74,10 +74,18 @@ Unsure what to contribute? Check out the issue that is tagged with `good first i
 - [FNF-NewgroundsPort](https://github.com/AngelDTF/FNF-NewgroundsPort) - Rebuild of Funkin' 0.2.8 via reverse engineering.
 
 ### Haxe/HaxeFlixel Resources
-- [Haxe introduction](https://haxe.org/manual/introduction.html) - Introductory Haxe documentation
-- [HaxeFlixel Introduction](https://haxeflixel.com/documentation/) - HaxeFlixel Documentation
-- [HaxeFlixel snippets](https://snippets.haxeflixel.com/) - Snippets of HaxeFlixel code with live demos to explain their functionality 
-- [HaxeFlixel Cheat Sheet](https://haxeflixel.com/documentation/cheat-sheet/) - Series of code examples and mini tutorials for common uses of HaxeFlixel 
+- [Haxe - Introduction](https://haxe.org/manual/introduction.html) - Introductory Haxe documentation.
+- [HaxeFlixel - Introduction](https://haxeflixel.com/documentation/) - HaxeFlixel Documentation
+- [HaxeFlixel Cheat Sheet](https://haxeflixel.com/documentation/cheat-sheet/) - Series of code examples and mini tutorials for common uses of HaxeFlixel
+- [HaxeFlixel Demos](https://haxeflixel.com/demos/) - Collection of demos for HaxeFlixel.
+  - [GitHub repository for abovementioned demos](https://github.com/HaxeFlixel/flixel-demos).
+- [HaxeFlixel Game Development Tools](https://haxeflixel.com/documentation/game-development-tools/) - Tools that HaxeFlixel recommends for developing games.
+- [HaxeFlixel Snippets](https://snippets.haxeflixel.com/) - Snippets of HaxeFlixel code with live demos to explain their functionality.
+- [HaxeFlixel's Tutorial Game (TurnBasedRPG)](https://haxeflixel.com/documentation/tutorial/) - A really nifty tutorial that goes step-by-step on teaching how to make a game, comes with pre-made assets for you to use as well.
+  - [GitHub source code for TurnBasedRPG](https://github.com/HaxeFlixel/flixel-demos/tree/dev/Tutorials/TurnBasedRPG).
+
+#### Other Resources
+- [Source Code Guide | OVERHAUL](https://gamebanana.com/tuts/13798) - That one famous GameBanana compile guide. Also includes tutorials, like adding songs, custom characters, etc. (**was originally targeted towards Funkin' 0.2.7.1**)
 
 ### Visual Studio Code
 - Visual Studio Code is highly recommended, as it is the only integrated development environment (IDE) with proper support for Haxe (via extensions).
