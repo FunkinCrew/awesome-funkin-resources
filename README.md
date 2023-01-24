@@ -93,8 +93,8 @@ Unsure what to contribute? Check out the issue that is tagged with `good first i
 ## Modding
 - [GameBanana](https://gamebanana.com/games/8694) - GameBanana hosts a buncho damn mods and stuff
 - [GameJolt](https://gamejolt.com/c/fnf) - Another highly used host for mods.
-- [Funkipedia Mods Wiki](https://fridaynightfunking.fandom.com/wiki/Funkipedia_Mods_Wiki) - Information about most mods for FNF.
-- [/funkg/pedia](https://funkinchan.club/wiki/Main_Page) - /funkg/ Mod wiki.
+- [Funkipedia Mods Wiki](https://fridaynightfunking.fandom.com/wiki/Funkipedia_Mods_Wiki) - Information about most mods for Funkin'.
+- [/funkg/pedia](https://funkinchan.club/wiki/Main_Page) - /funkg/ mod wiki.
 
 ### Modding Tutorials
 - [LongestSoloEver's Modding Tutorials](https://www.youtube.com/playlist?list=PLfb6KneL63QuD0T0lolMvkQPQM7ZPjy9n) - A series of tutorials going over how to make mods in its entirety.
