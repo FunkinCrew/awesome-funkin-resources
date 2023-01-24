@@ -14,9 +14,12 @@ Furthur reading:
 - [The Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md) (bit of inspiration behind this)
 - [Awesome lists contributing guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md) (again, it's main inspiration to this! So these are general loose guidelines! Not hard rules tho, we will get there when we get there!!!
 
+# Contents
+- [Engines](#engines)
+- [Modding](#modding)
 
 ### Engines
-- [Base Friday Night Funkin' aka Vanilla](https://github.com/FunkinCrew/funkin) - The original open source game engine by The Funkin' Crew.
+- [Base Friday Night Funkin' aka Vanilla](https://github.com/FunkinCrew/funkin) - The original open source game by The Funkin' Crew.
 
 ### Modding
 - [GameBanana](https://gamebanana.com/games/8694) - GameBanana hosts a buncho damn mods and stuff
