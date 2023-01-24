@@ -98,6 +98,7 @@ Unsure what to contribute? A good place to start is this repository's [Issues ta
 ## Charting
 - [ArrowVortex](https://arrowvortex.ddrnl.com/) - Create or edit stepfiles for various rhythm games, such as DDR (Dance Dance Revolution), ITG (In The Groove), PIU (Pump It Up), StepMania and osu! (it also includes Funkin' lol)
 - [fnf-to-sm](https://github.com/Ashen-Haze/fnf-to-sm) - A fork of a [fork](https://github.com/KadeDev/fnf-to-sm) from the original [fnf-to-sm repository](https://github.com/shockdude/fnf-to-sm). Converts Funkin' .json charts to StepMania simfiles and vice versa.
+  - Alternatively, using [version 1.7 of Kade Engine](https://github.com/KadeDev/Kade-Engine/releases/tag/1.7) also has a simfile to .json converter (and vice versa), however, it might be slower.
 
 ## Modding
 - [GameBanana](https://gamebanana.com/games/8694) - GameBanana hosts a buncho damn mods and stuff
