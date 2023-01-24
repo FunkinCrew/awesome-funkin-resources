@@ -10,7 +10,7 @@ This will hopefully be a nice, catchall place for nearly damn everything Friday 
 > I will host this on the FunkinCrew github page, and upload it to the FNF website, but otherwise, I will say if there's dedicated people around, I'm willing to let some trusted individuals who are much more in touch than me to keep things around here nice and pleasant and a nice resource that doesn't get too outdated!
 > -*signed ninjamuffin99*
 
->some of these resources i stole from /funkg/... lol!!! 
+>some of these resources i stole from /funkg/... lol i hope u rascals over there dont mind!!!! 
 
 Furthur reading:
 - [The Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md) (bit of inspiration behind this)
@@ -21,7 +21,8 @@ Furthur reading:
 - [Composing](#composing)
 - [Programming](#programming)
   - [Engines](#engines)
-  - [Modding](#modding)
+  - [Haxe/HaxeFlixel Resources](#haxehaxeflixel-resources)
+- [Modding](#modding)
 
 ## Animation
 - [Phantom Arcade Teaching Animation](https://youtu.be/bLqTpYNZ1C4) - Youtube VOD of PhantomArcade, Funkin' Crew lead, teaching his ways of flash animation
@@ -40,9 +41,12 @@ Furthur reading:
 - [PsychEngine](https://github.com/ShadowMario/FNF-PsychEngine)
 - [Funkin' Forever Engine](https://github.com/BeastlyGabi/Funkin-Forever-Engine)
 
-### Modding
-- [GameBanana](https://gamebanana.com/games/8694) - GameBanana hosts a buncho damn mods and stuff
-
 ### Haxe/HaxeFlixel Resources
 - [Haxe introduction](https://haxe.org/manual/introduction.html)
 - [HaxeFlixel snippets]([https://haxe.org/manual/introduction.html](https://snippets.haxeflixel.com/))
+
+## Modding
+- [GameBanana](https://gamebanana.com/games/8694) - GameBanana hosts a buncho damn mods and stuff
+- [Funkipedia](https://funkinchan.club/wiki/Main_Page) - /funkg/ Mod wiki
+
+
