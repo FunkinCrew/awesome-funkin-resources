@@ -61,6 +61,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 
 ### Haxe/HaxeFlixel Resources
 - [Haxe introduction](https://haxe.org/manual/introduction.html) - Introductory Haxe documentation
+- [HaxeFlixel Introduction](https://haxeflixel.com/documentation/) - HaxeFlixel Documentation
 - [HaxeFlixel snippets](https://snippets.haxeflixel.com/) - Snippets of HaxeFlixel code with live demos to explain their functionality 
 - [HaxeFlixel Cheat Sheet](https://haxeflixel.com/documentation/cheat-sheet/) - Series of code examples and mini tutorials for common uses of HaxeFlixel 
 
