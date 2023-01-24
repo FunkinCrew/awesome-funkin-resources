@@ -42,10 +42,10 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 ## Programming
 ### Engines
 - [Base Friday Night Funkin' aka Vanilla](https://github.com/FunkinCrew/funkin) - The original open source game by The Funkin' Crew.
-- [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine)
-- [Funkin' Forever Engine](https://github.com/BeastlyGabi/Funkin-Forever-Engine)
-- [Codename Engine](https://github.com/YoshiCrafter29/CodenameEngine)
-- [FNF LÖVE](https://github.com/Stilic/FNF-LOVE)
+- [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine) - A modification of base game intended to make mod loading and creation much more accessible without modifying the base game source code by adding Lua support, external characters and other nifty features. Has a large amount of documentation and guides.
+- [Funkin' Forever Engine](https://github.com/BeastlyGabi/Funkin-Forever-Engine) - A modification of base game with an emphasis on performance and gameplay, though has a higher skill floor to use effectively.
+- [Codename Engine](https://github.com/YoshiCrafter29/CodenameEngine) - A modification of base game which lets you use HScript (Haxe Script) to make mods without modifying the base source code. Similar toolset to Psych.
+- [FNF LÖVE](https://github.com/Stilic/FNF-LOVE) - A Lua recreation of FNF within the LÖVE2D engine.
 - [PSXFunkin](https://github.com/cuckydev/PSXFunkin) - PSXFunkin, a Playstation 1 demake in C/C++
 
 ### Haxe/HaxeFlixel Resources
