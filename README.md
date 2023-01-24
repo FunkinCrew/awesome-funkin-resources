@@ -43,6 +43,7 @@ Furthur reading:
 - [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine)
 - [Funkin' Forever Engine](https://github.com/BeastlyGabi/Funkin-Forever-Engine)
 - [Codename Engine](https://github.com/YoshiCrafter29/CodenameEngine)
+- [FNF LÖVE](https://github.com/Stilic/FNF-LOVE)
 
 ### Haxe/HaxeFlixel Resources
 - [Haxe introduction](https://haxe.org/manual/introduction.html)
