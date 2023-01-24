@@ -10,14 +10,31 @@ This will hopefully be a nice, catchall place for nearly damn everything Friday 
 > I will host this on the FunkinCrew github page, and upload it to the FNF website, but otherwise, I will say if there's dedicated people around, I'm willing to let some trusted individuals who are much more in touch than me to keep things around here nice and pleasant and a nice resource that doesn't get too outdated!
 > -*signed ninjamuffin99*
 
+>some of these resources i stole from /funkg/... lol!!! 
+
 Furthur reading:
 - [The Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md) (bit of inspiration behind this)
 - [Awesome lists contributing guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md) (again, it's main inspiration to this! So these are general loose guidelines! Not hard rules tho, we will get there when we get there!!!
 
 # Contents
-- [Engines](#engines)
-- [Modding](#modding)
+- [Animation](#animation)
+- [Composing](#composing)
+- [Programming](#programming)
+  - [Engines](#engines)
+  - [Modding](#modding)
 
+## Animation
+- [Phantom Arcade Teaching Animation](https://youtu.be/bLqTpYNZ1C4) - Youtube VOD of PhantomArcade, Funkin' Crew lead, teaching his ways of flash animation
+- [Frames to Symbol Flash Plugin](https://mega.nz/file/2fx1waBD#YJT5ooKfZ4-wjibIEhglRcxsq7QM6f_zx9JjcXLcVx0)
+
+## Composing
+- [Stems & Chromatic Scales](https://drive.google.com/drive/folders/1XndrqjB48K3HTj0V3l0HSUGtCttRfiH9) - Officially released stems of Friday Night Funkin' music by Kawaisprite
+- [How to Mimic Boyfriend's Voice](https://youtu.be/YOrC9uQiK00)
+- Chromatic Scale Guides
+  - [How to MAKE CHROMATICS (Friday Night Funkin) - bbpanzu](https://www.youtube.com/watch?v=a7SGu1fNthc)
+  - [EASY FNF chromatic guide! (Friday Night Funkin') - StickyBM](https://youtu.be/PlSh_LJwQD0)
+
+## Programming
 ### Engines
 - [Base Friday Night Funkin' aka Vanilla](https://github.com/FunkinCrew/funkin) - The original open source game by The Funkin' Crew.
 
