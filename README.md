@@ -1,4 +1,4 @@
-# Funkin' Resources
+# funkin-resources
 Various community curated resources for the game Friday Night Funkin', by The Funkin' Crew Inc.
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md) 
