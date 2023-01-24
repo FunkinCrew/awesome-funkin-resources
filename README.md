@@ -17,7 +17,7 @@ Further reading:
 - [Awesome lists contributing guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md) (again, it's main inspiration to this! So these are general loose guidelines! Not hard rules tho, we will get there when we get there!!!
 - [The Funkin' Blog](https://funkincrew.github.io/funkBlog/blog/) - self plug a bit, also dunno where to put this right now, the FNF weekly devblog. Maybe we add a section around here core dev team? is that too self indulgent? lol?
 
-Unsure what to contribute? Check out the issue labeled as `good first issue` in the [GitHub Issues tab](https://github.com/FunkinCrew/funkin-resources/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)!
+Unsure what to contribute? A good place to start is this repository's [Issues tab](https://github.com/FunkinCrew/funkin-resources/issues)!
 
 # Contents
 - [Animation](#animation)
