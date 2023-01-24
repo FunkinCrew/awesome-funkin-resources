@@ -69,6 +69,7 @@ Unsure what to contribute? A good place to start is this repository's [Issues ta
 
 #### Engine Documentation
 - [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine/wiki) - Psych Engine modding documentation (sorta outdated).
+  - In *addition*, you can look/follow [*this*](https://github.com/CaptainBaldi/PsychRewrittenWiki/wiki) updated Psych wiki by [CaptainBaldi](https://github.com/CaptainBaldi) and contributors.
 - [Codename Engine](https://github.com/YoshiCrafter29/CodenameEngine/wiki) - Codename Engine modding documenation.
 
 #### Bonus
