@@ -64,12 +64,13 @@ Unsure what to contribute? A good place to start is this repository's [Issues ta
 - [CrowEngine](https://github.com/EyeDaleHim/CrowEngine) - modified version of base Funkin' that has been rebuilt to include comprehensive documentation for modding and to introduce new features.
 - Andromeda Engine - Andromeda Engine is a fork of Friday Night Funkin' with customization and gameplay in mind.
   - Has two available versions: [Legacy (more feature rich)](https://github.com/nebulazorua/andromeda-engine-legacy) and [2.0](https://github.com/nebulazorua/andromeda-2.0).
+  - **NOTE: Andromeda 2.0 is in HEAVY development and is in a very early alpha stage**.
 - [FNF-Benjine](https://github.com/this-is-bennyk/FNF-Benjine) - Funkin' but in Godot, made by [BennyK](https://github.com/this-is-bennyk) and was used for [Funkin' VR](https://github.com/this-is-bennyk/Funkin-VR).
 - [FPS Plus](https://github.com/ThatRozebudDude/FPS-Plus-Public) - A fork of Funkin', as the name suggests, higher framerate, better input system, rebindable keys and more. [B-Side Redux](https://gamebanana.com/mods/42724) was made on this engine.
 
 #### Engine Documentation
 - [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine/wiki) - Psych Engine modding documentation (sorta outdated).
-  - In *addition*, you can look/follow [*this*](https://github.com/CaptainBaldi/PsychRewrittenWiki/wiki) updated Psych wiki by [CaptainBaldi](https://github.com/CaptainBaldi) and contributors.
+  - *Alternatively*, a more up-to-date Psych wiki exists, made by [CaptainBaldi](https://github.com/CaptainBaldi) and contributors, which you can view [here](https://github.com/CaptainBaldi/PsychRewrittenWiki/wiki).
 - [Codename Engine](https://github.com/YoshiCrafter29/CodenameEngine/wiki) - Codename Engine modding documenation.
 
 #### Bonus
