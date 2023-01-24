@@ -43,7 +43,7 @@ Furthur reading:
 
 ### Haxe/HaxeFlixel Resources
 - [Haxe introduction](https://haxe.org/manual/introduction.html)
-- [HaxeFlixel snippets]([https://haxe.org/manual/introduction.html](https://snippets.haxeflixel.com/))
+- [HaxeFlixel snippets](https://snippets.haxeflixel.com/)
 
 ## Modding
 - [GameBanana](https://gamebanana.com/games/8694) - GameBanana hosts a buncho damn mods and stuff
