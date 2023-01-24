@@ -68,6 +68,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 ### Visual Studio Code
 - Visual Studio Code is highly recommended, as it is the only integrated development environment (IDE) with proper support for Haxe (via extensions).
 - [Enable VSCode Debug Tools](https://twitter.com/EliteMasterEric/status/1535814918917734400) - A Twitter thread made by EliteMasterEric showing useful tips and tricks for Visual Studio Code.
+- If you're using Psych Engine, you can use [Funkin' Script AutoComplete](https://github.com/Snirozu/Funkin-Script-AutoComplete) that will auto complete functions, variables etc. in your Lua script.
 
 ## Modding
 - [GameBanana](https://gamebanana.com/games/8694) - GameBanana hosts a buncho damn mods and stuff
