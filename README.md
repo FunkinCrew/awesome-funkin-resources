@@ -56,12 +56,6 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 - [Funkin' Android](https://github.com/luckydog7/Funkin-android) - A fork of the game with controls and optimizations allowing it to be played on Android devices.
 - [PSXFunkin](https://github.com/cuckydev/PSXFunkin) - A Playstation 1 de-make in C/C++
 
-
-### Haxe/HaxeFlixel Resources
-- [Haxe introduction](https://haxe.org/manual/introduction.html)
-- [HaxeFlixel snippets](https://snippets.haxeflixel.com/)
-- [HaxeFlixel Cheat Sheet](https://haxeflixel.com/documentation/cheat-sheet/)
-
 ### Visual Studio Code
 - Visual Studio Code is highly recommended, as it is the only integrated development environment (IDE) with proper support for Haxe (via extensions).
 - [Enable VSCode Debug Tools](https://twitter.com/EliteMasterEric/status/1535814918917734400)
