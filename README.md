@@ -24,6 +24,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 - [Composing](#composing)
 - [Programming](#programming)
   - [Engines](#engines)
+  - [Building, Source Code Guides and Documentation](#building-source-code-guides-and-documentation)
   - [Haxe/HaxeFlixel Resources](#haxehaxeflixel-resources)
   - [Visual Studio Code](#visual-studio-code)
 - [Charting](#charting)
