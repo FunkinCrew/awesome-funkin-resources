@@ -23,6 +23,7 @@ Furthur reading:
 - [Programming](#programming)
   - [Engines](#engines)
   - [Haxe/HaxeFlixel Resources](#haxehaxeflixel-resources)
+  - [Visual Studio Code](#visual-studio-code)
 - [Modding](#modding)
 
 ## Animation
