@@ -44,8 +44,9 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 
 - Chromatic Scale Guides
   - [How to MAKE CHROMATICS (Friday Night Funkin) - bbpanzu](https://www.youtube.com/watch?v=a7SGu1fNthc)
-  - [EASY FNF chromatic guide! (Friday Night Funkin') - StickyBM](https://youtu.be/PlSh_LJwQD0)
+  - [EASY FNF chromatic guide! (Friday Night Funkin') - HowToAvenge101](https://youtu.be/FJdSgnp9YlM)
   - [How to make FNF Chromatics in Ableton - LongestSoloEver](https://www.youtube.com/watch?v=QCA6-N-pW_0)
+  - [MELODYNE FNF CHROMATIC SCALE TUTORIAL - Emihead](https://www.youtube.com/watch?v=MSAmOhJVRLw)
 
 ## Programming
 ### Engines
