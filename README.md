@@ -97,4 +97,5 @@ Unsure what to contribute? Check out the issue that is tagged with `good first i
 - [/funkg/pedia](https://funkinchan.club/wiki/Main_Page) - /funkg/ mod wiki.
 
 ### Modding Tutorials
+- [Psych Engine Mod Installing Tutorial](https://www.youtube.com/watch?v=S-vC_kaWLPo&feature=youtu.be) - Shows you how to install mod packages within Psych Engine's `mods/` folder.
 - [LongestSoloEver's Modding Tutorials](https://www.youtube.com/playlist?list=PLfb6KneL63QuD0T0lolMvkQPQM7ZPjy9n) - A series of tutorials going over how to make mods in its entirety.
