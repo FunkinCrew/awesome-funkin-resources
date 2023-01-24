@@ -56,6 +56,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 - [FNF LÖVE](https://github.com/Stilic/FNF-LOVE) - A Lua recreation of FNF within the LÖVE2D engine.
 - [Funkin' Android](https://github.com/luckydog7/Funkin-android) - A fork of the game with controls and optimizations allowing it to be played on Android devices.
 - [PSXFunkin](https://github.com/cuckydev/PSXFunkin) - A Playstation 1 de-make in C/C++
+- [Altronix Engine](https://github.com/Altronix-Team/FNF-AltronixEngine) - An engine that based on Kade Engine. The most important difference between this engine and the rest is the support for creating localizations into different languages. All this is done thanks to the firetongue library. Also engine provides HScript modding support in the form of Polymod hscript classes or small script files with a lot of callbacks. Engine has modding support using last version of polymod and integration with GameJolt. From the rest, the engine has various editors created for the convenience of modding, such as a character editor, a list of songs in the freeplay menu, a list of weeks and songs in them, and many others (Not all of them aviable right now). 
 
 
 ### Haxe/HaxeFlixel Resources
