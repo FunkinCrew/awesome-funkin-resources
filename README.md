@@ -59,9 +59,9 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 - [Enable VSCode Debug Tools](https://twitter.com/EliteMasterEric/status/1535814918917734400)
 
 ### Haxe/HaxeFlixel Resources
-- [Haxe introduction](https://haxe.org/manual/introduction.html)
-- [HaxeFlixel snippets](https://snippets.haxeflixel.com/)
-- [HaxeFlixel Cheat Sheet](https://haxeflixel.com/documentation/cheat-sheet/)
+- [Haxe introduction](https://haxe.org/manual/introduction.html) - Introductory Haxe documentation
+- [HaxeFlixel snippets](https://snippets.haxeflixel.com/) - Snippets of HaxeFlixel code with live demos to explain their functionality 
+- [HaxeFlixel Cheat Sheet](https://haxeflixel.com/documentation/cheat-sheet/) - Series of code examples and mini tutorials for common uses of HaxeFlixel 
 
 ### Visual Studio Code
 - [Enable VSCode Debug Tools](https://twitter.com/EliteMasterEric/status/1535814918917734400)
