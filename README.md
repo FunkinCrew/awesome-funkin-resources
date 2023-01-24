@@ -27,6 +27,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
   - [Haxe/HaxeFlixel Resources](#haxehaxeflixel-resources)
   - [Visual Studio Code](#visual-studio-code)
 - [Modding](#modding)
+  - [Engine Documentation](#engine-documentation)
 
 ## Animation
 - [Phantom Arcade Teaching Animation](https://youtu.be/bLqTpYNZ1C4) - Youtube VOD of PhantomArcade, Funkin' Crew lead, teaching his ways of flash animation
@@ -48,7 +49,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 
 ## Programming
 ### Engines
-- [Base Friday Night Funkin' aka Vanilla](https://github.com/FunkinCrew/funkin) - The original open source game by The Funkin' Crew.
+- [Base Friday Night Funkin' aka. Vanilla](https://github.com/FunkinCrew/funkin) - The original open source game by The Funkin' Crew.
 - [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine) - A fork of base game which includes new quality-of-life changes, performance improvements, and Lua-based mod tools. Popular and well-documented. Famous mods built with it include Hazy River and Whitty: Definitive Edition.
 - [Funkin' Forever Engine](https://github.com/BeastlyGabi/Funkin-Forever-Engine) - An archive of a rewrite of the game, originally written by Yoshubs. Includes performance reworks, HScript support, and more. Famous mods built with it include Hypno's Lullaby v2 and Mario Bros Funk Mix.
 - [Codename Engine](https://github.com/YoshiCrafter29/CodenameEngine) - A fork of base game which provides full HScript (Haxe Script) modding support without modifying the base source code, along with new editor interfaces and other improvments.
@@ -58,21 +59,13 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 
 
 ### Haxe/HaxeFlixel Resources
-- [Haxe introduction](https://haxe.org/manual/introduction.html)
-- [HaxeFlixel snippets](https://snippets.haxeflixel.com/)
-- [HaxeFlixel Cheat Sheet](https://haxeflixel.com/documentation/cheat-sheet/)
-
-### Visual Studio Code
-- Visual Studio Code is highly recommended, as it is the only integrated development environment (IDE) with proper support for Haxe (via extensions).
-- [Enable VSCode Debug Tools](https://twitter.com/EliteMasterEric/status/1535814918917734400)
-
-### Haxe/HaxeFlixel Resources
 - [Haxe introduction](https://haxe.org/manual/introduction.html) - Introductory Haxe documentation
 - [HaxeFlixel snippets](https://snippets.haxeflixel.com/) - Snippets of HaxeFlixel code with live demos to explain their functionality 
 - [HaxeFlixel Cheat Sheet](https://haxeflixel.com/documentation/cheat-sheet/) - Series of code examples and mini tutorials for common uses of HaxeFlixel 
 
 ### Visual Studio Code
-- [Enable VSCode Debug Tools](https://twitter.com/EliteMasterEric/status/1535814918917734400)
+- Visual Studio Code is highly recommended, as it is the only integrated development environment (IDE) with proper support for Haxe (via extensions).
+- [Enable VSCode Debug Tools](https://twitter.com/EliteMasterEric/status/1535814918917734400) - A Twitter thread made by EliteMasterEric showing useful tips and tricks for Visual Studio Code.
 
 ## Modding
 - [GameBanana](https://gamebanana.com/games/8694) - GameBanana hosts a buncho damn mods and stuff
@@ -81,3 +74,8 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 - [/funkg/pedia](https://funkinchan.club/wiki/Main_Page) - /funkg/ Mod wiki
 - [Psych Engine Mod Installing Tutorial](https://youtu.be/S-vC_kaWLPo) - Simple tutorial to install Psych Engine mods
 - [LongestSoloEver's Modding Tutorials](https://www.youtube.com/playlist?list=PLfb6KneL63QuD0T0lolMvkQPQM7ZPjy9n) - A series of tutorials going over how to make mods in its entirety.
+
+### Engine Documentation
+  - [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine/wiki) - Psych Engine Modding documentation
+  - [Codename Engine](https://github.com/YoshiCrafter29/CodenameEngine/wiki) - Codename Engine Modding documenation
+
