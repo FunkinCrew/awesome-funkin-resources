@@ -37,6 +37,12 @@ Furthur reading:
 ## Programming
 ### Engines
 - [Base Friday Night Funkin' aka Vanilla](https://github.com/FunkinCrew/funkin) - The original open source game by The Funkin' Crew.
+- [PsychEngine](https://github.com/ShadowMario/FNF-PsychEngine)
+- [Funkin' Forever Engine](https://github.com/BeastlyGabi/Funkin-Forever-Engine)
 
 ### Modding
 - [GameBanana](https://gamebanana.com/games/8694) - GameBanana hosts a buncho damn mods and stuff
+
+### Haxe/HaxeFlixel Resources
+- [Haxe introduction](https://haxe.org/manual/introduction.html)
+- [HaxeFlixel snippets]([https://haxe.org/manual/introduction.html](https://snippets.haxeflixel.com/))
