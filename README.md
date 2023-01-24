@@ -39,19 +39,20 @@ Furthur reading:
 ## Programming
 ### Engines
 - [Base Friday Night Funkin' aka Vanilla](https://github.com/FunkinCrew/funkin) - The original open source game by The Funkin' Crew.
-- [PsychEngine](https://github.com/ShadowMario/FNF-PsychEngine)
+- [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine)
 - [Funkin' Forever Engine](https://github.com/BeastlyGabi/Funkin-Forever-Engine)
 - [Codename Engine](https://github.com/YoshiCrafter29/CodenameEngine)
 
 ### Haxe/HaxeFlixel Resources
 - [Haxe introduction](https://haxe.org/manual/introduction.html)
 - [HaxeFlixel snippets](https://snippets.haxeflixel.com/)
-- [Haxeflixel Cheat Sheet](https://haxeflixel.com/documentation/cheat-sheet/)
+- [HaxeFlixel Cheat Sheet](https://haxeflixel.com/documentation/cheat-sheet/)
 
 ### Visual Studio Code
 - [Enable VSCode Debug Tools](https://twitter.com/EliteMasterEric/status/1535814918917734400)
 
 ## Modding
 - [GameBanana](https://gamebanana.com/games/8694) - GameBanana hosts a buncho damn mods and stuff
+- [Gamejolt](https://gamejolt.com/c/fnf) - Another highly used host for mods.
 - [Funkipedia Mods Wiki](https://fridaynightfunking.fandom.com/wiki/Funkipedia_Mods_Wiki)
 - [/funkg/pedia](https://funkinchan.club/wiki/Main_Page) - /funkg/ Mod wiki
