@@ -44,6 +44,7 @@ Furthur reading:
 - [Funkin' Forever Engine](https://github.com/BeastlyGabi/Funkin-Forever-Engine)
 - [Codename Engine](https://github.com/YoshiCrafter29/CodenameEngine)
 - [FNF LÖVE](https://github.com/Stilic/FNF-LOVE)
+- [PSXFunkin](https://github.com/cuckydev/PSXFunkin) - PSXFunkin, a Playstation 1 demake in C/C++
 
 ### Haxe/HaxeFlixel Resources
 - [Haxe introduction](https://haxe.org/manual/introduction.html)
