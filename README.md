@@ -63,8 +63,10 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
   - **NOTE: Andromeda 2.0 is in HEAVY development and is in a very early alpha stage**.
 - [FNF-Benjine](https://github.com/this-is-bennyk/FNF-Benjine) - Funkin' but in Godot, made by [BennyK](https://github.com/this-is-bennyk) and was used for [Funkin' VR](https://github.com/this-is-bennyk/Funkin-VR).
 - [FPS Plus](https://github.com/ThatRozebudDude/FPS-Plus-Public) - A fork of Funkin', as the name suggests, higher framerate, better input system, rebindable keys and more. [B-Side Redux](https://gamebanana.com/mods/42724) was made on this engine.
-- [Forever Engine Feather](https://github.com/Pluma-Team/Forever-Engine-Feather) - A fork of Forever Engine, that includes all of its features, a scripting system based on HScript, called SScript, reorganized codebase, an events system based off of Hypno's Lullaby v2 and fully softcoded weeks and characters.
-
+- [Forever Engine Feather](https://github.com/Pluma-Team/Forever-Engine-Feather) - A fork of Forever Engine, that includes all of its features, a scripting system based on HScript, called [SScript](https://github.com/TheWorldMachinima/SScript), reorganized codebase, an events system based off of Hypno's Lullaby v2 and fully softcoded weeks and characters.
+- [Funkin Cocoa](https://github.com/TheWorldMachinima/FunkinCocoa) - A rewrite of base game (Psych 0.4). Aims to be as customizable as possible. Supports advanced HScript scripting using [SScript](https://github.com/TheWorldMachinima/SScript).
+  - **NOTE: Currently in development, lacks stability**
+ 
 [FNF-NewgroundsPort](https://github.com/AngelDTF/FNF-NewgroundsPort) - Rebuild of Funkin' 0.2.8 via reverse engineering.
 
 ### Building, Source Code Guides and Documentation
