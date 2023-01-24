@@ -46,6 +46,7 @@ Furthur reading:
 ### Haxe/HaxeFlixel Resources
 - [Haxe introduction](https://haxe.org/manual/introduction.html)
 - [HaxeFlixel snippets](https://snippets.haxeflixel.com/)
+- [Haxeflixel Cheat Sheet](https://haxeflixel.com/documentation/cheat-sheet/)
 
 ### Visual Studio Code
 - [Enable VSCode Debug Tools](https://twitter.com/EliteMasterEric/status/1535814918917734400)
