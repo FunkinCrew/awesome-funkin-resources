@@ -42,11 +42,20 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 ## Programming
 ### Engines
 - [Base Friday Night Funkin' aka Vanilla](https://github.com/FunkinCrew/funkin) - The original open source game by The Funkin' Crew.
-- [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine) - A modification of base game intended to make mod loading and creation much more accessible without modifying the base game source code by adding Lua support, external characters and other nifty features. Has a large amount of documentation and guides.
-- [Funkin' Forever Engine](https://github.com/BeastlyGabi/Funkin-Forever-Engine) - A modification of base game with an emphasis on performance and gameplay, though has a higher skill floor to use effectively.
-- [Codename Engine](https://github.com/YoshiCrafter29/CodenameEngine) - A modification of base game which lets you use HScript (Haxe Script) to make mods without modifying the base source code. Similar toolset to Psych.
+- [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine) - A fork of base game which includes new quality-of-life changes, performance improvements, and Lua-based mod tools. Popular and well-documented. Famous mods built with it include Hazy River and Whitty: Definitive Edition.
+- [Funkin' Forever Engine](https://github.com/BeastlyGabi/Funkin-Forever-Engine) - An archive of a rewrite of the game, originally written by Yoshubs. Includes performance reworks, HScript support, and more. Famous mods built with it include Hypno's Lullaby v2 and Mario Bros Funk Mix.
+- [Codename Engine](https://github.com/YoshiCrafter29/CodenameEngine) - A fork of base game which provides full HScript (Haxe Script) modding support without modifying the base source code, along with new editor interfaces and other improvments.
 - [FNF LÖVE](https://github.com/Stilic/FNF-LOVE) - A Lua recreation of FNF within the LÖVE2D engine.
-- [PSXFunkin](https://github.com/cuckydev/PSXFunkin) - PSXFunkin, a Playstation 1 demake in C/C++
+- [PSXFunkin](https://github.com/cuckydev/PSXFunkin) - A Playstation 1 de-make in C/C++
+
+### Haxe/HaxeFlixel Resources
+- [Haxe introduction](https://haxe.org/manual/introduction.html)
+- [HaxeFlixel snippets](https://snippets.haxeflixel.com/)
+- [HaxeFlixel Cheat Sheet](https://haxeflixel.com/documentation/cheat-sheet/)
+
+### Visual Studio Code
+- Visual Studio Code is highly recommended, as it is the only integrated development environment (IDE) with proper support for Haxe (via extensions).
+- [Enable VSCode Debug Tools](https://twitter.com/EliteMasterEric/status/1535814918917734400)
 
 ### Haxe/HaxeFlixel Resources
 - [Haxe introduction](https://haxe.org/manual/introduction.html)
