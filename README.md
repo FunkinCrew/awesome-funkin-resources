@@ -1,0 +1,2 @@
+# funkin-resources
+FRIDAY NIGHT FUNKIN' RESOURCES AND STUFF
