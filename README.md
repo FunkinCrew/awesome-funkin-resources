@@ -51,7 +51,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 ## Programming
 ### Engines
 - [Friday Night Funkin'](https://github.com/FunkinCrew/funkin) - The original open source game by The Funkin' Crew.
-- [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine) - A fork of base game which includes new quality-of-life changes, performance improvements, and Lua-based mod tools. Popular and well-documented. Famous mods built with it include Hazy River and Whitty: Definitive Edition.
+- [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine) - A fork of base game which includes new quality-of-life changes, performance improvements, and Lua-based mod tools. Popular and well-documented. 
 - [Forever Engine](https://github.com/BeastlyGabi/Funkin-Forever-Engine) - An archive of a rewrite of the game, originally written by Yoshubs. Includes performance reworks, HScript support, and more.
 - [Codename Engine](https://github.com/YoshiCrafter29/CodenameEngine) - A fork of base game which provides full HScript (Haxe Script) modding support without modifying the base source code, along with new editor interfaces and other improvments.
 - [FNF LÖVE](https://github.com/Stilic/FNF-LOVE) - A Lua recreation of FNF within the LÖVE2D engine.
