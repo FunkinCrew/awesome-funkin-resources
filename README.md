@@ -47,8 +47,10 @@ Furthur reading:
 - [Haxe introduction](https://haxe.org/manual/introduction.html)
 - [HaxeFlixel snippets](https://snippets.haxeflixel.com/)
 
+### Visual Studio Code
+- [Enable VSCode Debug Tools](https://twitter.com/EliteMasterEric/status/1535814918917734400)
+
 ## Modding
 - [GameBanana](https://gamebanana.com/games/8694) - GameBanana hosts a buncho damn mods and stuff
-- [Funkipedia](https://funkinchan.club/wiki/Main_Page) - /funkg/ Mod wiki
-
-
+- [Funkipedia Mods Wiki](https://fridaynightfunking.fandom.com/wiki/Funkipedia_Mods_Wiki)
+- [/funkg/pedia](https://funkinchan.club/wiki/Main_Page) - /funkg/ Mod wiki
