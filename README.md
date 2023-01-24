@@ -29,9 +29,6 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 - [Charting](#charting)
 - [Modding](#modding)
   - [Modding Tutorials](#modding-tutorials)
-- [Bonus](#bonus)
-  - [Engine Documentation](#engine-documentation)
-  - [Other Resources](#other-resources)
 
 ## Animation
 - [Phantom Arcade Teaching Animation](https://youtu.be/bLqTpYNZ1C4) - YouTube VOD of PhantomArcade, Funkin' Crew lead, teaching his ways of Flash animation.
@@ -70,6 +67,14 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 - [FPS Plus](https://github.com/ThatRozebudDude/FPS-Plus-Public) - A fork of Funkin', as the name suggests, higher framerate, better input system, rebindable keys and more. [B-Side Redux](https://gamebanana.com/mods/42724) was made on this engine.
 - [Forever Engine Feather](https://github.com/Pluma-Team/Forever-Engine-Feather) - A fork of Forever Engine, that includes all of its features, a scripting system based on HScript, called SScript, reorganized codebase, an events system based off of Hypno's Lullaby v2 and fully softcoded weeks and characters.
 
+[FNF-NewgroundsPort](https://github.com/AngelDTF/FNF-NewgroundsPort) - Rebuild of Funkin' 0.2.8 via reverse engineering.
+
+### Building, Source Code Guides and Documentation
+- [Source Code Guide | OVERHAUL](https://gamebanana.com/tuts/13798) - That one famous GameBanana compile guide. Also includes tutorials, like adding songs, custom characters, etc. (**was originally targeted towards Funkin' 0.2.7.1**)
+- [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine/wiki) - Psych Engine modding documentation (sorta outdated).
+  - *Alternatively*, a more up-to-date Psych wiki exists, made by [CaptainBaldi](https://github.com/CaptainBaldi) and contributors, which you can view [here](https://github.com/CaptainBaldi/PsychRewrittenWiki/wiki).
+- [Codename Engine](https://github.com/YoshiCrafter29/CodenameEngine/wiki) - Codename Engine modding documenation.
+
 ### Haxe/HaxeFlixel Resources
 - [Haxe - Introduction](https://haxe.org/manual/introduction.html) - Introductory Haxe documentation.
 - [HaxeFlixel - Introduction](https://haxeflixel.com/documentation/) - HaxeFlixel Documentation
@@ -100,14 +105,3 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 ### Modding Tutorials
 - [Psych Engine Mod Installing Tutorial](https://www.youtube.com/watch?v=S-vC_kaWLPo&feature=youtu.be) - Shows you how to install mod packages within Psych Engine's `mods/` folder.
 - [LongestSoloEver's Modding Tutorials](https://www.youtube.com/playlist?list=PLfb6KneL63QuD0T0lolMvkQPQM7ZPjy9n) - A series of tutorials going over how to make mods in its entirety.
-
-## Bonus
-### Engine Documentation
-- [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine/wiki) - Psych Engine modding documentation (sorta outdated).
-  - *Alternatively*, a more up-to-date Psych wiki exists, made by [CaptainBaldi](https://github.com/CaptainBaldi) and contributors, which you can view [here](https://github.com/CaptainBaldi/PsychRewrittenWiki/wiki).
-- [Codename Engine](https://github.com/YoshiCrafter29/CodenameEngine/wiki) - Codename Engine modding documenation.
-
-### Other Resources
-- [Source Code Guide | OVERHAUL](https://gamebanana.com/tuts/13798) - That one famous GameBanana compile guide. Also includes tutorials, like adding songs, custom characters, etc. (**was originally targeted towards Funkin' 0.2.7.1**)
-
-[FNF-NewgroundsPort](https://github.com/AngelDTF/FNF-NewgroundsPort) - Rebuild of Funkin' 0.2.8 via reverse engineering.
