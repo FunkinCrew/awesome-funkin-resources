@@ -61,3 +61,4 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 - [Gamejolt](https://gamejolt.com/c/fnf) - Another highly used host for mods.
 - [Funkipedia Mods Wiki](https://fridaynightfunking.fandom.com/wiki/Funkipedia_Mods_Wiki)
 - [/funkg/pedia](https://funkinchan.club/wiki/Main_Page) - /funkg/ Mod wiki
+- [Psych Engine Mod Installing Tutorial](https://youtu.be/S-vC_kaWLPo) - Simple tutorial to install Psych Engine mods
