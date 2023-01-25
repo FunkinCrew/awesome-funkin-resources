@@ -89,6 +89,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 - [FPS Plus](https://github.com/ThatRozebudDude/FPS-Plus-Public) - A fork of Funkin', as the name suggests, higher framerate, better input system, rebindable keys and more. [B-Side Redux](https://gamebanana.com/mods/42724) was made on this engine.
 - [FNF-NewgroundsPort](https://github.com/AngelDTF/FNF-NewgroundsPort) - Rebuild of Funkin' 0.2.8 via reverse engineering.
 - [Edak Engine](https://github.com/Skullbite/Edak-Engine) - A fork of Kade Engine, with HScript support, softcoding, cleaner file system, configurable weeks and more. It also comes with B-Side Remixes Legacy's assets.
+- [PydayNightFunkin](https://github.com/Square789/PydayNightFunkin) - A recreation of FNF in Python, allowing for quick changeability! Tries to be painlessly readable and is somewhat documented.
 
 ### Building, Source Code Guides and Documentation
 - [Source Code Guide | OVERHAUL](https://gamebanana.com/tuts/13798) - That one famous GameBanana compile guide. Also includes tutorials, like adding songs, custom characters, etc. (**originally targeted towards Funkin' 0.2.7.1**)
