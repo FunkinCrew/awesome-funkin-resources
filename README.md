@@ -69,6 +69,8 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
   - [Chromatic scale tutorial gone wrong | How I make my chromatic scales - Milk](https://www.youtube.com/watch?v=VmkFOPAcKbg) (basically how to make chromatics in GarageBand)
   - [shitty ass chrom tutorial because i hit 400 subs - VinceS](https://youtu.be/D4jWnvAEkhk) - Makes the volumes of each sample the same (or close to the same).
   - [sampling shit for your fnf chromatics tutorial - VinceS](https://youtu.be/JzKr6xFAWMA) - Shows how to sample videos to make chromatic scales of different characters. (Also works with Melodyne)
+  - [Zero's Chromatic Scale Tutorial](https://www.youtube.com/watch?v=tDxsPa-21PQ&t) 
+    - Shows useful shortcuts in Fl Studio for making chromatics easier.
 ### Soundfont Guides
   - [how to make soundfonts for fnf using chromatic scales - HowToAvenge101](https://youtu.be/QmcU9Bh6jUQ)
 
