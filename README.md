@@ -66,6 +66,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
   - [Chromatic scale tutorial gone wrong | How I make my chromatic scales - Milk](https://www.youtube.com/watch?v=VmkFOPAcKbg) (basically how to make chromatics in GarageBand)
   - [How I make My FNF Chromatics | 1000 Sub Special PT 1 - Agentsecret24](https://youtu.be/-Jq8cilS6No)
     - Makes it so that the pitch of the chromatic and the sample work independantly of eachother.
+  - [Chromatic scale tutorial gone wrong | How I make my chromatic scales - Milk](https://www.youtube.com/watch?v=VmkFOPAcKbg) (basically how to make chromatics in GarageBand)
 ### Soundfont Guides
   - [how to make soundfonts for fnf using chromatic scales - HowToAvenge101](https://youtu.be/QmcU9Bh6jUQ)
 
@@ -76,8 +77,9 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 - [Forever Engine](https://github.com/BeastlyGabi/Funkin-Forever-Engine) - An archived rewrite of the game, originally written by Yoshubs. Includes performance reworks, HScript support, and more.
 - [Forever Engine Feather](https://github.com/Pluma-Team/Forever-Engine-Feather) - A fork of Forever Engine, that includes all of its features, a scripting system based on HScript, called SScript, reorganized codebase, an events system based off of Hypno's Lullaby v2 and fully softcoded weeks and characters.
 - [Codename Engine](https://github.com/YoshiCrafter29/CodenameEngine) - A fork of base game that provides full HScript support for advanced softcoding, along with sorted and half rewritten source for optimisation and ease of use.
-- [FNF LÖVE](https://github.com/Stilic/FNF-LOVE) - A Lua recreation of FNF within the LÖVE2D engine.
+- [FNF LÖVE](https://github.com/Stilic/FNF-LOVE) - A Lua recreation of FNF within the LÖVE2D engine. Can compile for Nintendo Switch Homebrew.
 - [Funkin' Android](https://github.com/luckydog7/Funkin-android) - A fork of the game with controls and optimizations allowing it to be played on Android devices.
+- [FNF Pocket Engine](https://gamebanana.com/mods/406483) - An engine optimized for and Android phone, ironically based on the "FNF MOBILE" rip-offs in the Play Store
 - [FunkiniOS](https://github.com/hadobedo/FunkiniOS) - A port of FNF to iOS devices, requires sideloading (thank god for the EU regulations)
 - [PSXFunkin](https://github.com/cuckydev/PSXFunkin) - A Playstation 1 de-make in C/C++
 - [BovoVevo's Kade Engine](https://github.com/BoloVEVO/Kade-Engine-Public) - A fork of Kade Engine that fixes all the bugs and includes new content.
