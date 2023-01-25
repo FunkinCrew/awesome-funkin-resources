@@ -124,4 +124,5 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 ### Modding Tutorials
 - [Psych Engine Mod Installing Tutorial](https://www.youtube.com/watch?v=S-vC_kaWLPo&feature=youtu.be) - Shows you how to install mod packages within Psych Engine's `mods/` folder.
 - [LongestSoloEver's Modding Tutorials](https://www.youtube.com/playlist?list=PLfb6KneL63QuD0T0lolMvkQPQM7ZPjy9n) - A series of tutorials going over how to make mods in its entirety.
-- [BBPanzu's Psych Tutorial](https://youtu.be/qxMyoudrFPs) - A long tutorial video that teaches you in detail how to use Psych Engine and it's features (as of Oct 2021).
+- [BBPanzu's Psych Tutorial](https://youtu.be/qxMyoudrFPs) - A long tutorial video that teaches you in detail how to use Psych Engine and it's features (as of Oct 2021, some things might be outdated).
+- [Catbrother Everything's Psych Engine Modding Series](https://youtube.com/playlist?list=PL60i09WIEpP2W3SS0ObJFWcFOyxk-xMRx) - A series of tutorial videos teaching you how to use Psych Engine (as of Jan 2023, currently completely up-to-date)
