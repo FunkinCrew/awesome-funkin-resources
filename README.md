@@ -51,7 +51,6 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 ## Programming
 ### Engines
 - [Base Friday Night Funkin' aka. Vanilla](https://github.com/FunkinCrew/funkin) - The original open source game by The Funkin' Crew.
-- [Kade Engine](https://gamebanana.com/mods/44291) - The first(?) custom engine, originally used in the [Vs. Whitty FULL WEEK](https://gamebanana.com/mods/44214) to "fix" the input system. (Engine has since then become kind of outdated, just use Psyche engine please I'm begging you). [GitHub Source.](https://github.com/KadeDev/Kade-Engine)
 - [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine) - A fork of base game which includes new quality-of-life changes, performance improvements, and Lua-based mod tools. Popular and well-documented. Famous mods built with it include Hazy River and Whitty: Definitive Edition.
 - [Funkin' Forever Engine](https://github.com/BeastlyGabi/Funkin-Forever-Engine) - An archive of a rewrite of the game, originally written by Yoshubs. Includes performance reworks, HScript support, and more. Famous mods built with it include Hypno's Lullaby v2 and Mario Bros Funk Mix.
 - [Codename Engine](https://github.com/YoshiCrafter29/CodenameEngine) - A fork of base game which provides full HScript (Haxe Script) modding support without modifying the base source code, along with new editor interfaces and other improvments.
@@ -83,5 +82,3 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 ### Engine Documentation
   - [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine/wiki) - Psych Engine Modding documentation
   - [Codename Engine](https://github.com/YoshiCrafter29/CodenameEngine/wiki) - Codename Engine Modding documenation
-  - [Kade Engine](https://github.com/KadeDev/Kade-Engine/wiki) - Kade Engine Modchart documentaion
-
