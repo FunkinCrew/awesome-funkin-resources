@@ -69,6 +69,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
   - [how to make soundfonts for fnf using chromatic scales - HowToAvenge101](https://youtu.be/QmcU9Bh6jUQ)
 
 ## Programming
+- [Funkin' Bounties](https://github.com/FunkinCrew/funkinBounties) - Official board for programming tasks with cash bounties for those who complete them.
 ### Engines
 - [Friday Night Funkin'](https://github.com/FunkinCrew/funkin) - The original open source game by The Funkin' Crew.
 - [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine) - A fork of base game which includes new quality-of-life changes, performance improvements, and Lua-based mod tools. Popular and well-documented. 
