@@ -44,6 +44,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 - [How to make 3D Friday Night Funkin Sprites (USING BLENDER) - Stupid Waluigi](https://youtu.be/fAuD_54Euq0)
 - [Asperite](https://www.aseprite.org/) - Animated Sprite Editor & Pixel Art Tool
   - [Asperite JSON to XML](https://github.com/MaybeMaru/Aseprite-JSON-to-XML) - Converter from Asperite's JSON format to XML that is compatible with Funkin'.
+- [Animate Archive](https://animatearchive.neocities.org/?home) - An archive of old versions of Flash/Animate. This is the only legal way to get these old programs to my knowledge.
 ### Spritesheet Generation
 - [FNF Spritesheet and XML Maker](https://github.com/UncertainProd/FnF-Spritesheet-and-XML-Maker) - Combines individual frames together into spritesheets for FNF, and helps you manage animations.
 - [Free Texture Packer](http://free-tex-packer.com/) - Combines individual frames together into spritesheets. Has options to remove duplicate frames and rearrange frames to minimize texture size. Make sure to select `Starling` as the output format.
