@@ -35,6 +35,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 - [Modding](#modding)
   - [Modding Tutorials](#modding-tutorials)
 
+
 ## Animation
 - [Phantom Arcade Teaching Animation](https://youtu.be/bLqTpYNZ1C4) - YouTube VOD of PhantomArcade, Funkin' Crew lead, teaching his ways of Flash animation.
 - [Frames to Symbol Flash Plugin](https://mega.nz/file/2fx1waBD#YJT5ooKfZ4-wjibIEhglRcxsq7QM6f_zx9JjcXLcVx0)
@@ -49,6 +50,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 - [Free Texture Packer](http://free-tex-packer.com/) - Combines individual frames together into spritesheets. Has options to remove duplicate frames and rearrange frames to minimize texture size. Make sure to select `Starling` as the output format.
 - [oxipng](https://github.com/shssoichiro/oxipng) - Simple program for general image optimization but also works nicely with FNF Sprite Sheets
 - [compresspng](https://compresspng.com/) - Website for general image optimization, compresses a little more than oxipng
+
 
 ## Composing
 - [Stems & Chromatic Scales](https://drive.google.com/drive/folders/1XndrqjB48K3HTj0V3l0HSUGtCttRfiH9) - Officially released stems of Friday Night Funkin' music by Kawaisprite.
@@ -72,39 +74,44 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
     - Shows useful shortcuts in Fl Studio for making chromatics easier.
   - [how to make soundfonts for fnf using chromatic scales - HowToAvenge101](https://youtu.be/QmcU9Bh6jUQ)
 
+
 ## Programming
-### Engines
-- [Friday Night Funkin'](https://github.com/FunkinCrew/funkin) - The original open source game by The Funkin' Crew.
+- [Friday Night Funkin' Official Source Code](https://github.com/FunkinCrew/funkin) - The original open source game by The Funkin' Crew. Last updated for Week 6.
+### Engines and Forks
 - [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine) - A fork of base game which includes new quality-of-life changes, performance improvements, and Lua-based mod tools. Popular and well-documented. 
+  - [Psych Engine Docs](https://github.com/ShadowMario/FNF-PsychEngine/wiki) - Psych Engine modding documentation (sorta outdated).
+  - *Alternatively*, a more up-to-date Psych wiki exists, made by [CaptainBaldi](https://github.com/CaptainBaldi) and contributors, which you can view [here](https://github.com/CaptainBaldi/PsychRewrittenWiki/wiki).
+  - [Funkin Cocoa](https://github.com/TheWorldMachinima/FunkinCocoa) - A rewrite of base game (Psych 0.4). Aims to be as customizable as possible. Supports advanced HScript scripting using [SScript](https://github.com/TheWorldMachinima/SScript).
+- [Kade Engine](https://github.com/kadedev/kade-engine) - A legacy engine which includes new features and quality of life fixes, targeted at pro rhythm game players. Officially deprecated.
+  - [BovoVevo's Kade Engine](https://github.com/BoloVEVO/Kade-Engine-Public) - A fork of Kade Engine that fixes all the bugs and includes new content.
+    - [BoloVEVO's Kade Engine Docs](https://github.com/BoloVEVO/Kade-Engine-Public/wiki) - Kade Engine Fork modding documentation.
+  - [Edak Engine](https://github.com/Skullbite/Edak-Engine) - A fork of Kade Engine, with HScript support, softcoding, cleaner file system, configurable weeks and more. It also comes with B-Side Remixes Legacy's assets.
+    - [Edak Engine Docs](https://github.com/Skullbite/Edak-Engine/wiki) - Edak Engine modding documentation.
 - [Forever Engine](https://github.com/BeastlyGabi/Funkin-Forever-Engine) - An archived rewrite of the game, originally written by Yoshubs. Includes performance reworks, HScript support, and more.
-- [Forever Engine Feather](https://github.com/Pluma-Team/Forever-Engine-Feather) - A fork of Forever Engine, that includes all of its features, a scripting system based on HScript, called SScript, reorganized codebase, an events system based off of Hypno's Lullaby v2 and fully softcoded weeks and characters.
+  - [Forever Engine Feather](https://github.com/Pluma-Team/Forever-Engine-Feather) - A fork of Forever Engine, that includes all of its features, a scripting system based on HScript, called SScript, reorganized codebase, an events system based off of Hypno's Lullaby v2 and fully softcoded weeks and characters.
 - [Codename Engine](https://github.com/YoshiCrafter29/CodenameEngine) - A fork of base game that provides full HScript support for advanced softcoding, along with sorted and half rewritten source for optimisation and ease of use.
+  - [Codename Engine Docs](https://github.com/YoshiCrafter29/CodenameEngine/wiki) - Codename Engine modding documenation.
+- [Andromeda Engine Legacy](https://github.com/nebulazorua/andromeda-engine-legacy) - Fork of Funkin' with customization and gameplay in mind.
+  - [Andromeda Engine Docs](https://github.com/nebulazorua/andromeda-engine-legacy/wiki) - Andromeda Engine (LEGACY) Modchart API documentation.
+  - [Andromeda 2.0](https://github.com/nebulazorua/andromeda-2.0) **NOTE: Andromeda 2.0 is in HEAVY development and is in a very early alpha stage**.
+- [FPS Plus](https://github.com/ThatRozebudDude/FPS-Plus-Public) - A fork of Funkin', as the name suggests, higher framerate, better input system, rebindable keys and more. [B-Side Redux](https://gamebanana.com/mods/42724) was made on this engine.
+- [Altronix Engine](https://github.com/Altronix-Team/FNF-AltronixEngine) - An engine that provides the support for creating localizations into different languages and HScript modding support with Polymod HScript classes and small script files. Also engine has integration with GameJolt with achievements.
+- [FNF-NewgroundsPort](https://github.com/AngelDTF/FNF-NewgroundsPort) - Rebuild of Funkin' 0.2.8 via reverse engineering.
+- [CrowEngine](https://github.com/EyeDaleHim/CrowEngine) - modified version of base Funkin' that has been rebuilt to include comprehensive documentation for modding and to introduce new features.
+### Rewrites and Ports
 - [FNF LÖVE](https://github.com/Stilic/FNF-LOVE) - A Lua recreation of FNF within the LÖVE2D engine. Can compile for Nintendo Switch Homebrew.
+- [FNF-Benjine](https://github.com/this-is-bennyk/FNF-Benjine) - Funkin' but in Godot, made by [BennyK](https://github.com/this-is-bennyk) and was used for [Funkin' VR](https://github.com/this-is-bennyk/Funkin-VR).
+  - [FNF-Benjine Docs](https://github.com/this-is-bennyk/FNF-Benjine/wiki) - Godot Funkin' modding documentation.
+- [PydayNightFunkin](https://github.com/Square789/PydayNightFunkin) - A recreation of FNF in Python, allowing for quick changeability! Tries to be painlessly readable and is somewhat documented.
 - [Funkin' Android](https://github.com/luckydog7/Funkin-android) - A fork of the game with controls and optimizations allowing it to be played on Android devices.
 - [FNF Pocket Engine](https://gamebanana.com/mods/406483) - An engine optimized for and Android phone, ironically based on the "FNF MOBILE" rip-offs in the Play Store
 - [FunkiniOS](https://github.com/hadobedo/FunkiniOS) - A port of FNF to iOS devices, requires sideloading (thank god for the EU regulations)
 - [PSXFunkin](https://github.com/cuckydev/PSXFunkin) - A Playstation 1 de-make in C/C++
-- [BovoVevo's Kade Engine](https://github.com/BoloVEVO/Kade-Engine-Public) - A fork of Kade Engine that fixes all the bugs and includes new content.
-- [Altronix Engine](https://github.com/Altronix-Team/FNF-AltronixEngine) - An engine that provides the support for creating localizations into different languages and HScript modding support with Polymod HScript classes and small script files. Also engine has integration with GameJolt with achievements.
-- [CrowEngine](https://github.com/EyeDaleHim/CrowEngine) - modified version of base Funkin' that has been rebuilt to include comprehensive documentation for modding and to introduce new features.
-- [Andromeda Engine Legacy](https://github.com/nebulazorua/andromeda-engine-legacy) and [Andromeda 2.0](https://github.com/nebulazorua/andromeda-2.0) - Forks of Funkin' with customization and gameplay in mind.
-  - **NOTE: Andromeda 2.0 is in HEAVY development and is in a very early alpha stage**.
-- [FNF-Benjine](https://github.com/this-is-bennyk/FNF-Benjine) - Funkin' but in Godot, made by [BennyK](https://github.com/this-is-bennyk) and was used for [Funkin' VR](https://github.com/this-is-bennyk/Funkin-VR).
-- [FPS Plus](https://github.com/ThatRozebudDude/FPS-Plus-Public) - A fork of Funkin', as the name suggests, higher framerate, better input system, rebindable keys and more. [B-Side Redux](https://gamebanana.com/mods/42724) was made on this engine.
-- [FNF-NewgroundsPort](https://github.com/AngelDTF/FNF-NewgroundsPort) - Rebuild of Funkin' 0.2.8 via reverse engineering.
-- [Edak Engine](https://github.com/Skullbite/Edak-Engine) - A fork of Kade Engine, with HScript support, softcoding, cleaner file system, configurable weeks and more. It also comes with B-Side Remixes Legacy's assets.
-- [PydayNightFunkin](https://github.com/Square789/PydayNightFunkin) - A recreation of FNF in Python, allowing for quick changeability! Tries to be painlessly readable and is somewhat documented.
-
-### Building, Source Code Guides and Documentation
+### Visual Studio Code
+- [Visual Studio Code](https://code.visualstudio.com/) is highly recommended, as it is the only integrated development environment (IDE) with proper support for Haxe (via extensions).
+  - [Enable VSCode Debug Tools](https://twitter.com/EliteMasterEric/status/1535814918917734400) - A Twitter thread made by EliteMasterEric showing useful tips and tricks for Visual Studio Code.
+- [Funkin' Script AutoComplete](https://github.com/Snirozu/Funkin-Script-AutoComplete) - A Visual Studio Code extension for Psych Engine you can use that will auto complete functions, variables etc. in your Lua script.
 - [Source Code Guide | OVERHAUL](https://gamebanana.com/tuts/13798) - That one famous GameBanana compile guide. Also includes tutorials, like adding songs, custom characters, etc. (**originally targeted towards Funkin' 0.2.7.1**)
-- [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine/wiki) - Psych Engine modding documentation (sorta outdated).
-  - *Alternatively*, a more up-to-date Psych wiki exists, made by [CaptainBaldi](https://github.com/CaptainBaldi) and contributors, which you can view [here](https://github.com/CaptainBaldi/PsychRewrittenWiki/wiki).
-- [Codename Engine](https://github.com/YoshiCrafter29/CodenameEngine/wiki) - Codename Engine modding documenation.
-- [BoloVEVO's Kade Engine](https://github.com/BoloVEVO/Kade-Engine-Public/wiki) - Kade Engine Fork modding documentation.
-- [Andromeda Engine](https://github.com/nebulazorua/andromeda-engine-legacy/wiki) - Andromeda Engine (LEGACY) Modchart API documentation.
-- [FNF-Benjine](https://github.com/this-is-bennyk/FNF-Benjine/wiki) - Godot Funkin' modding documentation.
-- [Edak Engine](https://github.com/Skullbite/Edak-Engine/wiki) - Edak Engine modding documentation.
-
 ### Haxe/HaxeFlixel Resources
 - [Haxe - Introduction](https://haxe.org/manual/introduction.html) - Introductory Haxe documentation.
 - [HaxeFlixel - Introduction](https://haxeflixel.com/documentation/) - HaxeFlixel Documentation
@@ -117,10 +124,6 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
   - [GitHub source code for TurnBasedRPG](https://github.com/HaxeFlixel/flixel-demos/tree/dev/Tutorials/TurnBasedRPG).
 - [Online HaxeFlixel crash course](https://youtube.com/playlist?list=PLiKs97d-BatFGPrkf7yNN0e6IyToRaaYO) - A HaxeFlixel crash course on YouTube made by Richard Oliver Bray.
 
-### Visual Studio Code
-- [Visual Studio Code](https://code.visualstudio.com/) is highly recommended, as it is the only integrated development environment (IDE) with proper support for Haxe (via extensions).
-  - [Enable VSCode Debug Tools](https://twitter.com/EliteMasterEric/status/1535814918917734400) - A Twitter thread made by EliteMasterEric showing useful tips and tricks for Visual Studio Code.
-- [Funkin' Script AutoComplete](https://github.com/Snirozu/Funkin-Script-AutoComplete) - A Visual Studio Code extension for Psych Engine you can use that will auto complete functions, variables etc. in your Lua script.
 
 ## Charting
 - [ArrowVortex](https://arrowvortex.ddrnl.com/) - Create or edit stepfiles for various rhythm games, such as [DDR (Dance Dance Revolution)](https://www.ddrgame.com/), [ITG (In The Groove)](https://en.wikipedia.org/wiki/In_the_Groove_(video_game)), [PIU (Pump It Up)](https://www.piugame.com/piu.xx/), [StepMania](https://www.stepmania.com/) and [osu!](https://osu.ppy.sh/home)
@@ -129,21 +132,14 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
   - You can also use [SM-to-FNF-Dance-Double](https://github.com/tzheng22/SM-to-FNF-Dance-Double) which has the added benefit of supporting sm file BPM Changes (also designed to work with Psych Engine)
 - [SNIFF - SiIva Note Importer for FNF](https://github.com/PrincessMtH/SNIFF) - Tool to convert charts made in FL Studio to .json files usable in Friday Night Funkin'.
 
+
 ## Modding
 - [GameBanana](https://gamebanana.com/games/8694) - GameBanana hosts a buncho damn mods and stuff
 - [GameJolt](https://gamejolt.com/c/fnf) - Another highly used host for mods.
 - [Funkipedia Mods Wiki](https://fridaynightfunking.fandom.com/wiki/Funkipedia_Mods_Wiki) - Information about most mods for Funkin'.
 - [/funkg/pedia](https://funkinchan.club/wiki/Main_Page) - /funkg/ mod wiki.
-
 ### Modding Tutorials
 - [Psych Engine Mod Installing Tutorial](https://www.youtube.com/watch?v=S-vC_kaWLPo&feature=youtu.be) - Shows you how to install mod packages within Psych Engine's `mods/` folder.
 - [LongestSoloEver's Modding Tutorials](https://www.youtube.com/playlist?list=PLfb6KneL63QuD0T0lolMvkQPQM7ZPjy9n) - A series of tutorials going over how to make mods in its entirety.
-<<<<<<< HEAD
 - [BBPanzu's Psych Tutorial](https://youtu.be/qxMyoudrFPs) - A long tutorial video that teaches you in detail how to use Psych Engine and it's features (as of Oct 2021, some things might be outdated).
 - [Catbrother Everything's Psych Engine Modding Series](https://youtube.com/playlist?list=PL60i09WIEpP2W3SS0ObJFWcFOyxk-xMRx) - A series of tutorial videos teaching you how to use Psych Engine (as of Jan 2023, currently completely up-to-date)
-=======
-
-### Engine Documentation
-  - [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine/wiki) - Psych Engine Modding documentation
-  - [Codename Engine](https://github.com/YoshiCrafter29/CodenameEngine/wiki) - Codename Engine Modding documenation
->>>>>>> stuff
