@@ -22,6 +22,8 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 # Contents
 - [Animation](#animation)
 - [Composing](#composing)
+  - [Chromatic Scale Guides](#chromatic-scale-guides)
+  - [Soundfont Guides](#soundfont-guides)
 - [Programming](#programming)
   - [Engines](#engines)
   - [Building, Source Code Guides and Documentation](#building-source-code-guides-and-documentation)
