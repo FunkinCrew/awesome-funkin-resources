@@ -67,6 +67,8 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
   - [Chromatic scale tutorial gone wrong | How I make my chromatic scales - Milk](https://www.youtube.com/watch?v=VmkFOPAcKbg) (basically how to make chromatics in GarageBand)
   - [How I make My FNF Chromatics | 1000 Sub Special PT 1 - Agentsecret24](https://youtu.be/-Jq8cilS6No)
     - Makes it so that the pitch of the chromatic and the sample work indipendantly of eachother.
+  - [Zero's Chromatic Scale Tutorial](https://www.youtube.com/watch?v=tDxsPa-21PQ&t) 
+    - Shows useful shortcuts in Fl Studio for making chromatics easier.
 ### Soundfont Guides
   - [how to make soundfonts for fnf using chromatic scales - HowToAvenge101](https://youtu.be/QmcU9Bh6jUQ)
 
