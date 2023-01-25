@@ -85,6 +85,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 - [FPS Plus](https://github.com/ThatRozebudDude/FPS-Plus-Public) - A fork of Funkin', as the name suggests, higher framerate, better input system, rebindable keys and more. [B-Side Redux](https://gamebanana.com/mods/42724) was made on this engine.
 - [Forever Engine Feather](https://github.com/Pluma-Team/Forever-Engine-Feather) - A fork of Forever Engine, that includes all of its features, a scripting system based on HScript, called SScript, reorganized codebase, an events system based off of Hypno's Lullaby v2 and fully softcoded weeks and characters.
 - [FunkiniOS](https://github.com/hadobedo/FunkiniOS) - A port of FNF to iOS devices, requires sideloading (thank god for the EU regulations)
+- [PydayNightFunkin](https://github.com/Square789/PydayNightFunkin) - A recreation of FNF in Python, allowing for quick changeability! Tries to be painlessly readable and is somewhat documented.
 
 [FNF-NewgroundsPort](https://github.com/AngelDTF/FNF-NewgroundsPort) - Rebuild of Funkin' 0.2.8 via reverse engineering.
 
