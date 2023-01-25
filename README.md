@@ -41,8 +41,9 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 - [Base Game FLAs](https://github.com/FunkinCrew/Funkin/tree/master/art/flashFiles) - FLAs for Friday Night' Funkin from the GitHub repository.
 - [Week 7 Update FLAs](https://twitter.com/PhantomArcade3K/status/1521540912421257218?t=d-5HJP_pckMFDngInzoOzQ&s=19) - FLAs for the Week 7 update including the stage, Tankman and cutscenes.
 - [The ULTIMATE Guide to ADOBE ANIMATE CC! (AKA Flash) - Tutorial](https://youtu.be/3iXSQ8VcPcU) - 6 year old Animate/Flash tutorial by [Jazza](https://www.youtube.com/@Jazza), has extra links in the description for more tutorials for each section. (pretty long too, yeesh, 2 hours almost!)
-### Spritesheet Generation
 - [How to make 3D Friday Night Funkin Sprites (USING BLENDER) - Stupid Waluigi](https://youtu.be/fAuD_54Euq0)
+- [Asperite](https://www.aseprite.org/) - Animated Sprite Editor & Pixel Art Tool
+  - [Asperite JSON to XML](https://github.com/MaybeMaru/Aseprite-JSON-to-XML) - Converter from Asperite's JSON format to XML that is compatible with Funkin'.
 ### Spritesheet Generation
 - [FNF Spritesheet and XML Maker](https://github.com/UncertainProd/FnF-Spritesheet-and-XML-Maker) - Combines individual frames together into spritesheets for FNF, and helps you manage animations.
 - [Free Texture Packer](http://free-tex-packer.com/) - Combines individual frames together into spritesheets. Has options to remove duplicate frames and rearrange frames to minimize texture size. Make sure to select `Starling` as the output format.
@@ -56,6 +57,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 - [Writing Vocal Duets - LongestSoloEver](https://www.youtube.com/watch?v=nDPpO4fLiAM) - A beginner-friendly guide to writing duets in a Friday Night Funkin' song.
 - [6 Reasons your FNF Music Sucks - LongestSoloEver](https://www.youtube.com/watch?v=kela6mWtIlU) - Common mistakes when writing songs for FNF. Also a bit of hyperbole along the way.
 - [FNF Music Tutorial Playlist - LongestSoloEver](https://www.youtube.com/playlist?list=PLfb6KneL63QsQ58tj-RkDCHRmheAofPJj) - A playlist with all of LongestSoloEver's guides to writing FNF music (except the 2 listed above for some reason).
+- [Saruky's Google Doc that includes various plugins, VSTs and other FLStudio stuff that she uses](https://docs.google.com/document/d/1wva21t4HHb8nIK71KqAXQxHTl9IXU-dEH8g249SdHWo/edit) - You can find Saruky [here](https://twitter.com/Saruky__).
 ### Chromatic Scale Guides
   - [How to MAKE CHROMATICS (Friday Night Funkin) - bbpanzu](https://www.youtube.com/watch?v=a7SGu1fNthc)
   - [EASY FNF chromatic guide! (Friday Night Funkin') - StickyBM](https://youtu.be/PlSh_LJwQD0)
