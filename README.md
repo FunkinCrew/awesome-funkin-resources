@@ -127,6 +127,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 - [ArrowVortex](https://arrowvortex.ddrnl.com/) - Create or edit stepfiles for various rhythm games, such as [DDR (Dance Dance Revolution)](https://www.ddrgame.com/), [ITG (In The Groove)](https://en.wikipedia.org/wiki/In_the_Groove_(video_game)), [PIU (Pump It Up)](https://www.piugame.com/piu.xx/), [StepMania](https://www.stepmania.com/) and [osu!](https://osu.ppy.sh/home)
 - [fnf-to-sm](https://github.com/Ashen-Haze/fnf-to-sm) - A fork of a [fork](https://github.com/KadeDev/fnf-to-sm) from the original [fnf-to-sm repository](https://github.com/shockdude/fnf-to-sm). Converts Funkin' .json charts to StepMania simfiles and vice versa.
   - Alternatively, using [version 1.7 of Kade Engine](https://github.com/KadeDev/Kade-Engine/releases/tag/1.7) also has a simfile to .json converter.
+  - You can also use [SM-to-FNF-Dance-Double](https://github.com/tzheng22/SM-to-FNF-Dance-Double) which has the added benefit of supporting sm file BPM Changes (also designed to work with Psych Engine)
 - [SNIFF - SiIva Note Importer for FNF](https://github.com/PrincessMtH/SNIFF) - Tool to convert charts made in FL Studio to .json files usable in Friday Night Funkin'.
 - [SM-to-FNF-Dance-Double](https://github.com/tzheng22/SM-to-FNF-Dance-Double), an alternative to fnf-to-sm that supports BPM changes
 
