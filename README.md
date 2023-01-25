@@ -43,7 +43,6 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 - [The ULTIMATE Guide to ADOBE ANIMATE CC! (AKA Flash) - Tutorial](https://youtu.be/3iXSQ8VcPcU) - 6 year old Animate/Flash tutorial by [Jazza](https://www.youtube.com/@Jazza), has extra links in the description for more tutorials for each section. (pretty long too, yeesh, 2 hours almost!)
 ### Spritesheet Generation
 - [How to make 3D Friday Night Funkin Sprites (USING BLENDER) - Stupid Waluigi](https://youtu.be/fAuD_54Euq0)
-### Spritesheet Generation
 - [FNF Spritesheet and XML Maker](https://github.com/UncertainProd/FnF-Spritesheet-and-XML-Maker) - Combines individual frames together into spritesheets for FNF, and helps you manage animations.
 - [Free Texture Packer](http://free-tex-packer.com/) - Combines individual frames together into spritesheets. Has options to remove duplicate frames and rearrange frames to minimize texture size. Make sure to select `Starling` as the output format.
 ### Spritesheet Optimization
