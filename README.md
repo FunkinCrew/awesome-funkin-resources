@@ -22,6 +22,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 # Contents
 - [Animation](#animation)
   - [Spritesheet Generation](#spritesheet-generation)
+  - [Spritesheet Optimization](#spritesheet-optimization)
 - [Composing](#composing)
   - [Chromatic Scale Guides](#chromatic-scale-guides)
   - [Soundfont Guides](#soundfont-guides)
@@ -40,9 +41,12 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 - [Base Game FLAs](https://github.com/FunkinCrew/Funkin/tree/master/art/flashFiles) - FLAs for Friday Night' Funkin from the GitHub repository.
 - [Week 7 Update FLAs](https://twitter.com/PhantomArcade3K/status/1521540912421257218?t=d-5HJP_pckMFDngInzoOzQ&s=19) - FLAs for the Week 7 update including the stage, Tankman and cutscenes.
 - [The ULTIMATE Guide to ADOBE ANIMATE CC! (AKA Flash) - Tutorial](https://youtu.be/3iXSQ8VcPcU) - 6 year old Animate/Flash tutorial by [Jazza](https://www.youtube.com/@Jazza), has extra links in the description for more tutorials for each section. (pretty long too, yeesh, 2 hours almost!)
-### Spritsheet Generation
+### Spritesheet Generation
 - [FNF Spritesheet and XML Maker](https://github.com/UncertainProd/FnF-Spritesheet-and-XML-Maker) - Combines individual frames together into spritesheets for FNF, and helps you manage animations.
 - [Free Texture Packer](http://free-tex-packer.com/) - Combines individual frames together into spritesheets. Has options to remove duplicate frames and rearrange frames to minimize texture size. Make sure to select `Starling` as the output format.
+### Spritesheet Optimization
+- [oxipng](https://github.com/shssoichiro/oxipng) - Simple program for general image optimization but also works nicely with FNF Sprite Sheets
+- [compresspng](https://compresspng.com/) - Website for general image optimization, compresses a little more than oxipng
 
 ## Composing
 - [Stems & Chromatic Scales](https://drive.google.com/drive/folders/1XndrqjB48K3HTj0V3l0HSUGtCttRfiH9) - Officially released stems of Friday Night Funkin' music by Kawaisprite.
