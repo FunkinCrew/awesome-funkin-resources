@@ -42,7 +42,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 - [The ULTIMATE Guide to ADOBE ANIMATE CC! (AKA Flash) - Tutorial](https://youtu.be/3iXSQ8VcPcU) - 6 year old Animate/Flash tutorial by [Jazza](https://www.youtube.com/@Jazza), has extra links in the description for more tutorials for each section. (pretty long too, yeesh, 2 hours almost!)
 - [How to make 3D Friday Night Funkin Sprites (USING BLENDER) - Stupid Waluigi](https://youtu.be/fAuD_54Euq0)
 - [Aseprite](https://www.aseprite.org/) - Animated Sprite Editor & Pixel Art Tool
-  - [Aseprite JSON to XML](https://github.com/MaybeMaru/Aseprite-JSON-to-XML) - Converter from Asperite's JSON format to XML that is compatible with Funkin'.
+  - [Aseprite JSON to XML](https://github.com/MaybeMaru/Aseprite-JSON-to-XML) - Converter from Aseprite's JSON format to XML that is compatible with Funkin'.
 ### Spritesheet Generation
 - [FNF Spritesheet and XML Maker](https://github.com/UncertainProd/FnF-Spritesheet-and-XML-Maker) - Combines individual frames together into spritesheets for FNF, and helps you manage animations.
 - [Free Texture Packer](http://free-tex-packer.com/) - Combines individual frames together into spritesheets. Has options to remove duplicate frames and rearrange frames to minimize texture size. Make sure to select `Starling` as the output format.
