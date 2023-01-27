@@ -130,6 +130,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
   - Alternatively, using [version 1.7 of Kade Engine](https://github.com/KadeDev/Kade-Engine/releases/tag/1.7) also has a simfile to .json converter.
   - You can also use [SM-to-FNF-Dance-Double](https://github.com/tzheng22/SM-to-FNF-Dance-Double) which has the added benefit of supporting sm file BPM Changes (also designed to work with Psych Engine)
 - [SNIFF - SiIva Note Importer for FNF](https://github.com/PrincessMtH/SNIFF) - Tool to convert charts made in FL Studio to .json files usable in Friday Night Funkin'.
+- [Modchart Editor](https://gamebanana.com/tools/10566) - Tool create or edit modcharts using a visual editor. (only compatible with Psych Engine)
 
 
 ## Modding
