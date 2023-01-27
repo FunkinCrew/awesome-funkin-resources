@@ -29,6 +29,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
   - [Rewrites and Ports](#rewrites-and-ports)
   - [Haxe/HaxeFlixel Resources](#haxehaxeflixel-resources)
   - [Visual Studio Code](#visual-studio-code)
+- [Art](#art)
 - [Charting](#charting)
 - [Modding](#modding)
   - [Modding Tutorials](#modding-tutorials)
@@ -122,6 +123,10 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 - [HaxeFlixel's Tutorial Game (TurnBasedRPG)](https://haxeflixel.com/documentation/tutorial/) - A really nifty tutorial that goes step-by-step on teaching how to make a game, comes with pre-made assets for you to use as well.
   - [GitHub source code for TurnBasedRPG](https://github.com/HaxeFlixel/flixel-demos/tree/dev/Tutorials/TurnBasedRPG).
 - [Online HaxeFlixel crash course](https://youtube.com/playlist?list=PLiKs97d-BatFGPrkf7yNN0e6IyToRaaYO) - A HaxeFlixel crash course on YouTube made by Richard Oliver Bray.
+
+
+## Art
+- [FNF Logo SVG recreation](https://commons.wikimedia.org/wiki/File:FNF-Logo.svg) - Vector recreation of the FNF logo, so you can edit the shapes better and recolor it without a crappy fill bucket.
 
 
 ## Charting
