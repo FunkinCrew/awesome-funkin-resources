@@ -1,0 +1,22 @@
+name: Send the resources page to Funkin' blog site repo on deploy?
+on:
+  push
+jobs:
+  funny_issue:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        repository: 'FunkinCrew/funkBlog'
+    - run: mv README.md content/
+    - name: Pushes to main blog repo
+      uses: cpina/github-action-push-to-another-repository@main
+      env:
+        SSH_DEPLOY_KEY: ${{ secrets.SSH_DEPLOY_KEY }}
+      with:
+        source-directory: content
+        destination-github-username: 'FunkinCrew'
+        destination-repository-name: 'funkBlog'
+        user-email: 'cameron.taylor.ninja@gmail.com'
+        target-branch: master
+        target-directory: content
