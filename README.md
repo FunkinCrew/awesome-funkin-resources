@@ -23,6 +23,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 - [Animation](#animation)
   - [Spritesheet Generation](#spritesheet-generation)
 - [Composing](#composing)
+  - [Free Software for Making Music](#free-softare-for-making-music)
   - [Chromatic Scale Guides](#chromatic-scale-guides)
 - [Programming](#programming)
   - [Engines and Forks](#engines-and-forks)
@@ -58,6 +59,11 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 - [6 Reasons your FNF Music Sucks - LongestSoloEver](https://www.youtube.com/watch?v=kela6mWtIlU) - Common mistakes when writing songs for FNF. Also a bit of hyperbole along the way.
 - [FNF Music Tutorial Playlist - LongestSoloEver](https://www.youtube.com/playlist?list=PLfb6KneL63QsQ58tj-RkDCHRmheAofPJj) - A playlist with all of LongestSoloEver's guides to writing FNF music (except the 2 listed above for some reason).
 - [Saruky's Google Doc that includes various plugins, VSTs and other FL Studio stuff that she uses](https://docs.google.com/document/d/1wva21t4HHb8nIK71KqAXQxHTl9IXU-dEH8g249SdHWo/edit) - You can find Saruky [here](https://twitter.com/Saruky__).
+### Free Software for Making Music
+  - [LMMS](https://lmms.io/) - A free and open source DAW that's community-driven and has plenty of built-in synths. Available for Windows, macOS, and Linux.
+  - [SoundBridge](https://soundbridge.io/) - A free DAW in open BETA that's intended for simplicity. Available for Windows and macOS.
+  - [Waveform Free](https://www.tracktion.com/products/waveform-free) - The free version of Waveform Pro that has plenty of features for music creation. Available for Windows, macOS, and Linux (Ubuntu).
+  - [Cakewalk by Bandlab](https://www.bandlab.com/products/cakewalk) - Formerly Cakewalk Sonar, this DAW was purchased by Bandlab and became free to the public. Available for Windows only.
 ### Chromatic Scale Guides
   - [How to MAKE CHROMATICS (Friday Night Funkin) - bbpanzu](https://www.youtube.com/watch?v=a7SGu1fNthc)
   - [EASY FNF chromatic guide! (Friday Night Funkin') - StickyBM](https://youtu.be/PlSh_LJwQD0)
