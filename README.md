@@ -12,6 +12,8 @@ This will hopefully be a nice, catchall place for nearly damn everything Friday 
 
 > some of these resources i stole from /funkg/... lol [i hope u rascals over there dont mind](https://github.com/FunkinCrew/funkin-resources/blob/main/img/pic-related.png?raw=true)!!!!
 
+A website version should be on the funkin' crew website soon
+
 Further reading:
 - [The Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md) (bit of inspiration behind this)
 - [Awesome lists contributing guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md) (again, it's main inspiration to this! So these are general loose guidelines! Not hard rules tho, we will get there when we get there!!!
