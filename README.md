@@ -1,7 +1,8 @@
 # funkin-resources
 Various community curated resources for the game Friday Night Funkin', by The Funkin' Crew Inc.
 
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md) 
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 This will hopefully be a nice, catchall place for nearly damn everything Friday Night Funkin' related for fans, modders, freaks, and addicts.
 
