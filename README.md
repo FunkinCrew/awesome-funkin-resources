@@ -90,11 +90,13 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
   - [Psych Engine Docs](https://github.com/ShadowMario/FNF-PsychEngine/wiki) - Psych Engine modding documentation (sorta outdated).
   - *Alternatively*, a more up-to-date Psych wiki exists, made by [CaptainBaldi](https://github.com/CaptainBaldi) and contributors, which you can view [here](https://github.com/CaptainBaldi/PsychRewrittenWiki/wiki).
   - [Funkin Cocoa](https://github.com/TheWorldMachinima/FunkinCocoa) - A rewrite of base game (Psych 0.4). Aims to be as customizable as possible. Supports advanced HScript scripting using [SScript](https://github.com/TheWorldMachinima/SScript).
+  - [OS Engine](https://github.com/notweuz/FNF-OSEngine) - Another fork of Psych Engine that supports HScript.
 - [Kade Engine](https://github.com/kadedev/kade-engine) - A legacy engine which includes new features and quality of life fixes, targeted at pro rhythm game players. Officially deprecated.
   - [BovoVevo's Kade Engine](https://github.com/BoloVEVO/Kade-Engine-Public) - A fork of Kade Engine that fixes all the bugs and includes new content.
     - [BoloVEVO's Kade Engine Docs](https://github.com/BoloVEVO/Kade-Engine-Public/wiki) - Kade Engine Fork modding documentation.
   - [Edak Engine](https://github.com/Skullbite/Edak-Engine) - A fork of Kade Engine, with HScript support, softcoding, cleaner file system, configurable weeks and more. It also comes with B-Side Remixes Legacy's assets.
     - [Edak Engine Docs](https://github.com/Skullbite/Edak-Engine/wiki) - Edak Engine modding documentation.
+  - [Dave Engine](https://github.com/Erizur/FNF-DaveEngine) - A Kade 1.2 fork made for the Vs. Dave mod.
 - [Forever Engine](https://github.com/BeastlyGabi/Funkin-Forever-Engine) - An archived rewrite of the game, originally written by Yoshubs. Includes performance reworks, HScript support, and more.
   - [Forever Engine Feather](https://github.com/Pluma-Team/Forever-Engine-Feather) - A fork of Forever Engine, that includes all of its features, a scripting system based on HScript, called SScript, reorganized codebase, an events system based off of Hypno's Lullaby v2 and fully softcoded weeks and characters.
 - [Codename Engine](https://github.com/YoshiCrafter29/CodenameEngine) - A fork of base game that provides full HScript support for advanced softcoding, along with sorted and half rewritten source for optimisation and ease of use.
