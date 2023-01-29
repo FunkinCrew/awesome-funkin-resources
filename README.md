@@ -90,7 +90,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
   - [Psych Engine Docs](https://github.com/ShadowMario/FNF-PsychEngine/wiki) - Psych Engine modding documentation (sorta outdated).
   - *Alternatively*, a more up-to-date Psych wiki exists, made by [CaptainBaldi](https://github.com/CaptainBaldi) and contributors, which you can view [here](https://github.com/CaptainBaldi/PsychRewrittenWiki/wiki).
   - [Funkin Cocoa](https://github.com/TheWorldMachinima/FunkinCocoa) - A rewrite of base game (Psych 0.4). Aims to be as customizable as possible. Supports advanced HScript scripting using [SScript](https://github.com/TheWorldMachinima/SScript).
-  - [OS Engine](https://github.com/notweuz/FNF-OSEngine) - Another fork of Psych Engine that supports HScript.
+  - [OS Engine](https://github.com/notweuz/FNF-OSEngine) - Another fork of Psych Engine that supports HScript (UNMAINTAINED).
 - [Kade Engine](https://github.com/kadedev/kade-engine) - A legacy engine which includes new features and quality of life fixes, targeted at pro rhythm game players. Officially deprecated.
   - [BovoVevo's Kade Engine](https://github.com/BoloVEVO/Kade-Engine-Public) - A fork of Kade Engine that fixes all the bugs and includes new content.
     - [BoloVEVO's Kade Engine Docs](https://github.com/BoloVEVO/Kade-Engine-Public/wiki) - Kade Engine Fork modding documentation.
