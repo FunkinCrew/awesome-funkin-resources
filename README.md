@@ -51,6 +51,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 ### Spritesheet Generation
 - [FNF Spritesheet and XML Maker](https://github.com/UncertainProd/FnF-Spritesheet-and-XML-Maker) - Combines individual frames together into spritesheets for FNF, and helps you manage animations.
 - [Free Texture Packer](http://free-tex-packer.com/) - Combines individual frames together into spritesheets. Has options to remove duplicate frames and rearrange frames to minimize texture size. Make sure to select `Starling` as the output format.
+- [Free Online Spritesheet Maker](https://www.leshylabs.com/apps/sstool/) - Combines multiple images together into a spritesheet, an alternative to Free Texture Packer. Make sure to select `XML` as the output format.
 - [oxipng](https://github.com/shssoichiro/oxipng) - Simple program for general image optimization but also works nicely with FNF Sprite Sheets
 - [compresspng](https://compresspng.com/) - Website for general image optimization, compresses a little more than oxipng
 
