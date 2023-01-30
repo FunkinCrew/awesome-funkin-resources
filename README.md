@@ -10,7 +10,7 @@ This will hopefully be a nice, catchall place for nearly damn everything Friday 
 > I will host this on the FunkinCrew github page, and upload it to the FNF website, but otherwise, I will say if there's dedicated people around, I'm willing to let some trusted individuals who are much more in touch than me to keep things around here nice and pleasant and a nice resource that doesn't get too outdated!
 > -*signed ninjamuffin99*
 
-> some of these resources i stole from /funkg/... lol [i hope u rascals over there dont mind](https://github.com/FunkinCrew/funkin-resources/blob/main/img/pic-related.png?raw=true)!!!!
+> some of these resources i stole from /funkg/... lol [i hope u rascals over there dont mind](https://raw.githubusercontent.com/FunkinCrew/funkin-resources/main/img/pic-related.png)!!!!
 
 A website version should be on the funkin' crew website soon
 
