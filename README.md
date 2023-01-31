@@ -1,13 +1,13 @@
 # funkin-resources
-Various community-curated resources for the game Friday Night Funkin', by The Funkin' Crew Inc.
+Various community curated resources for the game Friday Night Funkin', by The Funkin' Crew Inc.
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md) 
 
 This will hopefully be a nice, catchall place for nearly damn everything Friday Night Funkin' related for fans, modders, freaks, and addicts.
 
-> I intend for this to be a bit of community-run type beat. I'll slowly find things and add them to this list, but I am not the biggest Friday Night Funkin' maniac, and not by a damn longshot!
-> The inspiration behind this list thingie is those GitHub AWESOME lists that have a billion damn resources. I'm no FNF maniac, but I think it would be nice if everything was in one place!!!
-> I will host this on the FunkinCrew GitHub page and upload it to the FNF website, but otherwise, I will say if there are dedicated people around, I'm willing to let some trusted individuals who are much more in touch than me to keep things around here nice and pleasant and a nice resource that doesn't get too outdated!
+> I intend for this to be a bit community run type beat. I'll slowly find things and add it to this list, but I am not the biggest Friday Night Funkin' maniac, and not by a damn longshot!
+> The inspiration behind this list thingie is those Github AWESOME lists that have a billion damn resources. I'm no FNF maniac, but I think it would be nice if everything was in one place!!!
+> I will host this on the FunkinCrew github page, and upload it to the FNF website, but otherwise, I will say if there's dedicated people around, I'm willing to let some trusted individuals who are much more in touch than me to keep things around here nice and pleasant and a nice resource that doesn't get too outdated!
 > -*signed ninjamuffin99*
 
 > some of these resources i stole from /funkg/... lol [i hope u rascals over there dont mind](https://raw.githubusercontent.com/FunkinCrew/funkin-resources/main/img/pic-related.png)!!!!
@@ -16,10 +16,10 @@ A website version should be on the funkin' crew website soon
 
 Further reading:
 - [The Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md) (bit of inspiration behind this)
-- [Awesome lists contributing guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md) (again, it's the main inspiration to this! So these are general loose guidelines! No hard rules tho, we will get there when we get there!!!
-- [The Funkin' Blog](https://funkincrew.github.io/funkBlog/blog/) - self-plug a bit, also dunno where to put this right now, the FNF weekly devblog. Maybe we add a section around here, core dev team? is that too self-indulgent? lol?
+- [Awesome lists contributing guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md) (again, it's main inspiration to this! So these are general loose guidelines! Not hard rules tho, we will get there when we get there!!!
+- [The Funkin' Blog](https://funkincrew.github.io/funkBlog/blog/) - self plug a bit, also dunno where to put this right now, the FNF weekly devblog. Maybe we add a section around here core dev team? is that too self indulgent? lol?
 
-Unsure what to contribute? Check out the `good first issue` [tagged GitHub issues](https://github.com/FunkinCrew/funkin-resources/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)!
+Unsure what to contribute? Check out the `good first issue` [tagged Github issues](https://github.com/FunkinCrew/funkin-resources/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)!
 
 # Contents
 - [Animation](#animation)
