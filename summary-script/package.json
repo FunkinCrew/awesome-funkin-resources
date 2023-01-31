@@ -1,0 +1,17 @@
+{
+  "name": "fnf-resource",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@octokit/plugin-throttling": "^5.0.1",
+    "@octokit/rest": "^19.0.7",
+    "string-similarity": "^4.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aurel300",
+  "license": "ISC"
+}
