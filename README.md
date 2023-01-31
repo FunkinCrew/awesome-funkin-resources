@@ -1,13 +1,13 @@
 # funkin-resources
-Various community curated resources for the game Friday Night Funkin', by The Funkin' Crew Inc.
+Various community-curated resources for the game Friday Night Funkin', by The Funkin' Crew Inc.
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md) 
 
 This will hopefully be a nice, catchall place for nearly damn everything Friday Night Funkin' related for fans, modders, freaks, and addicts.
 
-> I intend for this to be a bit community run type beat. I'll slowly find things and add it to this list, but I am not the biggest Friday Night Funkin' maniac, and not by a damn longshot!
-> The inspiration behind this list thingie is those Github AWESOME lists that have a billion damn resources. I'm no FNF maniac, but I think it would be nice if everything was in one place!!!
-> I will host this on the FunkinCrew github page, and upload it to the FNF website, but otherwise, I will say if there's dedicated people around, I'm willing to let some trusted individuals who are much more in touch than me to keep things around here nice and pleasant and a nice resource that doesn't get too outdated!
+> I intend for this to be a bit of community-run type beat. I'll slowly find things and add them to this list, but I am not the biggest Friday Night Funkin' maniac, and not by a damn longshot!
+> The inspiration behind this list thingie is those GitHub AWESOME lists that have a billion damn resources. I'm no FNF maniac, but I think it would be nice if everything was in one place!!!
+> I will host this on the FunkinCrew GitHub page and upload it to the FNF website, but otherwise, I will say if there are dedicated people around, I'm willing to let some trusted individuals who are much more in touch than me to keep things around here nice and pleasant and a nice resource that doesn't get too outdated!
 > -*signed ninjamuffin99*
 
 > some of these resources i stole from /funkg/... lol [i hope u rascals over there dont mind](https://raw.githubusercontent.com/FunkinCrew/funkin-resources/main/img/pic-related.png)!!!!
@@ -16,10 +16,10 @@ A website version should be on the funkin' crew website soon
 
 Further reading:
 - [The Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md) (bit of inspiration behind this)
-- [Awesome lists contributing guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md) (again, it's main inspiration to this! So these are general loose guidelines! Not hard rules tho, we will get there when we get there!!!
-- [The Funkin' Blog](https://funkincrew.github.io/funkBlog/blog/) - self plug a bit, also dunno where to put this right now, the FNF weekly devblog. Maybe we add a section around here core dev team? is that too self indulgent? lol?
+- [Awesome lists contributing guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md) (again, it's the main inspiration to this! So these are general loose guidelines! No hard rules tho, we will get there when we get there!!!
+- [The Funkin' Blog](https://funkincrew.github.io/funkBlog/blog/) - self-plug a bit, also dunno where to put this right now, the FNF weekly devblog. Maybe we add a section around here, core dev team? is that too self-indulgent? lol?
 
-Unsure what to contribute? Check out the `good first issue` [tagged Github issues](https://github.com/FunkinCrew/funkin-resources/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)!
+Unsure what to contribute? Check out the `good first issue` [tagged GitHub issues](https://github.com/FunkinCrew/funkin-resources/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)!
 
 # Contents
 - [Animation](#animation)
@@ -71,10 +71,10 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
   - [How to MAKE CHROMATICS (Friday Night Funkin) - bbpanzu](https://www.youtube.com/watch?v=a7SGu1fNthc)
   - [EASY FNF chromatic guide! (Friday Night Funkin') - StickyBM](https://youtu.be/PlSh_LJwQD0)
   - [How to make FNF Chromatics in Ableton - LongestSoloEver](https://www.youtube.com/watch?v=QCA6-N-pW_0)
-  - [Polyphone Soundfont Editor](https://www.polyphone-soundfonts.com/) - A soundfont editor for those who want to make music quickly using their pitched samples.
+  - [Polyphone SoundFont Editor](https://www.polyphone-soundfonts.com/) - A soundfont editor for those who want to make music quickly using their pitched samples.
   - [MELODYNE FNF CHROMATIC SCALE TUTORIAL - Emihead](https://www.youtube.com/watch?v=MSAmOhJVRLw)
   - [How I make My FNF Chromatics | 1000 Sub Special PT 1 - Agentsecret24](https://youtu.be/-Jq8cilS6No)
-    - Makes it so that the pitch of the chromatic and the sample work independantly of eachother.
+    - Makes it so that the pitch of the chromatic and the sample work independently of each other.
   - [Chromatic scale tutorial gone wrong | How I make my chromatic scales - Milk](https://www.youtube.com/watch?v=VmkFOPAcKbg) (basically how to make chromatics in GarageBand)
   - [shitty ass chrom tutorial because i hit 400 subs - VinceS](https://youtu.be/D4jWnvAEkhk) - Makes the volumes of each sample the same (or close to the same).
   - [sampling shit for your fnf chromatics tutorial - VinceS](https://youtu.be/JzKr6xFAWMA) - Shows how to sample videos to make chromatic scales of different characters. (Also works with Melodyne)
@@ -90,30 +90,30 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
   - [Psych Engine Docs](https://github.com/ShadowMario/FNF-PsychEngine/wiki) - Psych Engine modding documentation (sorta outdated).
   - *Alternatively*, a more up-to-date Psych wiki exists, made by [CaptainBaldi](https://github.com/CaptainBaldi) and contributors, which you can view [here](https://github.com/CaptainBaldi/PsychRewrittenWiki/wiki).
   - [Funkin Cocoa](https://github.com/TheWorldMachinima/FunkinCocoa) - A rewrite of base game (Psych 0.4). Aims to be as customizable as possible. Supports advanced HScript scripting using [SScript](https://github.com/TheWorldMachinima/SScript).
-- [Kade Engine](https://github.com/kadedev/kade-engine) - A legacy engine which includes new features and quality of life fixes, targeted at pro rhythm game players. Officially deprecated.
+- [Kade Engine](https://github.com/kadedev/kade-engine) - A legacy engine that includes new features and quality of life fixes, targeted at pro rhythm game players. Officially deprecated.
   - [BoloVEVO's Kade Engine](https://github.com/BoloVEVO/Kade-Engine-Public) - A fork of Kade Engine that fixes all the bugs and includes new content.
     - [BoloVEVO's Kade Engine Docs](https://github.com/BoloVEVO/Kade-Engine-Public/wiki) - Kade Engine Fork modding documentation.
-  - [Edak Engine](https://github.com/Skullbite/Edak-Engine) - A fork of Kade Engine, with HScript support, softcoding, cleaner file system, configurable weeks and more. It also comes with B-Side Remixes Legacy's assets.
+  - [Edak Engine](https://github.com/Skullbite/Edak-Engine) - A fork of Kade Engine with HScript support, softcoding, a cleaner file system, configurable weeks and more. It also comes with B-Side Remixes Legacy's assets.
     - [Edak Engine Docs](https://github.com/Skullbite/Edak-Engine/wiki) - Edak Engine modding documentation.
 - [Forever Engine](https://github.com/BeastlyGabi/Funkin-Forever-Engine) - An archived rewrite of the game, originally written by Yoshubs. Includes performance reworks, HScript support, and more.
-  - [Forever Engine Feather](https://github.com/Pluma-Team/Forever-Engine-Feather) - A fork of Forever Engine, that includes all of its features, a scripting system based on HScript, called SScript, reorganized codebase, an events system based off of Hypno's Lullaby v2 and fully softcoded weeks and characters.
+  - [Forever Engine Feather](https://github.com/Pluma-Team/Forever-Engine-Feather) - A fork of Forever Engine that includes all of its features, a scripting system based on HScript, called SScript, reorganized codebase, an events system based off of Hypno's Lullaby v2 and fully softcoded weeks and characters.
 - [Codename Engine](https://github.com/YoshiCrafter29/CodenameEngine) - A fork of base game that provides full HScript support for advanced softcoding, along with sorted and half rewritten source for optimisation and ease of use.
   - [Codename Engine Docs](https://github.com/YoshiCrafter29/CodenameEngine/wiki) - Codename Engine modding documenation.
 - [Andromeda Engine Legacy](https://github.com/nebulazorua/andromeda-engine-legacy) - Fork of Funkin' with customization and gameplay in mind.
   - [Andromeda Engine Docs](https://github.com/nebulazorua/andromeda-engine-legacy/wiki) - Andromeda Engine (LEGACY) Modchart API documentation.
   - [Andromeda 2.0](https://github.com/nebulazorua/andromeda-2.0) **NOTE: Andromeda 2.0 is in HEAVY development and is in a very early alpha stage**.
-- [FPS Plus](https://github.com/ThatRozebudDude/FPS-Plus-Public) - A fork of Funkin', as the name suggests, higher framerate, better input system, rebindable keys and more. [B-Side Redux](https://gamebanana.com/mods/42724) was made on this engine.
-- [Mic'd Up Engine](https://github.com/Verwex/Funkin-Mic-d-Up-SC) - A deprecated engine which features revamped menus, additional difficulties for base game songs, endless mode, and modifiers.
-- [Altronix Engine](https://github.com/Altronix-Team/FNF-AltronixEngine) - An engine that provides the support for creating localizations into different languages and HScript modding support with Polymod HScript classes and small script files. Also engine has integration with GameJolt with achievements.
+- [FPS Plus](https://github.com/ThatRozebudDude/FPS-Plus-Public) - A fork of Funkin', as the name suggests, with higher framerate, better input system, rebindable keys and more. [B-Side Redux](https://gamebanana.com/mods/42724) was made on this engine.
+- [Mic'd Up Engine](https://github.com/Verwex/Funkin-Mic-d-Up-SC) - A deprecated engine that features revamped menus, additional difficulties for base game songs, endless mode, and modifiers.
+- [Altronix Engine](https://github.com/Altronix-Team/FNF-AltronixEngine) - An engine that provides the support for creating localizations into different languages and HScript modding support with Polymod HScript classes and small script files. Also, engine has integration with GameJolt with achievements.
 - [FNF-NewgroundsPort](https://github.com/AngelDTF/FNF-NewgroundsPort) - Rebuild of Funkin' 0.2.8 via reverse engineering.
-- [CrowEngine](https://github.com/EyeDaleHim/CrowEngine) - modified version of base Funkin' that has been rebuilt to include comprehensive documentation for modding and to introduce new features.
+- [CrowEngine](https://github.com/EyeDaleHim/CrowEngine) - a modified version of base Funkin' that has been rebuilt to include comprehensive documentation for modding and to introduce new features.
 ### Rewrites and Ports
 - [FNF LÖVE](https://github.com/Stilic/FNF-LOVE) - A Lua recreation of FNF within the LÖVE2D engine. Can compile for Nintendo Switch Homebrew.
 - [FNF-Benjine](https://github.com/this-is-bennyk/FNF-Benjine) - Funkin' but in Godot, made by [BennyK](https://github.com/this-is-bennyk) and was used for [Funkin' VR](https://github.com/this-is-bennyk/Funkin-VR).
   - [FNF-Benjine Docs](https://github.com/this-is-bennyk/FNF-Benjine/wiki) - Godot Funkin' modding documentation.
 - [PydayNightFunkin](https://github.com/Square789/PydayNightFunkin) - A recreation of FNF in Python, allowing for quick changeability! Tries to be painlessly readable and is somewhat documented.
 - [Funkin' Android](https://github.com/luckydog7/Funkin-android) - A fork of the game with controls and optimizations allowing it to be played on Android devices.
-- [FNF Pocket Engine](https://gamebanana.com/mods/406483) - An engine optimized for and Android phone, ironically based on the "FNF MOBILE" rip-offs in the Play Store
+- [FNF Pocket Engine](https://gamebanana.com/mods/406483) - An engine optimized for an Android phone, ironically based on the "FNF MOBILE" rip-offs in the Play Store
 - [FunkiniOS](https://github.com/hadobedo/FunkiniOS) - A port of FNF to iOS devices, requires sideloading (thank god for the EU regulations)
 - [PSXFunkin](https://github.com/cuckydev/PSXFunkin) - A Playstation 1 de-make in C/C++
 ### Visual Studio Code
@@ -144,7 +144,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
   - Alternatively, using [version 1.7 of Kade Engine](https://github.com/KadeDev/Kade-Engine/releases/tag/1.7) also has a simfile to .json converter.
   - You can also use [SM-to-FNF-Dance-Double](https://github.com/tzheng22/SM-to-FNF-Dance-Double) which has the added benefit of supporting sm file BPM Changes (also designed to work with Psych Engine)
 - [SNIFF - SiIva Note Importer for FNF](https://github.com/PrincessMtH/SNIFF) - Tool to convert charts made in FL Studio to .json files usable in Friday Night Funkin'.
-- [Modchart Editor](https://gamebanana.com/tools/10566) - Tool create or edit modcharts using a visual editor. (only compatible with Psych Engine)
+- [Modchart Editor](https://gamebanana.com/tools/10566) - Tool to create or edit modcharts using a visual editor. (only compatible with Psych Engine)
 
 
 ## Modding
