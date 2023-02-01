@@ -25,7 +25,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 - [Animation](#animation)
   - [Spritesheet Generation](#spritesheet-generation)
 - [Composing](#composing)
-  - [Free Software for Making Music](#free-softare-for-making-music)
+  - [Free Software for Making Music](#free-software-for-making-music)
   - [Chromatic Scale Guides](#chromatic-scale-guides)
 - [Programming](#programming)
   - [Engines and Forks](#engines-and-forks)
@@ -107,6 +107,8 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 - [Altronix Engine](https://github.com/Altronix-Team/FNF-AltronixEngine) - An engine that provides the support for creating localizations into different languages and HScript modding support with Polymod HScript classes and small script files. Also, engine has integration with GameJolt with achievements.
 - [FNF-NewgroundsPort](https://github.com/AngelDTF/FNF-NewgroundsPort) - Rebuild of Funkin' 0.2.8 via reverse engineering.
 - [CrowEngine](https://github.com/EyeDaleHim/CrowEngine) - a modified version of base Funkin' that has been rebuilt to include comprehensive documentation for modding and to introduce new features.
+- [Modding+](https://github.com/FunkinModdingPlus/ModdingPlus) - An engine with HScript support with the intention of easy customization and enhanced gameplay options.
+  - [Disappointing Plus](https://github.com/AFunkinDisappointment/DisappointingPlus) - A fork of Modding+ with additional features such as framerate adjustment, camera movement whenever a character sings, and an improved character swap function.
 ### Rewrites and Ports
 - [FNF LÖVE](https://github.com/Stilic/FNF-LOVE) - A Lua recreation of FNF within the LÖVE2D engine. Can compile for Nintendo Switch Homebrew.
 - [FNF-Benjine](https://github.com/this-is-bennyk/FNF-Benjine) - Funkin' but in Godot, made by [BennyK](https://github.com/this-is-bennyk) and was used for [Funkin' VR](https://github.com/this-is-bennyk/Funkin-VR).
