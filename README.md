@@ -84,7 +84,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 
 
 ## Programming
-- [Friday Night Funkin' Official Source Code](https://github.com/FunkinCrew/funkin) - The original open source game by The Funkin' Crew. Last updated for Week 6.
+- [Friday Night Funkin' Official Source Code](https://github.com/FunkinCrew/funkin) - The original open source game by The Funkin' Crew. Last updated for Week 7.
 ### Engines and Forks
 - [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine) - A fork of base game which includes new quality-of-life changes, performance improvements, and Lua-based mod tools. Popular and well-documented. 
   - [Psych Engine Docs](https://github.com/ShadowMario/FNF-PsychEngine/wiki) - Psych Engine modding documentation (sorta outdated).
