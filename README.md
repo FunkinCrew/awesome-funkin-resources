@@ -116,6 +116,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 - [FNF Pocket Engine](https://gamebanana.com/mods/406483) - An engine optimized for an Android phone, ironically based on the "FNF MOBILE" rip-offs in the Play Store
 - [FunkiniOS](https://github.com/hadobedo/FunkiniOS) - A port of FNF to iOS devices, requires sideloading (thank god for the EU regulations)
 - [PSXFunkin](https://github.com/cuckydev/PSXFunkin) - A Playstation 1 de-make in C/C++
+- [Funkin' Rewritten](https://github.com/HTV04/funkin-rewritten) - A rewrite of FNF in lua very focused on optimization. Can also compile for Nintendo Switch homebrew
 ### Visual Studio Code
 - [Visual Studio Code](https://code.visualstudio.com/) is highly recommended, as it is the only integrated development environment (IDE) with proper support for Haxe (via extensions).
   - [Enable VSCode Debug Tools](https://twitter.com/EliteMasterEric/status/1535814918917734400) - A Twitter thread made by EliteMasterEric showing useful tips and tricks for Visual Studio Code.
