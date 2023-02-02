@@ -105,7 +105,6 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 - [FPS Plus](https://github.com/ThatRozebudDude/FPS-Plus-Public) - A fork of Funkin', as the name suggests, with higher framerate, better input system, rebindable keys and more. [B-Side Redux](https://gamebanana.com/mods/42724) was made on this engine.
 - [Mic'd Up Engine](https://github.com/Verwex/Funkin-Mic-d-Up-SC) - A deprecated engine that features revamped menus, additional difficulties for base game songs, endless mode, and modifiers.
 - [Altronix Engine](https://github.com/Altronix-Team/FNF-AltronixEngine) - An engine that provides the support for creating localizations into different languages and HScript modding support with Polymod HScript classes and small script files. Also, engine has integration with GameJolt with achievements.
-- [FNF-NewgroundsPort](https://github.com/AngelDTF/FNF-NewgroundsPort) - Rebuild of Funkin' 0.2.8 via reverse engineering.
 - [CrowEngine](https://github.com/EyeDaleHim/CrowEngine) - a modified version of base Funkin' that has been rebuilt to include comprehensive documentation for modding and to introduce new features.
 - [Modding+](https://github.com/FunkinModdingPlus/ModdingPlus) - An engine with HScript support with the intention of easy customization and enhanced gameplay options.
   - [Disappointing Plus](https://github.com/AFunkinDisappointment/DisappointingPlus) - A fork of Modding+ with additional features such as framerate adjustment, camera movement whenever a character sings, and an improved character swap function.
