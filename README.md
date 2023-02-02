@@ -53,7 +53,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 - [Free Online Spritesheet Maker](https://www.leshylabs.com/apps/sstool/) - Combines multiple images together into a spritesheet, an alternative to Free Texture Packer. Make sure to select `XML` as the output format.
 - [oxipng](https://github.com/shssoichiro/oxipng) - Simple program for general image optimization but also works nicely with FNF Sprite Sheets
 - [compresspng](https://compresspng.com/) - Website for general image optimization, compresses a little more than oxipng
-
+- [Sparrow Atlas Resizer](https://github.com/KadeDev/SparrowAtlasResizer) - Simple program for resizing sparrow atlas png & xml's
 
 ## Composing
 - [Stems & Chromatic Scales](https://drive.google.com/drive/folders/1XndrqjB48K3HTj0V3l0HSUGtCttRfiH9) - Officially released stems of Friday Night Funkin' music by Kawaisprite.
@@ -118,6 +118,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 - [FNF Pocket Engine](https://gamebanana.com/mods/406483) - An engine optimized for an Android phone, ironically based on the "FNF MOBILE" rip-offs in the Play Store
 - [FunkiniOS](https://github.com/hadobedo/FunkiniOS) - A port of FNF to iOS devices, requires sideloading (thank god for the EU regulations)
 - [PSXFunkin](https://github.com/cuckydev/PSXFunkin) - A Playstation 1 de-make in C/C++
+- [Funkin' Rewritten](https://github.com/HTV04/funkin-rewritten) - A rewrite of FNF in lua that is very focused on optimization. Can also compile for Nintendo Switch homebrew
 ### Visual Studio Code
 - [Visual Studio Code](https://code.visualstudio.com/) is highly recommended, as it is the only integrated development environment (IDE) with proper support for Haxe (via extensions).
   - [Enable VSCode Debug Tools](https://twitter.com/EliteMasterEric/status/1535814918917734400) - A Twitter thread made by EliteMasterEric showing useful tips and tricks for Visual Studio Code.
