@@ -104,6 +104,8 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
   - [Andromeda 2.0](https://github.com/nebulazorua/andromeda-2.0) **NOTE: Andromeda 2.0 is in HEAVY development and is in a very early alpha stage**.
 - [FPS Plus](https://github.com/ThatRozebudDude/FPS-Plus-Public) - A fork of Funkin', as the name suggests, with higher framerate, better input system, rebindable keys and more. [B-Side Redux](https://gamebanana.com/mods/42724) was made on this engine.
 - [Mic'd Up Engine](https://github.com/Verwex/Funkin-Mic-d-Up-SC) - A deprecated engine that features revamped menus, additional difficulties for base game songs, endless mode, and modifiers.
+- [Super Engine](https://github.com/superpowers04/Super-Engine) - A fork of Kade Engine that features revamped menus, supports mod with online.
+- [Leather Engine](https://github.com/Leather128/LeatherEngine) - A fork of Kade Engine that includes with 1-21 key support, supports mod with Polymod.
 - [Altronix Engine](https://github.com/Altronix-Team/FNF-AltronixEngine) - An engine that provides the support for creating localizations into different languages and HScript modding support with Polymod HScript classes and small script files. Also, engine has integration with GameJolt with achievements.
 - [CrowEngine](https://github.com/EyeDaleHim/CrowEngine) - a modified version of base Funkin' that has been rebuilt to include comprehensive documentation for modding and to introduce new features.
 - [Modding+](https://github.com/FunkinModdingPlus/ModdingPlus) - An engine with HScript support with the intention of easy customization and enhanced gameplay options.
