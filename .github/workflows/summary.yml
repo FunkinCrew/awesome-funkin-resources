@@ -27,5 +27,5 @@ jobs:
       uses: peter-evans/create-issue-from-file@v4
       with:
         title: Summary of last week's funkin-resources additions!
-        repository: FunkinCrew/blog-queue
+        repository: https://github.com/FunkinCrew/blog-queue
         content-filepath: resources/summary-script/output.md
