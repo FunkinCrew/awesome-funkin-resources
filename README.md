@@ -108,6 +108,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 - [CrowEngine](https://github.com/EyeDaleHim/CrowEngine) - a modified version of base Funkin' that has been rebuilt to include comprehensive documentation for modding and to introduce new features.
 - [Modding+](https://github.com/FunkinModdingPlus/ModdingPlus) - An engine with HScript support with the intention of easy customization and enhanced gameplay options.
   - [Disappointing Plus](https://github.com/AFunkinDisappointment/DisappointingPlus) - A fork of Modding+ with additional features such as framerate adjustment, camera movement whenever a character sings, and an improved character swap function.
+- [MemeHoovy Engine](https://github.com/Hoovy-Team/FNF-MemeHoovy-Engine-New) - An deprecated engine with Polymod support for softcoding and HScript support for modcharting, better input system, optimization, gameplay options, and more.
 ### Rewrites and Ports
 - [FNF LÖVE](https://github.com/Stilic/FNF-LOVE) - A Lua recreation of FNF within the LÖVE2D engine. Can compile for Nintendo Switch Homebrew.
 - [FNF-Benjine](https://github.com/this-is-bennyk/FNF-Benjine) - Funkin' but in Godot, made by [BennyK](https://github.com/this-is-bennyk) and was used for [Funkin' VR](https://github.com/this-is-bennyk/Funkin-VR).
