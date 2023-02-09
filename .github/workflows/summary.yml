@@ -1,0 +1,30 @@
+name: Summary of last week's PRs
+
+on:
+  workflow_dispatch:
+  schedule:
+    # At 00:00 on Monday.
+    # https://crontab.guru/ to edit
+    - cron: '0 0 * * 1'
+
+jobs:
+  summary:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
+      with:
+        path: resources
+    - name: Run summary script
+      run: |
+        cd resources/summary-script
+        npm install
+        node index.js
+    - name: Show output
+      run: |
+        cat resources/summary-script/output.md
+    - name: Create GH issue
+      uses: peter-evans/create-issue-from-file@v4
+      with:
+        title: Summary of last week's funkin-resources additions!
+        content-filepath: resources/summary-script/output.md
