@@ -25,7 +25,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 - [Animation](#animation)
   - [Spritesheet Generation](#spritesheet-generation)
 - [Composing](#composing)
-  - [Free Software for Making Music](#free-softare-for-making-music)
+  - [Free Software for Making Music](#free-software-for-making-music)
   - [Chromatic Scale Guides](#chromatic-scale-guides)
 - [Programming](#programming)
   - [Engines and Forks](#engines-and-forks)
@@ -42,7 +42,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 - [Phantom Arcade Teaching Animation](https://youtu.be/bLqTpYNZ1C4) - YouTube VOD of PhantomArcade, Funkin' Crew lead, teaching his ways of Flash animation.
 - [Frames to Symbol Flash Plugin](https://mega.nz/file/2fx1waBD#YJT5ooKfZ4-wjibIEhglRcxsq7QM6f_zx9JjcXLcVx0)
 - [Base Game FLAs](https://github.com/FunkinCrew/Funkin/tree/master/art/flashFiles) - FLAs for Friday Night' Funkin from the GitHub repository.
-- [Week 7 Update FLAs](https://twitter.com/PhantomArcade3K/status/1521540912421257218?t=d-5HJP_pckMFDngInzoOzQ&s=19) - FLAs for the Week 7 update including the stage, Tankman and cutscenes.
+- [Week 7 Update FLAs](https://twitter.com/PhantomArcade3K/status/1521540912421257218) - FLAs for the Week 7 update including the stage, Tankman and cutscenes.
 - [The ULTIMATE Guide to ADOBE ANIMATE CC! (AKA Flash) - Tutorial](https://youtu.be/3iXSQ8VcPcU) - 6 year old Animate/Flash tutorial by [Jazza](https://www.youtube.com/@Jazza), has extra links in the description for more tutorials for each section. (pretty long too, yeesh, 2 hours almost!)
 - [How to make 3D Friday Night Funkin Sprites (USING BLENDER) - Stupid Waluigi](https://youtu.be/fAuD_54Euq0)
 - [Aseprite](https://www.aseprite.org/) - Animated Sprite Editor & Pixel Art Tool
@@ -53,13 +53,13 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 - [Free Online Spritesheet Maker](https://www.leshylabs.com/apps/sstool/) - Combines multiple images together into a spritesheet, an alternative to Free Texture Packer. Make sure to select `XML` as the output format.
 - [oxipng](https://github.com/shssoichiro/oxipng) - Simple program for general image optimization but also works nicely with FNF Sprite Sheets
 - [compresspng](https://compresspng.com/) - Website for general image optimization, compresses a little more than oxipng
-
+- [Sparrow Atlas Resizer](https://github.com/KadeDev/SparrowAtlasResizer) - Simple program for resizing sparrow atlas png & xml's
 
 ## Composing
 - [Stems & Chromatic Scales](https://drive.google.com/drive/folders/1XndrqjB48K3HTj0V3l0HSUGtCttRfiH9) - Officially released stems of Friday Night Funkin' music by Kawaisprite.
 - [How to Mimic Boyfriend's Voice](https://youtu.be/YOrC9uQiK00)
-- [Writing Vocal Duets - LongestSoloEver](https://www.youtube.com/watch?v=nDPpO4fLiAM) - A beginner-friendly guide to writing duets in a Friday Night Funkin' song.
-- [6 Reasons your FNF Music Sucks - LongestSoloEver](https://www.youtube.com/watch?v=kela6mWtIlU) - Common mistakes when writing songs for FNF. Also a bit of hyperbole along the way.
+- [Writing Vocal Duets - LongestSoloEver](https://youtu.be/nDPpO4fLiAM) - A beginner-friendly guide to writing duets in a Friday Night Funkin' song.
+- [6 Reasons your FNF Music Sucks - LongestSoloEver](https://youtu.be/kela6mWtIlU) - Common mistakes when writing songs for FNF. Also a bit of hyperbole along the way.
 - [FNF Music Tutorial Playlist - LongestSoloEver](https://www.youtube.com/playlist?list=PLfb6KneL63QsQ58tj-RkDCHRmheAofPJj) - A playlist with all of LongestSoloEver's guides to writing FNF music (except the 2 listed above for some reason).
 - [Saruky's Google Doc that includes various plugins, VSTs and other FL Studio stuff that she uses](https://docs.google.com/document/d/1wva21t4HHb8nIK71KqAXQxHTl9IXU-dEH8g249SdHWo/edit) - You can find Saruky [here](https://twitter.com/Saruky__).
 ### Free Software for Making Music
@@ -68,24 +68,24 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
   - [Waveform Free](https://www.tracktion.com/products/waveform-free) - The free version of Waveform Pro that has plenty of features for music creation. Available for Windows, macOS, and Linux (Ubuntu).
   - [Cakewalk by Bandlab](https://www.bandlab.com/products/cakewalk) - Formerly Cakewalk Sonar, this DAW was purchased by Bandlab and became free to the public. Available for Windows only.
 ### Chromatic Scale Guides
-  - [How to MAKE CHROMATICS (Friday Night Funkin) - bbpanzu](https://www.youtube.com/watch?v=a7SGu1fNthc)
+  - [How to MAKE CHROMATICS (Friday Night Funkin) - bbpanzu](https://youtu.be/a7SGu1fNthc)
   - [EASY FNF chromatic guide! (Friday Night Funkin') - StickyBM](https://youtu.be/PlSh_LJwQD0)
   - [Shitty chromatic tutorial - ChimmieMpeg](https://www.youtube.com/watch?v=mKsU_LiHMmw) (tutorial isnt actually shit)
   - [How to make FNF Chromatics in Ableton - LongestSoloEver](https://www.youtube.com/watch?v=QCA6-N-pW_0)
   - [Polyphone SoundFont Editor](https://www.polyphone-soundfonts.com/) - A soundfont editor for those who want to make music quickly using their pitched samples.
-  - [MELODYNE FNF CHROMATIC SCALE TUTORIAL - Emihead](https://www.youtube.com/watch?v=MSAmOhJVRLw)
+  - [MELODYNE FNF CHROMATIC SCALE TUTORIAL - Emihead](https://youtu.be/MSAmOhJVRLw)
   - [How I make My FNF Chromatics | 1000 Sub Special PT 1 - Agentsecret24](https://youtu.be/-Jq8cilS6No)
     - Makes it so that the pitch of the chromatic and the sample work independently of each other.
-  - [Chromatic scale tutorial gone wrong | How I make my chromatic scales - Milk](https://www.youtube.com/watch?v=VmkFOPAcKbg) (basically how to make chromatics in GarageBand)
+  - [Chromatic scale tutorial gone wrong | How I make my chromatic scales - Milk](https://youtu.be/watch?v=VmkFOPAcKbg) (basically how to make chromatics in GarageBand)
   - [shitty ass chrom tutorial because i hit 400 subs - VinceS](https://youtu.be/D4jWnvAEkhk) - Makes the volumes of each sample the same (or close to the same).
   - [sampling shit for your fnf chromatics tutorial - VinceS](https://youtu.be/JzKr6xFAWMA) - Shows how to sample videos to make chromatic scales of different characters. (Also works with Melodyne)
-  - [Zero's Chromatic Scale Tutorial](https://www.youtube.com/watch?v=tDxsPa-21PQ&t) 
+  - [Zero's Chromatic Scale Tutorial](https://youtu.be/tDxsPa-21PQ&t) 
     - Shows useful shortcuts in Fl Studio for making chromatics easier.
   - [how to make soundfonts for fnf using chromatic scales - HowToAvenge101](https://youtu.be/QmcU9Bh6jUQ)
 
 
 ## Programming
-- [Friday Night Funkin' Official Source Code](https://github.com/FunkinCrew/funkin) - The original open source game by The Funkin' Crew. Last updated for Week 6.
+- [Friday Night Funkin' Official Source Code](https://github.com/FunkinCrew/funkin) - The original open source game by The Funkin' Crew. Last updated for Week 7
 ### Engines and Forks
 - [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine) - A fork of base game which includes new quality-of-life changes, performance improvements, and Lua-based mod tools. Popular and well-documented. 
   - [Psych Engine Docs](https://github.com/ShadowMario/FNF-PsychEngine/wiki) - Psych Engine modding documentation (sorta outdated).
@@ -105,9 +105,12 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
   - [Andromeda 2.0](https://github.com/nebulazorua/andromeda-2.0) **NOTE: Andromeda 2.0 is in HEAVY development and is in a very early alpha stage**.
 - [FPS Plus](https://github.com/ThatRozebudDude/FPS-Plus-Public) - A fork of Funkin', as the name suggests, with higher framerate, better input system, rebindable keys and more. [B-Side Redux](https://gamebanana.com/mods/42724) was made on this engine.
 - [Mic'd Up Engine](https://github.com/Verwex/Funkin-Mic-d-Up-SC) - A deprecated engine that features revamped menus, additional difficulties for base game songs, endless mode, and modifiers.
+- [Super Engine](https://github.com/superpowers04/Super-Engine) - A fork of Kade Engine that features revamped menus, supports mod with online.
+- [Leather Engine](https://github.com/Leather128/LeatherEngine) - A fork of Kade Engine that includes with 1-21 key support, supports mod with Polymod.
 - [Altronix Engine](https://github.com/Altronix-Team/FNF-AltronixEngine) - An engine that provides the support for creating localizations into different languages and HScript modding support with Polymod HScript classes and small script files. Also, engine has integration with GameJolt with achievements.
-- [FNF-NewgroundsPort](https://github.com/AngelDTF/FNF-NewgroundsPort) - Rebuild of Funkin' 0.2.8 via reverse engineering.
 - [CrowEngine](https://github.com/EyeDaleHim/CrowEngine) - a modified version of base Funkin' that has been rebuilt to include comprehensive documentation for modding and to introduce new features.
+- [Modding+](https://github.com/FunkinModdingPlus/ModdingPlus) - An engine with HScript support with the intention of easy customization and enhanced gameplay options.
+  - [Disappointing Plus](https://github.com/AFunkinDisappointment/DisappointingPlus) - A fork of Modding+ with additional features such as framerate adjustment, camera movement whenever a character sings, and an improved character swap function.
 ### Rewrites and Ports
 - [FNF LÖVE](https://github.com/Stilic/FNF-LOVE) - A Lua recreation of FNF within the LÖVE2D engine. Can compile for Nintendo Switch Homebrew.
 - [FNF-Benjine](https://github.com/this-is-bennyk/FNF-Benjine) - Funkin' but in Godot, made by [BennyK](https://github.com/this-is-bennyk) and was used for [Funkin' VR](https://github.com/this-is-bennyk/Funkin-VR).
@@ -117,6 +120,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 - [FNF Pocket Engine](https://gamebanana.com/mods/406483) - An engine optimized for an Android phone, ironically based on the "FNF MOBILE" rip-offs in the Play Store
 - [FunkiniOS](https://github.com/hadobedo/FunkiniOS) - A port of FNF to iOS devices, requires sideloading (thank god for the EU regulations)
 - [PSXFunkin](https://github.com/cuckydev/PSXFunkin) - A Playstation 1 de-make in C/C++
+- [Funkin' Rewritten](https://github.com/HTV04/funkin-rewritten) - A rewrite of FNF in lua that is very focused on optimization. Can also compile for Nintendo Switch homebrew
 ### Visual Studio Code
 - [Visual Studio Code](https://code.visualstudio.com/) is highly recommended, as it is the only integrated development environment (IDE) with proper support for Haxe (via extensions).
   - [Enable VSCode Debug Tools](https://twitter.com/EliteMasterEric/status/1535814918917734400) - A Twitter thread made by EliteMasterEric showing useful tips and tricks for Visual Studio Code.
@@ -154,7 +158,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 - [Funkipedia Mods Wiki](https://fridaynightfunking.fandom.com/wiki/Funkipedia_Mods_Wiki) - Information about most mods for Funkin'.
 - [/funkg/pedia](https://funkinchan.club/wiki/Main_Page) - /funkg/ mod wiki.
 ### Modding Tutorials
-- [Psych Engine Mod Installing Tutorial](https://www.youtube.com/watch?v=S-vC_kaWLPo&feature=youtu.be) - Shows you how to install mod packages within Psych Engine's `mods/` folder.
+- [Psych Engine Mod Installing Tutorial](https://youtu.be/S-vC_kaWLPo) - Shows you how to install mod packages within Psych Engine's `mods/` folder.
 - [LongestSoloEver's Modding Tutorials](https://www.youtube.com/playlist?list=PLfb6KneL63QuD0T0lolMvkQPQM7ZPjy9n) - A series of tutorials going over how to make mods in its entirety.
 - [BBPanzu's Psych Tutorial](https://youtu.be/qxMyoudrFPs) - A long tutorial video that teaches you in detail how to use Psych Engine and it's features (as of Oct 2021, some things might be outdated).
 - [Catbrother Everything's Psych Engine Modding Series](https://youtube.com/playlist?list=PL60i09WIEpP2W3SS0ObJFWcFOyxk-xMRx) - A series of tutorial videos teaching you how to use Psych Engine (as of Jan 2023, currently completely up-to-date)
