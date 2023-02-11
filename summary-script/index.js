@@ -136,7 +136,7 @@ const delay = time => new Promise(res => setTimeout(res, time));
       console.log(pull.number, pull.title, pull.user.login, pull.merged_at);
       console.log(linesAdded);
       console.log("");
-      output.push(`- [PR #${pull.number}, "${pull.title}" by ${pull.user.login}](${pull.url}) merged at ${pull.merged_at}, added:\n`);
+      output.push(`- [PR #${pull.number}, "${pull.title}" by ${pull.user.login}](${pull.html_url}) merged at ${pull.merged_at}, added:\n`);
       for (let block of linesAdded) {
         output.push(`  - ${block.length} line${block.length == 1 ? "" : "s"}:\n`)
         for (let line of block) {
