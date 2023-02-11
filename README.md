@@ -17,7 +17,7 @@ A website version should be on the funkin' crew website soon
 Further reading:
 - [The Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md) (bit of inspiration behind this)
 - [Awesome lists contributing guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md) (again, it's main inspiration to this! So these are general loose guidelines! Not hard rules tho, we will get there when we get there!!!
-- [The Funkin' Blog](https://funkincrew.github.io/funkBlog/blog/) - self plug a bit, also dunno where to put this right now, the FNF weekly devblog. Maybe we add a section around here core dev team? is that too self indulgent? lol?
+- [The Funkin' Blog](https://funkin.me/blog) - self plug a bit, also dunno where to put this right now, the FNF weekly devblog. Maybe we add a section around here core dev team? is that too self indulgent? lol?
 
 Unsure what to contribute? Check out the `good first issue` [tagged Github issues](https://github.com/FunkinCrew/funkin-resources/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)!
 
