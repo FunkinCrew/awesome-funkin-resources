@@ -82,6 +82,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
   - [Zero's Chromatic Scale Tutorial](https://youtu.be/tDxsPa-21PQ&t) 
     - Shows useful shortcuts in Fl Studio for making chromatics easier.
   - [how to make soundfonts for fnf using chromatic scales - HowToAvenge101](https://youtu.be/QmcU9Bh6jUQ)
+  - [Chromatic Scale Generator](https://gamebanana.com/tools/8906) - A tool that turns samples into a full chromatic scale.
 
 
 ## Programming
