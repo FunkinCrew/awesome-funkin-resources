@@ -8,7 +8,7 @@
 
 **[Friday Night Funkin'](https://www.newgrounds.com/portal/view/770371)** (FNF) is a cartoon rhythm game developed for the Ludem Dare 47 game jam, and first uploaded to Newgrounds in October 2020. FNF boasts a classic Flash game artstyle, original music, and a thriving modding community.
 
-**Check out [the official Funkin' Blog](https://funkin.me/blog/)**
+Check out **[the official Funkin' Blog](https://funkin.me/blog/)!**
 
 Contributions are welcome! Add links through pull requests or create an issue to start a discussion.
 
@@ -162,11 +162,11 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 - [HaxeFlixel - Introduction](https://haxeflixel.com/documentation/) - HaxeFlixel Documentation.
 - [HaxeFlixel Cheat Sheet](https://haxeflixel.com/documentation/cheat-sheet/) - Series of code examples and mini tutorials for common uses of HaxeFlixel.
 - [HaxeFlixel Demos](https://haxeflixel.com/demos/) - Collection of demos for HaxeFlixel.
-  - [GitHub repository for abovementioned demos](https://github.com/HaxeFlixel/flixel-demos).
+  - [GitHub repository for abovementioned demos](https://github.com/HaxeFlixel/flixel-demos)
 - [HaxeFlixel Game Development Tools](https://haxeflixel.com/documentation/game-development-tools/) - Tools that HaxeFlixel recommends for developing games.
 - [HaxeFlixel Snippets](https://snippets.haxeflixel.com/) - Snippets of HaxeFlixel code with live demos to explain their functionality.
 - [HaxeFlixel's Tutorial Game (TurnBasedRPG)](https://haxeflixel.com/documentation/tutorial/) - A really nifty tutorial that goes step-by-step on teaching how to make a game, comes with pre-made assets for you to use as well.
-  - [GitHub source code for TurnBasedRPG](https://github.com/HaxeFlixel/flixel-demos/tree/dev/Tutorials/TurnBasedRPG).
+  - [GitHub source code for TurnBasedRPG](https://github.com/HaxeFlixel/flixel-demos/tree/dev/Tutorials/TurnBasedRPG)
 - [Online HaxeFlixel crash course](https://youtube.com/playlist?list=PLiKs97d-BatFGPrkf7yNN0e6IyToRaaYO) - A HaxeFlixel crash course on YouTube made by Richard Oliver Bray.
 
 ## Art
@@ -187,7 +187,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 - [GameBanana](https://gamebanana.com/games/8694) - GameBanana is the largest host for mods and skins for Friday Night Funkin'.
 - [GameJolt](https://gamejolt.com/c/fnf) - Another highly used host for mods.
 - [Funkipedia Mods Wiki](https://fridaynightfunking.fandom.com/wiki/Funkipedia_Mods_Wiki) - Information about most mods for Funkin'.
-- [The /funkg/pedia Wiki](https://funkinchan.club/wiki/Main_Page) - /funkg/ mod wiki.
+- [The /funkg/pedia Wiki](https://funkinchan.club/wiki/Main_Page) - The /funkg/ mod wiki.
 
 ### Modding Tutorials
 
