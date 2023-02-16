@@ -1,4 +1,4 @@
-name: Summary of last week's PRs
+name: Summarize last week's PRs
 
 on:
   workflow_dispatch:

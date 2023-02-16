@@ -1,4 +1,4 @@
-name: Send the resources page to Funkin' blog site repo on deploy?
+name: Send resources page to Funkin' blog on deploy
 on:
   push
 jobs:
