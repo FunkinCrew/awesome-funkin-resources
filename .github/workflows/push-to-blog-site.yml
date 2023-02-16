@@ -1,6 +1,8 @@
 name: Send resources page to Funkin' blog on deploy
 on:
-  push
+  push:
+    branches:
+      - main
 jobs:
   funny_issue:
     runs-on: ubuntu-latest
