@@ -8,7 +8,7 @@
 
 **[Friday Night Funkin'](https://www.newgrounds.com/portal/view/770371)** (FNF) is a cartoon rhythm game developed for the Ludem Dare 47 game jam, and first uploaded to Newgrounds in October 2020. FNF boasts a classic Flash game artstyle, original music, and a thriving modding community.
 
-## **Check out [the official Funkin' Blog](https://funkin.me/blog/)**
+**Check out [the official Funkin' Blog](https://funkin.me/blog/)**
 
 Contributions are welcome! Add links through pull requests or create an issue to start a discussion.
 
@@ -34,8 +34,8 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 - [Programming](#programming)
   - [Engines and Forks](#engines-and-forks)
   - [Rewrites and Ports](#rewrites-and-ports)
-  - [Haxe/HaxeFlixel Resources](#haxehaxeflixel-resources)
   - [Visual Studio Code](#visual-studio-code)
+  - [Haxe/HaxeFlixel Resources](#haxehaxeflixel-resources)
 - [Art](#art)
 - [Charting](#charting)
 - [Modding](#modding)
@@ -106,11 +106,13 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
   Do not include links for deprecated or
 -->
 
+<!-- Disabled linting here because linting doesn't allow items with no links. -->
+<!--lint ignore awesome-list-item-->
 - [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine) - A fork of base game which includes new quality-of-life changes, performance improvements, and Lua-based mod tools. Popular and well-documented.
   - [Psych Engine Docs](https://github.com/ShadowMario/FNF-PsychEngine/wiki) - Psych Engine modding documentation.
   - [Alternative wiki for Psych Engine](https://github.com/CaptainBaldi/PsychRewrittenWiki/wiki) - Made by [CaptainBaldi](https://github.com/CaptainBaldi) and contributors.
   - [Funkin Cocoa](https://github.com/TheWorldMachinima/FunkinCocoa) - A rewrite of base game (Psych 0.4). Aims to be as customizable as possible. Supports advanced HScript scripting using [SScript](https://github.com/TheWorldMachinima/SScript).
-- *Kade Engine* - A legacy engine that includes new features and quality of life fixes, targeted at pro rhythm game players.
+- *Kade Engine* - An archived engine that includes new features and quality of life fixes, targeted at pro rhythm game players.
   - [BoloVEVO's Kade Engine](https://github.com/BoloVEVO/Kade-Engine-Public) - A fork of Kade Engine that fixes all the bugs and includes new content.
     - [BoloVEVO's Kade Engine Docs](https://github.com/BoloVEVO/Kade-Engine-Public/wiki) - Kade Engine Fork modding documentation.
   - [Edak Engine](https://github.com/Skullbite/Edak-Engine) - A fork of Kade Engine with HScript support, softcoding, a cleaner file system, configurable weeks and more. It also comes with B-Side Remixes Legacy's assets.
@@ -121,12 +123,12 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
   - [Codename Engine Docs](https://github.com/YoshiCrafter29/CodenameEngine/wiki) - Codename Engine modding documenation.
 - [Andromeda Engine Legacy](https://github.com/nebulazorua/andromeda-engine-legacy) - Fork of Funkin' with customization and gameplay in mind.
   - [Andromeda Engine Docs](https://github.com/nebulazorua/andromeda-engine-legacy/wiki) - Andromeda Engine (LEGACY) Modchart API documentation.
-  - [Andromeda 2.0](https://github.com/nebulazorua/andromeda-2.0) **NOTE: Andromeda 2.0 is in HEAVY development and is in a very early alpha stage**.
+  - [Andromeda 2.0](https://github.com/nebulazorua/andromeda-2.0) - **NOTE: Andromeda 2.0 is in HEAVY development and is in a very early alpha stage**.
 - [FPS Plus](https://github.com/ThatRozebudDude/FPS-Plus-Public) - A fork of Funkin', as the name suggests, with higher framerate, better input system, rebindable keys and more. [B-Side Redux](https://gamebanana.com/mods/42724) was made on this engine.
 - [Super Engine](https://github.com/superpowers04/Super-Engine) - A fork of Kade Engine that features revamped menus, supports mod with online.
 - [Leather Engine](https://github.com/Leather128/LeatherEngine) - A fork of Kade Engine that includes with 1-21 key support, supports mod with Polymod.
 - [Altronix Engine](https://github.com/Altronix-Team/FNF-AltronixEngine) - An engine that provides the support for creating localizations into different languages and HScript modding support with Polymod HScript classes and small script files. Also, engine has integration with GameJolt with achievements.
-- [CrowEngine](https://github.com/EyeDaleHim/CrowEngine) - a modified version of base Funkin' that has been rebuilt to include comprehensive documentation for modding and to introduce new features.
+- [CrowEngine](https://github.com/EyeDaleHim/CrowEngine) - A modified version of base Funkin' that has been rebuilt to include comprehensive documentation for modding and to introduce new features.
 - [Modding+](https://github.com/FunkinModdingPlus/ModdingPlus) - An engine with HScript support with the intention of easy customization and enhanced gameplay options.
   - [Disappointing Plus](https://github.com/AFunkinDisappointment/DisappointingPlus) - A fork of Modding+ with additional features such as framerate adjustment, camera movement whenever a character sings, and an improved character swap function.
 
@@ -142,10 +144,10 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
   - [FNF-Benjine Docs](https://github.com/this-is-bennyk/FNF-Benjine/wiki) - Godot Funkin' modding documentation.
 - [PydayNightFunkin](https://github.com/Square789/PydayNightFunkin) - A recreation of FNF in Python, allowing for quick changeability! Tries to be painlessly readable and is somewhat documented.
 - [Funkin' Android](https://github.com/luckydog7/Funkin-android) - A fork of the game with controls and optimizations allowing it to be played on Android devices.
-- [FNF Pocket Engine](https://gamebanana.com/mods/406483) - An engine optimized for an Android phone, ironically based on the "FNF MOBILE" rip-offs in the Play Store
-- [FunkiniOS](https://github.com/hadobedo/FunkiniOS) - A port of FNF to iOS devices, requires sideloading (thank god for the EU regulations)
-- [PSXFunkin](https://github.com/cuckydev/PSXFunkin) - A Playstation 1 de-make in C/C++
-- [Funkin' Rewritten](https://github.com/HTV04/funkin-rewritten) - A rewrite of FNF in lua that is very focused on optimization. Can also compile for Nintendo Switch homebrew
+- [FNF Pocket Engine](https://gamebanana.com/mods/406483) - An engine optimized for an Android phone, ironically based on the "FNF MOBILE" rip-offs in the Play Store.
+- [FunkiniOS](https://github.com/hadobedo/FunkiniOS) - A port of FNF to iOS devices, requires sideloading.
+- [PSXFunkin](https://github.com/cuckydev/PSXFunkin) - A Playstation 1 de-make in C/C++.
+- [Funkin' Rewritten](https://github.com/HTV04/funkin-rewritten) - A rewrite of FNF in lua that is very focused on optimization. Can also compile for Nintendo Switch homebrew.
 
 ### Visual Studio Code
 
@@ -182,10 +184,10 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 
 ## Modding
 
-- [GameBanana](https://gamebanana.com/games/8694) - GameBanana hosts a buncho damn mods and stuff
+- [GameBanana](https://gamebanana.com/games/8694) - GameBanana is the largest host for mods and skins for Friday Night Funkin'.
 - [GameJolt](https://gamejolt.com/c/fnf) - Another highly used host for mods.
 - [Funkipedia Mods Wiki](https://fridaynightfunking.fandom.com/wiki/Funkipedia_Mods_Wiki) - Information about most mods for Funkin'.
-- [/funkg/pedia](https://funkinchan.club/wiki/Main_Page) - /funkg/ mod wiki.
+- [The /funkg/pedia Wiki](https://funkinchan.club/wiki/Main_Page) - /funkg/ mod wiki.
 
 ### Modding Tutorials
 
