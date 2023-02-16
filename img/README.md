@@ -9,3 +9,8 @@ Used for the embedding of images into the main `README.md`.
 ```
 ![Hover text](/img/pic-related.png)
 ```
+
+## Credits
+
+- `funkin-logo.png`: Official Friday Night Funkin' repository.
+- `FNF-Logo.svg`: https://commons.wikimedia.org/wiki/File:FNF-Logo.svg

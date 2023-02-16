@@ -1,28 +1,30 @@
-# funkin-resources
+# Friday Night Funkin' Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Various community curated resources for the game Friday Night Funkin', by The Funkin' Crew Inc.
+<p align="center">
+  <a url="https://funkin.me/"><img src="/img/FNF-Logo.svg" alt="Friday Night Funkin'" /></a>
+</p>
 
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
+> Various community curated resources for the game Friday Night Funkin'.
 
-This will hopefully be a nice, catchall place for nearly damn everything Friday Night Funkin' related for fans, modders, freaks, and addicts.
+**[Friday Night Funkin'](https://www.newgrounds.com/portal/view/770371)** (FNF) is a cartoon rhythm game developed for the Ludem Dare 47 game jam, and first uploaded to Newgrounds in October 2020. FNF boasts a classic Flash game artstyle, original music, and a thriving modding community.
 
-> I intend for this to be a bit community run type beat. I'll slowly find things and add it to this list, but I am not the biggest Friday Night Funkin' maniac, and not by a damn longshot!
-> The inspiration behind this list thingie is those Github AWESOME lists that have a billion damn resources. I'm no FNF maniac, but I think it would be nice if everything was in one place!!!
-> I will host this on the FunkinCrew github page, and upload it to the FNF website, but otherwise, I will say if there's dedicated people around, I'm willing to let some trusted individuals who are much more in touch than me to keep things around here nice and pleasant and a nice resource that doesn't get too outdated! -_signed ninjamuffin99_
+## **Check out [the official Funkin' Blog](https://funkin.me/blog/).**
 
-> some of these resources i stole from /funkg/... lol [i hope u rascals over there dont mind](https://raw.githubusercontent.com/FunkinCrew/funkin-resources/main/img/pic-related.png)!!!!
+Contributions are welcome! Add links through pull requests or create an issue to start a discussion.
 
-A website version should be on the funkin' crew website soon
+Unsure what to contribute? Check out the `good first issue` [tagged Github issues](https://github.com/FunkinCrew/funkin-resources/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) and read our [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)!
 
-Further reading:
-
-- [The Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md) (bit of inspiration behind this)
-- [Awesome lists contributing guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md) (again, it's main inspiration to this! So these are general loose guidelines! Not hard rules tho, we will get there when we get there!!!
-- [The Funkin' Blog](https://funkincrew.github.io/funkBlog/blog/) - self plug a bit, also dunno where to put this right now, the FNF weekly devblog. Maybe we add a section around here core dev team? is that too self indulgent? lol?
-
-Unsure what to contribute? Check out the `good first issue` [tagged Github issues](https://github.com/FunkinCrew/funkin-resources/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)!
+<!-- 
+  HTML is valid in GitHub markdown.
+  Thus, HTML comments are visible when writing but invisible on the rendered document. Sneaky!
+-->
 
 # Contents
+
+<!--
+  Ensure this table of contents is updated as sections are added.
+  Do not include the Footnotes section.
+-->
 
 - [Animation](#animation)
   - [Spritesheet Generation](#spritesheet-generation)
@@ -94,20 +96,26 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 
 ## Programming
 
-- [Friday Night Funkin' Official Source Code](https://github.com/FunkinCrew/funkin) - The original open source game by The Funkin' Crew. Last updated for Week 7
+- [Friday Night Funkin' Official Source Code](https://github.com/FunkinCrew/funkin) - The original open source game by The Funkin' Crew. Last updated for Week 7.
 
 ### Engines and Forks
 
+<!--
+  This section is for repositories which rewrite large parts of the game, to improve functionality, user experience, or modding capabilities.
+  All entries here must be written in HaxeFlixel, otherwise the Rewrites and Ports section is more appropriate.
+  Do not include links for deprecated or
+-->
+
 - [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine) - A fork of base game which includes new quality-of-life changes, performance improvements, and Lua-based mod tools. Popular and well-documented.
-  - [Psych Engine Docs](https://github.com/ShadowMario/FNF-PsychEngine/wiki) - Psych Engine modding documentation (sorta outdated).
-  - _Alternatively_, a more up-to-date Psych wiki exists, made by [CaptainBaldi](https://github.com/CaptainBaldi) and contributors, which you can view [here](https://github.com/CaptainBaldi/PsychRewrittenWiki/wiki).
+  - [Psych Engine Docs](https://github.com/ShadowMario/FNF-PsychEngine/wiki) - Psych Engine modding documentation.
+  - [An alternative wiki for Psych Engine](https://github.com/CaptainBaldi/PsychRewrittenWiki/wiki), made by [CaptainBaldi](https://github.com/CaptainBaldi) and contributors.
   - [Funkin Cocoa](https://github.com/TheWorldMachinima/FunkinCocoa) - A rewrite of base game (Psych 0.4). Aims to be as customizable as possible. Supports advanced HScript scripting using [SScript](https://github.com/TheWorldMachinima/SScript).
-- [Kade Engine](https://github.com/kadedev/kade-engine) - A legacy engine that includes new features and quality of life fixes, targeted at pro rhythm game players. Officially deprecated.
+- *Kade Engine*: A legacy engine that includes new features and quality of life fixes, targeted at pro rhythm game players.
   - [BoloVEVO's Kade Engine](https://github.com/BoloVEVO/Kade-Engine-Public) - A fork of Kade Engine that fixes all the bugs and includes new content.
     - [BoloVEVO's Kade Engine Docs](https://github.com/BoloVEVO/Kade-Engine-Public/wiki) - Kade Engine Fork modding documentation.
   - [Edak Engine](https://github.com/Skullbite/Edak-Engine) - A fork of Kade Engine with HScript support, softcoding, a cleaner file system, configurable weeks and more. It also comes with B-Side Remixes Legacy's assets.
     - [Edak Engine Docs](https://github.com/Skullbite/Edak-Engine/wiki) - Edak Engine modding documentation.
-- [Forever Engine](https://github.com/BeastlyGabi/Funkin-Forever-Engine) - An archived rewrite of the game, originally written by Yoshubs. Includes performance reworks, HScript support, and more.
+- *Forever Engine* - An archived rewrite of the game, originally written by Yoshubs. Includes performance reworks, HScript support, and more.
   - [Forever Engine Feather](https://github.com/Pluma-Team/Forever-Engine-Feather) - A fork of Forever Engine that includes all of its features, a scripting system based on HScript, called SScript, reorganized codebase, an events system based off of Hypno's Lullaby v2 and fully softcoded weeks and characters.
 - [Codename Engine](https://github.com/YoshiCrafter29/CodenameEngine) - A fork of base game that provides full HScript support for advanced softcoding, along with sorted and half rewritten source for optimisation and ease of use.
   - [Codename Engine Docs](https://github.com/YoshiCrafter29/CodenameEngine/wiki) - Codename Engine modding documenation.
@@ -115,7 +123,6 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
   - [Andromeda Engine Docs](https://github.com/nebulazorua/andromeda-engine-legacy/wiki) - Andromeda Engine (LEGACY) Modchart API documentation.
   - [Andromeda 2.0](https://github.com/nebulazorua/andromeda-2.0) **NOTE: Andromeda 2.0 is in HEAVY development and is in a very early alpha stage**.
 - [FPS Plus](https://github.com/ThatRozebudDude/FPS-Plus-Public) - A fork of Funkin', as the name suggests, with higher framerate, better input system, rebindable keys and more. [B-Side Redux](https://gamebanana.com/mods/42724) was made on this engine.
-- [Mic'd Up Engine](https://github.com/Verwex/Funkin-Mic-d-Up-SC) - A deprecated engine that features revamped menus, additional difficulties for base game songs, endless mode, and modifiers.
 - [Super Engine](https://github.com/superpowers04/Super-Engine) - A fork of Kade Engine that features revamped menus, supports mod with online.
 - [Leather Engine](https://github.com/Leather128/LeatherEngine) - A fork of Kade Engine that includes with 1-21 key support, supports mod with Polymod.
 - [Altronix Engine](https://github.com/Altronix-Team/FNF-AltronixEngine) - An engine that provides the support for creating localizations into different languages and HScript modding support with Polymod HScript classes and small script files. Also, engine has integration with GameJolt with achievements.
@@ -124,6 +131,11 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
   - [Disappointing Plus](https://github.com/AFunkinDisappointment/DisappointingPlus) - A fork of Modding+ with additional features such as framerate adjustment, camera movement whenever a character sings, and an improved character swap function.
 
 ### Rewrites and Ports
+
+<!--
+  This section is for repositories which either significantly rewrite the game to function on a new platform (such as mobile),
+  or rewrite the game from scratch in a different game engine or programming language.  
+-->
 
 - [FNF LÖVE](https://github.com/Stilic/FNF-LOVE) - A Lua recreation of FNF within the LÖVE2D engine. Can compile for Nintendo Switch Homebrew.
 - [FNF-Benjine](https://github.com/this-is-bennyk/FNF-Benjine) - Funkin' but in Godot, made by [BennyK](https://github.com/this-is-bennyk) and was used for [Funkin' VR](https://github.com/this-is-bennyk/Funkin-VR).
@@ -181,3 +193,6 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 - [LongestSoloEver's Modding Tutorials](https://www.youtube.com/playlist?list=PLfb6KneL63QuD0T0lolMvkQPQM7ZPjy9n) - A series of tutorials going over how to make mods in its entirety.
 - [BBPanzu's Psych Tutorial](https://youtu.be/qxMyoudrFPs) - A long tutorial video that teaches you in detail how to use Psych Engine and it's features (as of Oct 2021, some things might be outdated).
 - [Catbrother Everything's Psych Engine Modding Series](https://youtube.com/playlist?list=PL60i09WIEpP2W3SS0ObJFWcFOyxk-xMRx) - A series of tutorial videos teaching you how to use Psych Engine (as of Jan 2023, currently completely up-to-date)
+
+## Footnotes
+- Check [ARCHIVED](./ARCHIVED.md) for links to deprecated or out-of-date content.
