@@ -1,3 +1,4 @@
+<!--lint ignore double-link-->
 # Friday Night Funkin' Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <p align="center">
