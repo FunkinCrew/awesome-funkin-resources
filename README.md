@@ -9,7 +9,7 @@
 
 **[Friday Night Funkin'](https://www.newgrounds.com/portal/view/770371)** (FNF) is a cartoon rhythm game developed for the Ludem Dare 47 game jam, and first uploaded to Newgrounds in October 2020. FNF boasts a classic Flash game artstyle, original music, and a thriving modding community.
 
-**Check out [the official Funkin' Blog](https://funkin.me/blog/)**
+Check out **[the official Funkin' Blog](https://funkin.me/blog/)**
 
 Contributions are welcome! Add links through pull requests or create an issue to start a discussion.
 
@@ -79,21 +79,21 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 - [Cakewalk by Bandlab](https://www.bandlab.com/products/cakewalk) - Formerly Cakewalk Sonar, this DAW was purchased by Bandlab and became free to the public. Available for Windows only.
 
 ### Chromatic Scale Guides
-  - [How to MAKE CHROMATICS (Friday Night Funkin) - bbpanzu](https://youtu.be/a7SGu1fNthc)
-  - [EASY FNF chromatic guide! (Friday Night Funkin') - StickyBM](https://youtu.be/PlSh_LJwQD0)
-  - [Shitty chromatic tutorial - ChimmieMpeg](https://www.youtube.com/watch?v=mKsU_LiHMmw) (tutorial isnt actually shit)
-  - [How to make FNF Chromatics in Ableton - LongestSoloEver](https://www.youtube.com/watch?v=QCA6-N-pW_0)
-  - [Polyphone SoundFont Editor](https://www.polyphone-soundfonts.com/) - A soundfont editor for those who want to make music quickly using their pitched samples.
-  - [MELODYNE FNF CHROMATIC SCALE TUTORIAL - Emihead](https://youtu.be/MSAmOhJVRLw)
-  - [How I make My FNF Chromatics | 1000 Sub Special PT 1 - Agentsecret24](https://youtu.be/-Jq8cilS6No)
-    - Makes it so that the pitch of the chromatic and the sample work independently of each other.
-  - [Chromatic scale tutorial gone wrong | How I make my chromatic scales - Milk](https://youtu.be/watch?v=VmkFOPAcKbg) (basically how to make chromatics in GarageBand)
-  - [shitty ass chrom tutorial because i hit 400 subs - VinceS](https://youtu.be/D4jWnvAEkhk) - Makes the volumes of each sample the same (or close to the same).
-  - [sampling shit for your fnf chromatics tutorial - VinceS](https://youtu.be/JzKr6xFAWMA) - Shows how to sample videos to make chromatic scales of different characters. (Also works with Melodyne)
-  - [Zero's Chromatic Scale Tutorial](https://youtu.be/tDxsPa-21PQ&t) 
-    - Shows useful shortcuts in Fl Studio for making chromatics easier.
-  - [how to make soundfonts for fnf using chromatic scales - HowToAvenge101](https://youtu.be/QmcU9Bh6jUQ)
-  - [Chromatic Scale Generator](https://gamebanana.com/tools/8906) - A tool that turns samples into a full chromatic scale.
+- [How to MAKE CHROMATICS (Friday Night Funkin) - bbpanzu](https://youtu.be/a7SGu1fNthc)
+- [EASY FNF chromatic guide! (Friday Night Funkin') - StickyBM](https://youtu.be/PlSh_LJwQD0)
+- [Shitty chromatic tutorial - ChimmieMpeg](https://www.youtube.com/watch?v=mKsU_LiHMmw) (tutorial isnt actually shit)
+- [How to make FNF Chromatics in Ableton - LongestSoloEver](https://www.youtube.com/watch?v=QCA6-N-pW_0)
+- [Polyphone SoundFont Editor](https://www.polyphone-soundfonts.com/) - A soundfont editor for those who want to make music quickly using their pitched samples.
+- [MELODYNE FNF CHROMATIC SCALE TUTORIAL - Emihead](https://youtu.be/MSAmOhJVRLw)
+- [How I make My FNF Chromatics | 1000 Sub Special PT 1 - Agentsecret24](https://youtu.be/-Jq8cilS6No)
+  - Makes it so that the pitch of the chromatic and the sample work independently of each other.
+- [Chromatic scale tutorial gone wrong | How I make my chromatic scales - Milk](https://youtu.be/watch?v=VmkFOPAcKbg) (basically how to make chromatics in GarageBand)
+- [shitty ass chrom tutorial because i hit 400 subs - VinceS](https://youtu.be/D4jWnvAEkhk) - Makes the volumes of each sample the same (or close to the same).
+- [sampling shit for your fnf chromatics tutorial - VinceS](https://youtu.be/JzKr6xFAWMA) - Shows how to sample videos to make chromatic scales of different characters. (Also works with Melodyne)
+- [Zero's Chromatic Scale Tutorial](https://youtu.be/tDxsPa-21PQ&t) 
+  - Shows useful shortcuts in Fl Studio for making chromatics easier.
+- [how to make soundfonts for fnf using chromatic scales - HowToAvenge101](https://youtu.be/QmcU9Bh6jUQ)
+- [Chromatic Scale Generator](https://gamebanana.com/tools/8906) - A tool that turns samples into a full chromatic scale.
 
 
 - [How to MAKE CHROMATICS (Friday Night Funkin) - bbpanzu](https://youtu.be/a7SGu1fNthc)
@@ -181,11 +181,11 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 - [HaxeFlixel - Introduction](https://haxeflixel.com/documentation/) - HaxeFlixel Documentation.
 - [HaxeFlixel Cheat Sheet](https://haxeflixel.com/documentation/cheat-sheet/) - Series of code examples and mini tutorials for common uses of HaxeFlixel.
 - [HaxeFlixel Demos](https://haxeflixel.com/demos/) - Collection of demos for HaxeFlixel.
-  - [GitHub repository for abovementioned demos](https://github.com/HaxeFlixel/flixel-demos).
+  - [GitHub repository for abovementioned demos](https://github.com/HaxeFlixel/flixel-demos)
 - [HaxeFlixel Game Development Tools](https://haxeflixel.com/documentation/game-development-tools/) - Tools that HaxeFlixel recommends for developing games.
 - [HaxeFlixel Snippets](https://snippets.haxeflixel.com/) - Snippets of HaxeFlixel code with live demos to explain their functionality.
 - [HaxeFlixel's Tutorial Game (TurnBasedRPG)](https://haxeflixel.com/documentation/tutorial/) - A really nifty tutorial that goes step-by-step on teaching how to make a game, comes with pre-made assets for you to use as well.
-  - [GitHub source code for TurnBasedRPG](https://github.com/HaxeFlixel/flixel-demos/tree/dev/Tutorials/TurnBasedRPG).
+  - [GitHub source code for TurnBasedRPG](https://github.com/HaxeFlixel/flixel-demos/tree/dev/Tutorials/TurnBasedRPG)
 - [Online HaxeFlixel crash course](https://youtube.com/playlist?list=PLiKs97d-BatFGPrkf7yNN0e6IyToRaaYO) - A HaxeFlixel crash course on YouTube made by Richard Oliver Bray.
 
 ## Art
@@ -206,7 +206,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 - [GameBanana](https://gamebanana.com/games/8694) - GameBanana is the largest host for mods and skins for Friday Night Funkin'.
 - [GameJolt](https://gamejolt.com/c/fnf) - Another highly used host for mods.
 - [Funkipedia Mods Wiki](https://fridaynightfunking.fandom.com/wiki/Funkipedia_Mods_Wiki) - Information about most mods for Funkin'.
-- [The /funkg/pedia Wiki](https://funkinchan.club/wiki/Main_Page) - /funkg/ mod wiki.
+- [The /funkg/pedia Wiki](https://funkinchan.club/wiki/Main_Page) - The /funkg/ mod wiki.
 
 ### Modding Tutorials
 
