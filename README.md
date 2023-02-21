@@ -163,10 +163,12 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
   - [FNF-Benjine Docs](https://github.com/this-is-bennyk/FNF-Benjine/wiki) - Godot Funkin' modding documentation.
 - [PydayNightFunkin](https://github.com/Square789/PydayNightFunkin) - A recreation of FNF in Python, allowing for quick changeability! Tries to be painlessly readable and is somewhat documented.
 - [Funkin' Android](https://github.com/luckydog7/Funkin-android) - A fork of the game with controls and optimizations allowing it to be played on Android devices.
+- [BS Engine Mobile](https://github.com/MatheusSilver/BS-Engine-Mobile-Legacy) - A port of FNF' that work in Android with optimizations. One of the most famous android FNF' engines.
 - [FNF Pocket Engine](https://gamebanana.com/mods/406483) - An engine optimized for an Android phone, ironically based on the "FNF MOBILE" rip-offs in the Play Store.
 - [FunkiniOS](https://github.com/hadobedo/FunkiniOS) - A port of FNF to iOS devices, requires sideloading.
 - [PSXFunkin](https://github.com/cuckydev/PSXFunkin) - A Playstation 1 de-make in C/C++.
 - [Funkin' Rewritten](https://github.com/HTV04/funkin-rewritten) - A rewrite of FNF in lua that is very focused on optimization. Can also compile for Nintendo Switch homebrew.
+
 
 ### Visual Studio Code
 
