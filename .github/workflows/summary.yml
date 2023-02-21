@@ -1,4 +1,4 @@
-name: Summary of last week's PRs
+name: Summarize last week's PRs
 
 on:
   workflow_dispatch:
@@ -17,14 +17,14 @@ jobs:
         path: resources
     - name: Run summary script
       run: |
-        cd resources/summary-script
+        cd resources/scripts/summary-script
         npm install
         node index.js
     - name: Show output
       run: |
-        cat resources/summary-script/output.md
+        cat resources/scripts/summary-script/output.md
     - name: Create GH issue
       uses: peter-evans/create-issue-from-file@v4
       with:
         title: Summary of last week's funkin-resources additions!
-        content-filepath: resources/summary-script/output.md
+        content-filepath: resources/scripts/summary-script/output.md
