@@ -128,6 +128,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 - [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine) - A fork of base game which includes new quality-of-life changes, performance improvements, and Lua-based mod tools. Popular and well-documented.
   - [Psych Engine Docs](https://github.com/ShadowMario/FNF-PsychEngine/wiki) - Psych Engine modding documentation.
   - [Alternative wiki for Psych Engine](https://github.com/CaptainBaldi/PsychRewrittenWiki/wiki) - Made by [CaptainBaldi](https://github.com/CaptainBaldi) and contributors.
+  - [Another alternative wiki for Psych Engine](https://github.com/Meme1079/PsychWiki/wiki) - Made by [Meme1079](https://github.com/Meme1079) and contributors.
   - [Funkin Cocoa](https://github.com/TheWorldMachinima/FunkinCocoa) - A rewrite of base game (Psych 0.4). Aims to be as customizable as possible. Supports advanced HScript scripting using [SScript](https://github.com/TheWorldMachinima/SScript).
 - *Kade Engine* - An archived engine that includes new features and quality of life fixes, targeted at pro rhythm game players.
   - [BoloVEVO's Kade Engine](https://github.com/BoloVEVO/Kade-Engine-Public) - A fork of Kade Engine that fixes all the bugs and includes new content.
@@ -142,8 +143,9 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
   - [Andromeda Engine Docs](https://github.com/nebulazorua/andromeda-engine-legacy/wiki) - Andromeda Engine (LEGACY) Modchart API documentation.
   - [Andromeda 2.0](https://github.com/nebulazorua/andromeda-2.0) - **NOTE: Andromeda 2.0 is in HEAVY development and is in a very early alpha stage**.
 - [FPS Plus](https://github.com/ThatRozebudDude/FPS-Plus-Public) - A fork of Funkin', as the name suggests, with higher framerate, better input system, rebindable keys and more. [B-Side Redux](https://gamebanana.com/mods/42724) was made on this engine.
-- [Super Engine](https://github.com/superpowers04/Super-Engine) - A fork of Kade Engine that features revamped menus, supports mod with online.
-- [Leather Engine](https://github.com/Leather128/LeatherEngine) - An engine that includes 1-21 key support, supports mod loading with Polymod and has other useful features like a stage editor.
+- [Super Engine](https://github.com/superpowers04/Super-Engine) - A fork of Kade Engine that features revamped menus, mod support and online functionality.
+
+- [Leather Engine](https://github.com/Leather128/LeatherEngine) - A fork of Kade Engine that includes 1-21 key support, and mod support. (via Polymod)
 - [Altronix Engine](https://github.com/Altronix-Team/FNF-AltronixEngine) - An engine that provides the support for creating localizations into different languages and HScript modding support with Polymod HScript classes and small script files. Also, engine has integration with GameJolt with achievements.
 - [CrowEngine](https://github.com/EyeDaleHim/CrowEngine) - A modified version of base Funkin' that has been rebuilt to include comprehensive documentation for modding and to introduce new features.
 - [Modding+](https://github.com/FunkinModdingPlus/ModdingPlus) - An engine with HScript support with the intention of easy customization and enhanced gameplay options.
