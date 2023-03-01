@@ -138,6 +138,7 @@ const delay = time => new Promise(res => setTimeout(res, time));
       console.log("");
       output.push(`- [PR #${pull.number}, "${pull.title}" by ${pull.user.login}](${pull.html_url}) merged at ${pull.merged_at}, added:\n`);
       for (let block of linesAdded) {
+        block = block.filter(v => v.trim().length > 0); // exclude blank lines from appearing as empty list items
         output.push(`  - ${block.length} line${block.length == 1 ? "" : "s"}:\n`)
         for (let line of block) {
           // try to remove any indents and bullet points
