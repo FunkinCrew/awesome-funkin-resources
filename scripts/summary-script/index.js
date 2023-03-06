@@ -136,6 +136,7 @@ const delay = time => new Promise(res => setTimeout(res, time));
       console.log(pull.number, pull.title, pull.user.login, pull.merged_at);
       console.log(linesAdded);
       console.log("");
+      if (pull != null && pull.filter(e => e.trim().length > 0)) continue; // makes it so it won't create empty issues
       output.push(`- [PR #${pull.number}, "${pull.title}" by ${pull.user.login}](${pull.html_url}) merged at ${pull.merged_at}, added:\n`);
       for (let block of linesAdded) {
         block = block.filter(v => v.trim().length > 0); // exclude blank lines from appearing as empty list items
