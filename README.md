@@ -193,6 +193,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 ## Art
 
 - [FNF Logo SVG recreation](https://commons.wikimedia.org/wiki/File:FNF-Logo.svg) - Vector recreation of the FNF logo, so you can edit the shapes better and recolor it without a crappy fill bucket.
+- [ThugWizard's PA Artstyle Tutorials](https://www.youtube.com/watch?v=ZHF5MNfZqwk) - Part 1 Explanations and Basics. (https://www.youtube.com/watch?v=Unat1IzRngY) Part 2 Heads and Stylization.
 
 ## Charting
 
