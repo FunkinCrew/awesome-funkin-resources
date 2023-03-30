@@ -148,7 +148,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 
 - [Leather Engine](https://github.com/Leather128/LeatherEngine) - An engine that includes 1-21 key support, supports mod loading with Polymod and has other useful features like a stage editor.)
 - [Altronix Engine](https://github.com/Altronix-Team/FNF-AltronixEngine) - An engine that provides the support for creating localizations into different languages and HScript modding support with Polymod HScript classes and small script files. Also, engine has integration with GameJolt with achievements.
-- [CrowEngine](https://github.com/EyeDaleHim/CrowEngine) - A modified version of base Funkin' that has been rebuilt to include comprehensive documentation for modding and to introduce new features.
+- [Crow Engine](https://github.com/EyeDaleHim/Crow-Engine) - A 1:1 recreation of Base Game, introduces extreme performance upgrades, source code easier to work with.
 - [Modding+](https://github.com/FunkinModdingPlus/ModdingPlus) - An engine with HScript support with the intention of easy customization and enhanced gameplay options.
   - [Disappointing Plus](https://github.com/AFunkinDisappointment/DisappointingPlus) - A fork of Modding+ with additional features such as framerate adjustment, camera movement whenever a character sings, and an improved character swap function.
 
