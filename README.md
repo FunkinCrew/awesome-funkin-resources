@@ -133,6 +133,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 - *Kade Engine* - An archived engine that includes new features and quality of life fixes, targeted at pro rhythm game players.
   - [BoloVEVO's Kade Engine](https://github.com/BoloVEVO/Kade-Engine-Public) - A fork of Kade Engine that fixes all the bugs and includes new content.
     - [BoloVEVO's Kade Engine Docs](https://github.com/BoloVEVO/Kade-Engine-Public/wiki) - Kade Engine Fork modding documentation.
+   -[Kade Engine Community](https://github.com/TheRealJake12/Kade-Engine-Community) - A fork of Kade Engine Similar To BoloVEVO's with expanded features and more customizability. Includes hscript modchart support and revamped main menu.  
   - [Edak Engine](https://github.com/Skullbite/Edak-Engine) - A fork of Kade Engine with HScript support, softcoding, a cleaner file system, configurable weeks and more. It also comes with B-Side Remixes Legacy's assets.
     - [Edak Engine Docs](https://github.com/Skullbite/Edak-Engine/wiki) - Edak Engine modding documentation.
 - *Forever Engine* - An archived rewrite of the game, originally written by Yoshubs. Includes performance reworks, HScript support, and more.
