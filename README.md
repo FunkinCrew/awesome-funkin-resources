@@ -152,7 +152,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 - [Modding+](https://github.com/FunkinModdingPlus/ModdingPlus) - An engine with HScript support with the intention of easy customization and enhanced gameplay options.
   - [Disappointing Plus](https://github.com/AFunkinDisappointment/DisappointingPlus) - A fork of Modding+ with additional features such as framerate adjustment, camera movement whenever a character sings, and an improved character swap function.
 
-- [JS Engine](https://github.com/khuonghoanghuy/JS-Engine) - A normall engine with some features like cannot press while in start countdown, direct fps cap key, clear up memory. This engine currently still in development.
+- [JS Engine](https://github.com/khuonghoanghuy/JS-Engine) - An engine with some features like cannot press while in start countdown, direct fps cap key, clear up memory options, new watermark system. This engine currently still in development.
 
 ### Rewrites and Ports
 
