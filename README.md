@@ -1,5 +1,5 @@
 <!--lint ignore double-link-->
-# Friday Night Funkin' Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Friday Night Funkin' Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <p align="center">
   <a url="https://funkin.me/"><img src="img/FNF-Logo.svg" alt="Friday Night Funkin'" /></a>
