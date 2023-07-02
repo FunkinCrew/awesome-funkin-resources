@@ -2,7 +2,7 @@
 # Awesome Friday Night Funkin' Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <p align="center">
-  <a url="https://funkin.me/"><img src="img/FNF-Logo.svg" alt="Friday Night Funkin'" /></a>
+  <a href="https://funkin.me/"><img src="img/FNF-Logo.svg" alt="Friday Night Funkin'" /></a>
 </p>
 
 > Various community curated resources for the game Friday Night Funkin'.
