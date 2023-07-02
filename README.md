@@ -38,6 +38,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
   - [Visual Studio Code](#visual-studio-code)
   - [Haxe/HaxeFlixel Resources](#haxehaxeflixel-resources)
 - [Art](#art)
+  - [Free Software for Making Art](#free-software-for-making-art)
 - [Charting](#charting)
 - [Modding](#modding)
   - [Modding Tutorials](#modding-tutorials)
@@ -177,6 +178,10 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 
 - [Base Game FLAs](https://github.com/FunkinCrew/Funkin/tree/master/art/flashFiles) - FLAs for Friday Night' Funkin from the GitHub repository.
 - [FNF Logo SVG recreation](https://commons.wikimedia.org/wiki/File:FNF-Logo.svg) - Vector recreation of the FNF logo, so you can edit the shapes better and recolor it without a crappy fill bucket.
+
+### Free Software for Making Art
+
+- [Krita](https://krita.org/en/) - A free and open source raster graphics program with a huge following. Great for digital painting and drawing, supports custom brushes, utilizes different brush engines for many uses, and has frame-by-frame animation tools.
 
 ## Charting
 
