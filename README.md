@@ -152,6 +152,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 - [Crow Engine](https://github.com/EyeDaleHim/Crow-Engine) - A 1:1 recreation of Base Game, introduces extreme performance upgrades, source code easier to work with.
 - [Modding+](https://github.com/FunkinModdingPlus/ModdingPlus) - An engine with HScript support with the intention of easy customization and enhanced gameplay options.
   - [Disappointing Plus](https://github.com/AFunkinDisappointment/DisappointingPlus) - A fork of Modding+ with additional features such as framerate adjustment, camera movement whenever a character sings, and an improved character swap function.
+- [Pop Engine Rewrite](https://github.com/khuonghoanghuy/FNF-Pop-Engine-Rewrite) - A FNF engine build on version v0.2.7.1 with more content added and new menu gameplay looks!
 
 ### Rewrites and Ports
 
