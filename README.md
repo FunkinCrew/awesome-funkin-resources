@@ -29,6 +29,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 
 - [Animation](#animation)
   - [Spritesheet Generation](#spritesheet-generation)
+  - [Texture Atlas](#texture-atlas)
 - [Composing](#composing)
   - [Free Software for Making Music](#free-software-for-making-music)
   - [Chromatic Scale Guides](#chromatic-scale-guides)
