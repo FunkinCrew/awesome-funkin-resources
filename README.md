@@ -177,6 +177,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 ## Art
 
 - [Base Game FLAs](https://github.com/FunkinCrew/Funkin/tree/master/art/flashFiles) - FLAs for Friday Night' Funkin from the GitHub repository.
+- [Week 7 Update FLAs](https://twitter.com/PhantomArcade3K/status/1521540912421257218) - FLAs for the Week 7 update including the stage, Tankman and cutscenes.
 - [FNF Logo SVG recreation](https://commons.wikimedia.org/wiki/File:FNF-Logo.svg) - Vector recreation of the FNF logo, so you can edit the shapes better and recolor it without a crappy fill bucket.
 
 ### Free Software for Making Art
