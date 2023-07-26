@@ -63,6 +63,11 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 - [compresspng](https://compresspng.com/) - Website for general image optimization, compresses a little more than oxipng.
 - [Sparrow Atlas Resizer](https://github.com/KadeDev/SparrowAtlasResizer) - Simple program for resizing sparrow atlas PNG and XML files.
 
+### Texture Atlas
+- [Videos of how to export texture atlas spritesheets for the implementation currently in Psych Engine (Animate 2018 exclusive)](https://twitter.com/MarkimusZer0/status/1681690825518903296?s=20)
+- [Video of how to use atlas sprites with Psych Engine's character system](https://twitter.com/MarkimusZer0/status/1681691342349426689?s=20)
+- [Example lua script of atlas spritesheets in Psych Engine Lua](https://github.com/MarkimusZer0/SmokeyTextureAtlas-Example/blob/main/ExampleScript/spawnAtlasPico.lua)
+
 ## Composing
 
 - [Stems & Chromatic Scales](https://drive.google.com/drive/folders/1XndrqjB48K3HTj0V3l0HSUGtCttRfiH9) - Officially released stems of Friday Night Funkin' music by Kawaisprite.
