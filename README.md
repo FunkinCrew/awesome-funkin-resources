@@ -64,9 +64,9 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 - [Sparrow Atlas Resizer](https://github.com/KadeDev/SparrowAtlasResizer) - Simple program for resizing sparrow atlas PNG and XML files.
 
 ### Texture Atlas
-- [Videos of how to export texture atlas spritesheets for the implementation currently in Psych Engine (Animate 2018 exclusive)](https://twitter.com/MarkimusZer0/status/1681690825518903296?s=20)
-- [Video of how to use atlas sprites with Psych Engine's character system](https://twitter.com/MarkimusZer0/status/1681691342349426689?s=20)
-- [Example lua script of atlas spritesheets in Psych Engine Lua](https://github.com/MarkimusZer0/SmokeyTextureAtlas-Example/blob/main/ExampleScript/spawnAtlasPico.lua)
+- [Atlas Export Tutorial Video (PSYCH ENGINE IMPLEMENTAION)](https://twitter.com/MarkimusZer0/status/1681690825518903296?s=20) - Video showing the exporting process of a sprite shit that will work with Psych Engine's implementation of Texture Atlas.
+- [Atlas Character Tutorial (PSYCH ENGINE)](https://twitter.com/MarkimusZer0/status/1681691342349426689?s=20) - Follow-up to the previous video with showing how to use Atlas with Psych's character system.
+- [Example lua script of atlas spritesheets (PSYCH ENGINE)](https://github.com/MarkimusZer0/SmokeyTextureAtlas-Example/blob/main/ExampleScript/spawnAtlasPico.lua) - Example script showing how to use Atlas sprites in Lua.
 
 ## Composing
 
