@@ -7,7 +7,7 @@
 
 > Various community curated resources for the game Friday Night Funkin'.
 
-**[Friday Night Funkin'](https://www.newgrounds.com/portal/view/770371)** (FNF) is a cartoon rhythm game developed for the Ludem Dare 47 game jam, and first uploaded to Newgrounds in October 2020. FNF boasts a classic Flash game artstyle, original music, and a thriving modding community.
+**[Friday Night Funkin'](https://www.newgrounds.com/portal/view/770371)** (FNF) is a cartoon rhythm game developed for the Ludum Dare 47 game jam, and first uploaded to Newgrounds in October 2020. FNF boasts a classic Flash game artstyle, original music, and a thriving modding community.
 
 Check out **[the official Funkin' Blog](https://funkin.me/blog/)**
 
