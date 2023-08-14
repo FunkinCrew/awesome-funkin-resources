@@ -170,6 +170,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 - [FunkiniOS](https://github.com/hadobedo/FunkiniOS) - A port of FNF to iOS devices, requires sideloading.
 - [PSXFunkin](https://github.com/cuckydev/PSXFunkin) - A Playstation 1 de-make in C/C++.
 - [Funkin' Rewritten](https://github.com/HTV04/funkin-rewritten) - A rewrite of FNF in lua that is very focused on optimization. Can also compile for Nintendo Switch homebrew.
+  - [Vanilla Engine](https://github.com/VanillaEngineDevs/Vanilla-Engine) - A fork of Funkin' Rewritten that adds many QOL features and is more focused on modding.
 
 
 ### Visual Studio Code
