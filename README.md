@@ -29,6 +29,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 
 - [Animation](#animation)
   - [Spritesheet Generation](#spritesheet-generation)
+  - [Texture Atlas](#texture-atlas)
 - [Composing](#composing)
   - [Free Software for Making Music](#free-software-for-making-music)
   - [Chromatic Scale Guides](#chromatic-scale-guides)
@@ -60,6 +61,11 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 - [oxipng](https://github.com/shssoichiro/oxipng) - Simple program for general image optimization but also works nicely with FNF Sprite Sheets.
 - [compresspng](https://compresspng.com/) - Website for general image optimization, compresses a little more than oxipng.
 - [Sparrow Atlas Resizer](https://github.com/KadeDev/SparrowAtlasResizer) - Simple program for resizing sparrow atlas PNG and XML files.
+
+### Texture Atlas
+- [Atlas Export Tutorial Video (PSYCH ENGINE IMPLEMENTATION)](https://twitter.com/MarkimusZer0/status/1681690825518903296?s=20) - Video showing the exporting process of a sprite shit that will work with Psych Engine's implementation of Texture Atlas.
+- [Atlas Character Tutorial (PSYCH ENGINE)](https://twitter.com/MarkimusZer0/status/1681691342349426689?s=20) - Follow-up to the previous video with showing how to use Atlas with Psych's character system.
+- [Example lua script of atlas spritesheets (PSYCH ENGINE)](https://github.com/MarkimusZer0/SmokeyTextureAtlas-Example/blob/main/ExampleScript/spawnAtlasPico.lua) - Example script showing how to use Atlas sprites in Lua.
 
 ## Composing
 
