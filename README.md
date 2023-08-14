@@ -46,11 +46,9 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 ## Animation
 
 - [Phantom Arcade Teaching Animation](https://youtu.be/bLqTpYNZ1C4) - YouTube VOD of PhantomArcade, Funkin' Crew lead, teaching his ways of Flash animation.
-- [Frames to Symbol Flash Plugin](https://mega.nz/file/2fx1waBD#YJT5ooKfZ4-wjibIEhglRcxsq7QM6f_zx9JjcXLcVx0)
-- [Base Game FLAs](https://github.com/FunkinCrew/Funkin/tree/master/art/flashFiles) - FLAs for Friday Night' Funkin from the GitHub repository.
-- [Week 7 Update FLAs](https://twitter.com/PhantomArcade3K/status/1521540912421257218) - FLAs for the Week 7 update including the stage, Tankman and cutscenes.
-- [The ULTIMATE Guide to ADOBE ANIMATE CC! (AKA Flash) - Tutorial](https://youtu.be/3iXSQ8VcPcU) - 6 year old Animate/Flash tutorial by [Jazza](https://www.youtube.com/@Jazza), has extra links in the description for more tutorials for each section. (pretty long too, yeesh, 2 hours almost!)
-- [How to make 3D Friday Night Funkin Sprites (USING BLENDER)](https://youtu.be/fAuD_54Euq0) - A guide by Stupid Waluigi.
+- [Frames to Symbol Flash Plugin](https://mega.nz/file/2fx1waBD#YJT5ooKfZ4-wjibIEhglRcxsq7QM6f_zx9JjcXLcVx0) - A Flash plugin that converts frames into symbols.
+- [The ULTIMATE Guide to ADOBE ANIMATE CC! (AKA Flash) - Tutorial](https://youtu.be/3iXSQ8VcPcU) - An Animate/Flash tutorial by [Jazza](https://www.youtube.com/@Jazza), the description includes timestamps for each video section. <!-- (pretty long too, yeesh, 2 hours almost!) -->
+- [How to make 3D Friday Night Funkin Sprites (USING BLENDER)](https://youtu.be/fAuD_54Euq0) - A guide by Stupid Waluigi for making 3D sprites using Blender.
 - [Aseprite](https://www.aseprite.org/) - Animated sprite editor and pixel art tool.
   - [Aseprite JSON to XML](https://github.com/MaybeMaru/Aseprite-JSON-to-XML) - Converter from Aseprite's JSON format to Sparrow XML that is compatible with Funkin'.
 
@@ -65,12 +63,12 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 
 ## Composing
 
-- [Stems & Chromatic Scales](https://drive.google.com/drive/folders/1XndrqjB48K3HTj0V3l0HSUGtCttRfiH9) - Officially released stems of Friday Night Funkin' music by Kawaisprite.
-- [How to Mimic Boyfriend's Voice](https://youtu.be/YOrC9uQiK00)
+- [Stems & Chromatic Scales](https://drive.google.com/drive/folders/1XndrqjB48K3HTj0V3l0HSUGtCttRfiH9) - Officially released stems of Friday Night Funkin' music by Kawai Sprite.
+- [How to Mimic Boyfriend's Voice](https://youtu.be/YOrC9uQiK00) - A quick video tutorial that shows how Kawai Sprites does his voices for Friday Night Funkin'.
 - [Writing Vocal Duets - LongestSoloEver](https://youtu.be/nDPpO4fLiAM) - A beginner-friendly guide to writing duets in a Friday Night Funkin' song.
 - [6 Reasons your FNF Music Sucks - LongestSoloEver](https://youtu.be/kela6mWtIlU) - Common mistakes when writing songs for FNF. Also a bit of hyperbole along the way.
 - [FNF Music Tutorial Playlist - LongestSoloEver](https://www.youtube.com/playlist?list=PLfb6KneL63QsQ58tj-RkDCHRmheAofPJj) - A playlist with all of LongestSoloEver's guides to writing FNF music (except the 2 listed above for some reason).
-- [Saruky's Google Doc that includes various plugins, VSTs and other FL Studio stuff that she uses](https://docs.google.com/document/d/1wva21t4HHb8nIK71KqAXQxHTl9IXU-dEH8g249SdHWo/edit) - You can find Saruky [here](https://twitter.com/Saruky__).
+- [Saruky's Google Doc](https://docs.google.com/document/d/1wva21t4HHb8nIK71KqAXQxHTl9IXU-dEH8g249SdHWo/edit) - A google doc by Saruky that includes various plugins, VSTs and other FL Studio stuff that she uses.
 
 ### Free Software for Making Music
 
@@ -81,36 +79,20 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 - [Caustic 3](https://singlecellsoftware.com/caustic) - Simple tool inspired by rack-mount synthesizers, somewhat limited features but easy to grasp. Intended for mobile but free version is available for Windows and macOS.
 
 ### Chromatic Scale Guides
+
 - [How to MAKE CHROMATICS (Friday Night Funkin) - bbpanzu](https://youtu.be/a7SGu1fNthc)
 - [EASY FNF chromatic guide! (Friday Night Funkin') - StickyBM](https://youtu.be/PlSh_LJwQD0)
-- [Shitty chromatic tutorial - ChimmieMpeg](https://www.youtube.com/watch?v=mKsU_LiHMmw) (tutorial isnt actually shit)
+- [Shitty chromatic tutorial - ChimmieMpeg](https://www.youtube.com/watch?v=mKsU_LiHMmw)
 - [How to make FNF Chromatics in Ableton - LongestSoloEver](https://www.youtube.com/watch?v=QCA6-N-pW_0)
 - [Polyphone SoundFont Editor](https://www.polyphone-soundfonts.com/) - A soundfont editor for those who want to make music quickly using their pitched samples.
 - [MELODYNE FNF CHROMATIC SCALE TUTORIAL - Emihead](https://youtu.be/MSAmOhJVRLw)
-- [How I make My FNF Chromatics | 1000 Sub Special PT 1 - Agentsecret24](https://youtu.be/-Jq8cilS6No)
-  - Makes it so that the pitch of the chromatic and the sample work independently of each other.
-- [Chromatic scale tutorial gone wrong | How I make my chromatic scales - Milk](https://youtu.be/watch?v=VmkFOPAcKbg) (basically how to make chromatics in GarageBand)
+- [How I make My FNF Chromatics | 1000 Sub Special PT 1 - Agentsecret24](https://youtu.be/-Jq8cilS6No) - A tutorial that shows how to make the pitch of the chromatic and the sample work independently of each other.
+- [Chromatic scale tutorial gone wrong | How I make my chromatic scales - Milk](https://youtu.be/watch?v=VmkFOPAcKbg) - A tutorial on how to make chromatic scales in GarageBand.
 - [shitty ass chrom tutorial because i hit 400 subs - VinceS](https://youtu.be/D4jWnvAEkhk) - Makes the volumes of each sample the same (or close to the same).
 - [sampling shit for your fnf chromatics tutorial - VinceS](https://youtu.be/JzKr6xFAWMA) - Shows how to sample videos to make chromatic scales of different characters. (Also works with Melodyne)
-- [Zero's Chromatic Scale Tutorial](https://youtu.be/tDxsPa-21PQ&t) 
-  - Shows useful shortcuts in Fl Studio for making chromatics easier.
+- [Zero's Chromatic Scale Tutorial](https://youtu.be/tDxsPa-21PQ&t) - A tutorial that shows useful shortcuts in Fl Studio for making chromatic scales easier.
 - [how to make soundfonts for fnf using chromatic scales - HowToAvenge101](https://youtu.be/QmcU9Bh6jUQ)
 - [Chromatic Scale Generator](https://gamebanana.com/tools/8906) - A tool that turns samples into a full chromatic scale.
-
-
-- [How to MAKE CHROMATICS (Friday Night Funkin) - bbpanzu](https://youtu.be/a7SGu1fNthc)
-- [EASY FNF chromatic guide! (Friday Night Funkin') - StickyBM](https://youtu.be/PlSh_LJwQD0)
-- [Shitty chromatic tutorial - ChimmieMpeg](https://www.youtube.com/watch?v=mKsU_LiHMmw) (tutorial isnt actually shit)
-- [How to make FNF Chromatics in Ableton - LongestSoloEver](https://www.youtube.com/watch?v=QCA6-N-pW_0)
-- [MELODYNE FNF CHROMATIC SCALE TUTORIAL - Emihead](https://youtu.be/MSAmOhJVRLw)
-- [How I make My FNF Chromatics | 1000 Sub Special PT 1 - Agentsecret24](https://youtu.be/-Jq8cilS6No)
-  - Makes it so that the pitch of the chromatic and the sample work independently of each other.
-- [Chromatic scale tutorial gone wrong | How I make my chromatic scales - Milk](https://youtu.be/watch?v=VmkFOPAcKbg) (basically how to make chromatics in GarageBand)
-- [shitty ass chrom tutorial because i hit 400 subs - VinceS](https://youtu.be/D4jWnvAEkhk) - Makes the volumes of each sample the same (or close to the same).
-- [sampling shit for your fnf chromatics tutorial - VinceS](https://youtu.be/JzKr6xFAWMA) - Shows how to sample videos to make chromatic scales of different characters. (Also works with Melodyne)
-- [Zero's Chromatic Scale Tutorial](https://youtu.be/tDxsPa-21PQ&t)
-  - Shows useful shortcuts in Fl Studio for making chromatics easier.
-- [how to make soundfonts for fnf using chromatic scales - HowToAvenge101](https://youtu.be/QmcU9Bh6jUQ)
 
 ## Programming
 
@@ -178,15 +160,15 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 
 - [Visual Studio Code](https://code.visualstudio.com/) - Highly recommended IDE, as it is the only integrated development environment with proper support for Haxe (via extensions).
   - [Enable VSCode Debug Tools](https://twitter.com/EliteMasterEric/status/1535814918917734400) - A Twitter thread made by EliteMasterEric showing useful tips and tricks for Visual Studio Code.
-- [Funkin' Script AutoComplete](https://github.com/Snirozu/Funkin-Script-AutoComplete) - A Visual Studio Code extension for Psych Engine you can use that will auto complete functions, variables etc. in your Lua script.
+- [Funkin' Script AutoComplete](https://github.com/Snirozu/Funkin-Script-AutoComplete) - A Visual Studio Code extension for Psych Engine you can use that will auto complete identifiers (functions, variables, etc.) in your Lua script.
 - [Source Code Guide | OVERHAUL](https://gamebanana.com/tuts/13798) - That one famous GameBanana compile guide. Also includes tutorials, like adding songs, custom characters, etc. (**originally targeted towards Funkin' 0.2.7.1**)
 
 ### Haxe/HaxeFlixel Resources
 
 - [Haxe - Introduction](https://haxe.org/manual/introduction.html) - Introductory Haxe documentation.
-- [HaxeFlixel - Introduction](https://haxeflixel.com/documentation/) - HaxeFlixel Documentation.
+- [HaxeFlixel - Introduction](https://haxeflixel.com/documentation/) - Introductory HaxeFlixel Documentation.
 - [HaxeFlixel Cheat Sheet](https://haxeflixel.com/documentation/cheat-sheet/) - Series of code examples and mini tutorials for common uses of HaxeFlixel.
-- [HaxeFlixel Demos](https://haxeflixel.com/demos/) - Collection of demos for HaxeFlixel.
+- [HaxeFlixel Demos](https://haxeflixel.com/demos/) - Collection of demos for HaxeFlixel, designed to introduce beginners to the framework.
   - [GitHub repository for abovementioned demos](https://github.com/HaxeFlixel/flixel-demos)
 - [HaxeFlixel Game Development Tools](https://haxeflixel.com/documentation/game-development-tools/) - Tools that HaxeFlixel recommends for developing games.
 - [HaxeFlixel Snippets](https://snippets.haxeflixel.com/) - Snippets of HaxeFlixel code with live demos to explain their functionality.
@@ -196,6 +178,8 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 
 ## Art
 
+- [Base Game FLAs](https://github.com/FunkinCrew/Funkin/tree/master/art/flashFiles) - FLAs for Friday Night' Funkin from the GitHub repository.
+- [Week 7 Update FLAs](https://twitter.com/PhantomArcade3K/status/1521540912421257218) - FLAs for the Week 7 update including the stage, Tankman and cutscenes.
 - [FNF Logo SVG recreation](https://commons.wikimedia.org/wiki/File:FNF-Logo.svg) - Vector recreation of the FNF logo, so you can edit the shapes better and recolor it without a crappy fill bucket.
 
 ### Free Software for Making Art
