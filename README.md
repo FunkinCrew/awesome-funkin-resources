@@ -7,7 +7,7 @@
 
 > Various community curated resources for the game Friday Night Funkin'.
 
-**[Friday Night Funkin'](https://www.newgrounds.com/portal/view/770371)** (FNF) is a cartoon rhythm game developed for the Ludem Dare 47 game jam, and first uploaded to Newgrounds in October 2020. FNF boasts a classic Flash game artstyle, original music, and a thriving modding community.
+**[Friday Night Funkin'](https://www.newgrounds.com/portal/view/770371)** (FNF) is a cartoon rhythm game developed for the Ludum Dare 47 game jam, and first uploaded to Newgrounds in October 2020. FNF boasts a classic Flash game artstyle, original music, and a thriving modding community.
 
 Check out **[the official Funkin' Blog](https://funkin.me/blog/)**
 
@@ -116,6 +116,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 - *Kade Engine* - An archived engine that includes new features and quality of life fixes, targeted at pro rhythm game players.
   - [BoloVEVO's Kade Engine](https://github.com/BoloVEVO/Kade-Engine-Public) - A fork of Kade Engine that fixes all the bugs and includes new content.
     - [BoloVEVO's Kade Engine Docs](https://github.com/BoloVEVO/Kade-Engine-Public/wiki) - Kade Engine Fork modding documentation.
+  - [Kade Engine Community](https://github.com/TheRealJake12/Kade-Engine-Community) - A fork of Kade Engine Similar To BoloVEVO's with expanded features and more customizability. Includes hscript modchart support and revamped main menu.  
   - [Edak Engine](https://github.com/Skullbite/Edak-Engine) - A fork of Kade Engine with HScript support, softcoding, a cleaner file system, configurable weeks and more. It also comes with B-Side Remixes Legacy's assets.
     - [Edak Engine Docs](https://github.com/Skullbite/Edak-Engine/wiki) - Edak Engine modding documentation.
 - *Forever Engine* - An archived rewrite of the game, originally written by Yoshubs. Includes performance reworks, HScript support, and more.
@@ -152,6 +153,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 - [FunkiniOS](https://github.com/hadobedo/FunkiniOS) - A port of FNF to iOS devices, requires sideloading.
 - [PSXFunkin](https://github.com/cuckydev/PSXFunkin) - A Playstation 1 de-make in C/C++.
 - [Funkin' Rewritten](https://github.com/HTV04/funkin-rewritten) - A rewrite of FNF in lua that is very focused on optimization. Can also compile for Nintendo Switch homebrew.
+  - [Vanilla Engine](https://github.com/VanillaEngineDevs/Vanilla-Engine) - A fork of Funkin' Rewritten that adds many QOL features and is more focused on modding.
 
 
 ### Visual Studio Code
