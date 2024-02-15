@@ -151,7 +151,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
   or rewrite the game from scratch in a different game engine or programming language.  
 -->
 
-- [FNF LÖVE](https://github.com/Stilic/FNF-LOVE) - A Lua recreation of FNF within the LÖVE2D engine. Can compile for Nintendo Switch Homebrew.
+- [FNF LÖVE](https://github.com/Stilic/FNF-LOVE) - A Lua recreation of FNF within the LÖVE2D framework. Can compile for Nintendo Switch Homebrew.
 - [FNF-Benjine](https://github.com/this-is-bennyk/FNF-Benjine) - Funkin' but in Godot, made by [BennyK](https://github.com/this-is-bennyk) and was used for [Funkin' VR](https://github.com/this-is-bennyk/Funkin-VR).
   - [FNF-Benjine Docs](https://github.com/this-is-bennyk/FNF-Benjine/wiki) - Godot Funkin' modding documentation.
 - [PydayNightFunkin](https://github.com/Square789/PydayNightFunkin) - A recreation of FNF in Python, allowing for quick changeability! Tries to be painlessly readable and is somewhat documented.
@@ -163,6 +163,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 - [PSXFunkin](https://github.com/cuckydev/PSXFunkin) - A Playstation 1 de-make in C/C++.
 - [Funkin' Rewritten](https://github.com/HTV04/funkin-rewritten) - A rewrite of FNF in lua that is very focused on optimization. Can also compile for Nintendo Switch homebrew.
   - [Vanilla Engine](https://github.com/VanillaEngineDevs/Vanilla-Engine) - A fork of Funkin' Rewritten that adds many QOL features and is more focused on modding.
+- [Funkin3D](https://github.com/GuglioIsStupid/Funkin3D) - A 3DS de-make of FNF made in LÖVEPOTION.
 
 
 ### Visual Studio Code
