@@ -51,7 +51,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 - [The ULTIMATE Guide to ADOBE ANIMATE CC! (AKA Flash) - Tutorial](https://youtu.be/3iXSQ8VcPcU) - An Animate/Flash tutorial by [Jazza](https://www.youtube.com/@Jazza), the description includes timestamps for each video section. <!-- (pretty long too, yeesh, 2 hours almost!) -->
 - [How to make 3D Friday Night Funkin Sprites (USING BLENDER)](https://youtu.be/fAuD_54Euq0) - A guide by Stupid Waluigi for making 3D sprites using Blender.
 - [Aseprite](https://www.aseprite.org/) - Animated sprite editor and pixel art tool.
-  - [Aseprite JSON to XML](https://github.com/MaybeMaru/Aseprite-JSON-to-XML) - Converter from Aseprite's JSON format to Sparrow XML that is compatible with Funkin'.
+  - [Aseprite JSON to XML](https://github.com/MaybeMaru/Aseprite-JSON-to-XML) - Converter from Aseprite's JSON format to Sparrow XML that is compatible with Funkin'. (Note: Aseprite is getting support on engines such as Codename Engine, therefore you won't need this for those engines anymore)
 
 ### Spritesheet Generation
 
