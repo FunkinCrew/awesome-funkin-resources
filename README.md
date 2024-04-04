@@ -131,9 +131,6 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
   - [Forever Engine Plus](https://github.com/Sword352/Forever-Engine-Plus) - A fork of Forever Engine which aims to maintain the engine by adding and optimizing features as well as fixing its bugs. Allow softcoding features for basic objects such as characters, stages, weeks, but also advanced objects such as shaders.
 - [Codename Engine](https://github.com/YoshiCrafter29/CodenameEngine) - A fork of base game that provides full HScript support for advanced softcoding, along with sorted and half rewritten source for optimisation and ease of use.
   - [Codename Engine Docs](https://github.com/YoshiCrafter29/CodenameEngine/wiki) - Codename Engine modding documenation.
-- [Andromeda Engine Legacy](https://github.com/nebulazorua/andromeda-engine-legacy) - Fork of Funkin' with customization and gameplay in mind.
-  - [Andromeda Engine Docs](https://github.com/nebulazorua/andromeda-engine-legacy/wiki) - Andromeda Engine (LEGACY) Modchart API documentation.
-  - [Andromeda 2.0](https://github.com/nebulazorua/andromeda-2.0) - **NOTE: Andromeda 2.0 is in HEAVY development and is in a very early alpha stage**.
 - [FPS Plus](https://github.com/ThatRozebudDude/FPS-Plus-Public) - A fork of Funkin', as the name suggests, with higher framerate, better input system, rebindable keys and more. [B-Side Redux](https://gamebanana.com/mods/42724) was made on this engine.
 - [Super Engine](https://github.com/superpowers04/Super-Engine) - A fork of Kade Engine that features revamped menus, mod support and online functionality.
 
