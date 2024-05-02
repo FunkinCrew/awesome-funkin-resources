@@ -82,7 +82,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 - [SoundBridge](https://soundbridge.io/) - A free DAW in open BETA that's intended for simplicity. Available for Windows and macOS.
 - [Waveform Free](https://www.tracktion.com/products/waveform-free) - The free version of Waveform Pro that has plenty of features for music creation. Available for Windows, macOS, and Linux (Ubuntu).
 - [Cakewalk by Bandlab](https://www.bandlab.com/products/cakewalk) - Formerly Cakewalk Sonar, this DAW was purchased by Bandlab and became free to the public. Available for Windows only.
-- [Caustic 3](https://singlecellsoftware.com/caustic) - Simple tool inspired by rack-mount synthesizers, somewhat limited features but easy to grasp. Intended for mobile but free version is available for Windows and macOS.
+- [Caustic 3](https://drive.google.com/file/d/1yBp0vV3aH0nHn0USH6wbLI7yXARSvr4s/view?usp=sharing) - Simple tool inspired by rack-mount synthesizers, somewhat limited features but easy to grasp. Intended for mobile but free version is available for Windows and macOS.
 
 ### Chromatic Scale Guides
 
