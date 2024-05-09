@@ -28,6 +28,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 -->
 
 - [Animation](#animation)
+  - [Free Software for Animating](#free-software-for-animating)
   - [Spritesheet Generation](#spritesheet-generation)
   - [Texture Atlas](#texture-atlas)
 - [Composing](#composing)
