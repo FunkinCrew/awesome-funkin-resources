@@ -53,6 +53,13 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 - [Aseprite](https://www.aseprite.org/) - Animated sprite editor and pixel art tool.
   - [Aseprite JSON to XML](https://github.com/MaybeMaru/Aseprite-JSON-to-XML) - Converter from Aseprite's JSON format to Sparrow XML that is compatible with Funkin'. (Note: Aseprite is getting support on engines such as Codename Engine, therefore you won't need this for those engines anymore)
 
+### Free Software for Animating
+
+- [OpenToonz](https://opentoonz.github.io/e/) - A free and open source 2D animation program that specializes in frame-by-frame animation. Supports vector graphics and layers. Available for Windows, macOS, and Linux.
+- [Synfig Studio](https://www.synfig.org/) - A free and open source 2D animation program with the aim of making professional-level animations with less of the hassle. It features vector tweening, layers and filters, and a bone system. Available for Windows, macOS, and Linux.
+- [Glaxnimate](https://glaxnimate.mattbas.org/) - A free and open source 2D animation program that aims to be fast and simple to use. Has layer support, vector tweening, and can export animations for web use. Available for Windows, macOS, and Linux.
+- [Wick Editor](https://www.wickeditor.com/) - A free and open source program intended to make games and 2D animations as simply as possible. Supports vector graphics. Available for Windows, macOS, and Linux, and it can run in a web browser.
+
 ### Spritesheet Generation
 
 - [FNF Spritesheet and XML Maker](https://github.com/UncertainProd/FnF-Spritesheet-and-XML-Maker) - Combines individual frames together into spritesheets for FNF, and helps you manage animations.
@@ -102,7 +109,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 
 ## Programming
 
-- [Friday Night Funkin' Official Source Code](https://github.com/FunkinCrew/funkin) - The original open source game by The Funkin' Crew. Last updated for Week 7.
+- [Friday Night Funkin' Official Source Code](https://github.com/FunkinCrew/funkin) - The original open source game by The Funkin' Crew. Last updated for WeekEnd 1.
 
 ### Engines and Forks
 
