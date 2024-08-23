@@ -208,6 +208,10 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 
 ## Modding
 
+- [Official Funkin' (VSlice) Modding Documentation](https://funkincrew.github.io/funkin-modding-docs/)
+
+### Mod Hosting/Downloads
+
 - [GameBanana](https://gamebanana.com/games/8694) - GameBanana is the largest host for mods and skins for Friday Night Funkin'.
 - [GameJolt](https://gamejolt.com/c/fnf) - Another highly used host for mods.
 - [Funkipedia Mods Wiki](https://fridaynightfunking.fandom.com/wiki/Funkipedia_Mods_Wiki) - Information about most mods for Funkin'.
