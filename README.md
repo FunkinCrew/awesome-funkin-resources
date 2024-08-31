@@ -28,6 +28,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 -->
 
 - [Animation](#animation)
+  - [Free Software for Animating](#free-software-for-animating)
   - [Spritesheet Generation](#spritesheet-generation)
   - [Texture Atlas](#texture-atlas)
 - [Composing](#composing)
@@ -51,7 +52,14 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 - [The ULTIMATE Guide to ADOBE ANIMATE CC! (AKA Flash) - Tutorial](https://youtu.be/3iXSQ8VcPcU) - An Animate/Flash tutorial by [Jazza](https://www.youtube.com/@Jazza), the description includes timestamps for each video section. <!-- (pretty long too, yeesh, 2 hours almost!) -->
 - [How to make 3D Friday Night Funkin Sprites (USING BLENDER)](https://youtu.be/fAuD_54Euq0) - A guide by Stupid Waluigi for making 3D sprites using Blender.
 - [Aseprite](https://www.aseprite.org/) - Animated sprite editor and pixel art tool.
-  - [Aseprite JSON to XML](https://github.com/MaybeMaru/Aseprite-JSON-to-XML) - Converter from Aseprite's JSON format to Sparrow XML that is compatible with Funkin'.
+  - [Aseprite JSON to XML](https://github.com/MaybeMaru/Aseprite-JSON-to-XML) - Converter from Aseprite's JSON format to Sparrow XML that is compatible with Funkin'. (Note: Aseprite is getting support on engines such as Codename Engine, therefore you won't need this for those engines anymore)
+
+### Free Software for Animating
+
+- [OpenToonz](https://opentoonz.github.io/e/) - A free and open source 2D animation program that specializes in frame-by-frame animation. Supports vector graphics and layers. Available for Windows, macOS, and Linux.
+- [Synfig Studio](https://www.synfig.org/) - A free and open source 2D animation program with the aim of making professional-level animations with less of the hassle. It features vector tweening, layers and filters, and a bone system. Available for Windows, macOS, and Linux.
+- [Glaxnimate](https://glaxnimate.mattbas.org/) - A free and open source 2D animation program that aims to be fast and simple to use. Has layer support, vector tweening, and can export animations for web use. Available for Windows, macOS, and Linux.
+- [Wick Editor](https://www.wickeditor.com/) - A free and open source program intended to make games and 2D animations as simply as possible. Supports vector graphics. Available for Windows, macOS, and Linux, and it can run in a web browser.
 
 ### Spritesheet Generation
 
@@ -102,7 +110,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 
 ## Programming
 
-- [Friday Night Funkin' Official Source Code](https://github.com/FunkinCrew/funkin) - The original open source game by The Funkin' Crew. Last updated for Week 7.
+- [Friday Night Funkin' Official Source Code](https://github.com/FunkinCrew/funkin) - The original open source game by The Funkin' Crew. Last updated for WeekEnd 1.
 
 ### Engines and Forks
 
@@ -140,7 +148,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 - [Leather Engine](https://github.com/Leather128/LeatherEngine) - An engine that includes 1-21 key support, supports mod loading with Polymod and has other useful features like a stage editor.)
 - [Altronix Engine](https://github.com/Altronix-Team/FNF-AltronixEngine) - An engine that provides the support for creating localizations into different languages and HScript modding support with Polymod HScript classes and small script files. Also, engine has integration with GameJolt with achievements.
 - [Crow Engine](https://github.com/EyeDaleHim/Crow-Engine) - A 1:1 recreation of Base Game, introduces extreme performance upgrades, source code easier to work with.
-- [Modding+](https://github.com/FunkinModdingPlus/ModdingPlus) - An engine with HScript support with the intention of easy customization and enhanced gameplay options.
+- *Modding+* - An archived engine with HScript support with the intention of easy customization and enhanced gameplay options.
   - [Disappointing Plus](https://github.com/AFunkinDisappointment/DisappointingPlus) - A fork of Modding+ with additional features such as framerate adjustment, camera movement whenever a character sings, and an improved character swap function.
 - [Pop Engine Rewrite](https://github.com/khuonghoanghuy/FNF-Pop-Engine-Rewrite) - A FNF engine build on version v0.2.7.1 with more content added and new menu gameplay looks!
 
@@ -151,18 +159,19 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
   or rewrite the game from scratch in a different game engine or programming language.  
 -->
 
-- [FNF LÖVE](https://github.com/Stilic/FNF-LOVE) - A Lua recreation of FNF within the LÖVE2D engine. Can compile for Nintendo Switch Homebrew.
+- [FNF LÖVE](https://github.com/Stilic/FNF-LOVE) - A Lua recreation of FNF within the LÖVE2D framework. Can compile for Nintendo Switch Homebrew.
 - [FNF-Benjine](https://github.com/this-is-bennyk/FNF-Benjine) - Funkin' but in Godot, made by [BennyK](https://github.com/this-is-bennyk) and was used for [Funkin' VR](https://github.com/this-is-bennyk/Funkin-VR).
   - [FNF-Benjine Docs](https://github.com/this-is-bennyk/FNF-Benjine/wiki) - Godot Funkin' modding documentation.
 - [PydayNightFunkin](https://github.com/Square789/PydayNightFunkin) - A recreation of FNF in Python, allowing for quick changeability! Tries to be painlessly readable and is somewhat documented.
 - [Funkin' Android](https://github.com/luckydog7/Funkin-android) - A fork of the game with controls and optimizations allowing it to be played on Android devices.
-- [Funkin' Android Re-written](https://github.com/TyDevX/Funkin-Android-Rewritten) - A heavy wip fork of the base game but rewritten for android, inspired by luckydog7's port of the game to android devices.
+- [Funkin' Mobile](https://github.com/FNF-Mod-Porting/Funkin) - A heavy wip fork of the base game but rewritten for mobile devices, inspired by luckydog7's port of the game to android devices.
 - [BS Engine Mobile](https://github.com/MatheusSilver/BS-Engine-Mobile-Legacy) - A port of FNF that work in Android with optimizations. One of the most famous android FNF engines.
 - [FNF Pocket Engine](https://gamebanana.com/mods/406483) - An engine optimized for an Android phone, ironically based on the "FNF MOBILE" rip-offs in the Play Store.
 - [FunkiniOS](https://github.com/hadobedo/FunkiniOS) - A port of FNF to iOS devices, requires sideloading.
 - [PSXFunkin](https://github.com/cuckydev/PSXFunkin) - A Playstation 1 de-make in C/C++.
 - [Funkin' Rewritten](https://github.com/HTV04/funkin-rewritten) - A rewrite of FNF in lua that is very focused on optimization. Can also compile for Nintendo Switch homebrew.
   - [Vanilla Engine](https://github.com/VanillaEngineDevs/Vanilla-Engine) - A fork of Funkin' Rewritten that adds many QOL features and is more focused on modding.
+- [Funkin3D](https://github.com/GuglioIsStupid/Funkin3D) - A 3DS de-make of FNF made in LÖVEPOTION.
 
 
 ### Visual Studio Code
@@ -198,6 +207,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 ## Charting
 
 - [ArrowVortex](https://arrowvortex.ddrnl.com/) - Create or edit stepfiles for various rhythm games, such as [DDR (Dance Dance Revolution)](https://www.ddrgame.com/), [ITG (In The Groove)](<https://en.wikipedia.org/wiki/In_the_Groove_(video_game)>), [PIU (Pump It Up)](https://www.piugame.com/piu.xx/), [StepMania](https://www.stepmania.com/) and [osu!](https://osu.ppy.sh/home)
+- [Moonchart](https://github.com/MaybeMaru/moonchart) - Haxe library able to manage and convert charts made between multiple rhythm games to files usable in many Friday Night Funkin' versions and engines.
 - [fnf-to-sm](https://github.com/Ashen-Haze/fnf-to-sm) - A fork of a [fork](https://github.com/KadeDev/fnf-to-sm) from the original [fnf-to-sm repository](https://github.com/shockdude/fnf-to-sm). Converts Funkin' .json charts to StepMania simfiles and vice versa.
   - Alternatively, using [version 1.7 of Kade Engine](https://github.com/KadeDev/Kade-Engine/releases/tag/1.7) also has a simfile to .json converter.
   - You can also use [SM-to-FNF-Dance-Double](https://github.com/tzheng22/SM-to-FNF-Dance-Double) which has the added benefit of supporting sm file BPM Changes (also designed to work with Psych Engine)

@@ -14,3 +14,5 @@ This sub-directory details projects which have been archived, retired, or discon
     - Officially deprecated by the author.
 - [Mic'd Up Engine](https://github.com/Verwex/Funkin-Mic-d-Up-SC) - A deprecated engine that features revamped menus, additional difficulties for base game songs, endless mode, and modifiers.
     - Deprecated due to lack of updates.
+- [Modding+](https://github.com/FunkinModdingPlus/ModdingPlus) A deprecated engine with HScript support with the intention of easy customization and enhanced gameplay options.
+    - Officially deprecated by the author.
