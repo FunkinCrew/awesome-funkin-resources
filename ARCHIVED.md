@@ -16,3 +16,5 @@ This sub-directory details projects which have been archived, retired, or discon
     - Deprecated due to lack of updates.
 - [Modding+](https://github.com/FunkinModdingPlus/ModdingPlus) A deprecated engine with HScript support with the intention of easy customization and enhanced gameplay options.
     - Officially deprecated by the author.
+- [Andromeda Engine Legacy](https://github.com/nebulazorua/andromeda-engine-legacy) - A depreacted fork of Funkin' with customization and gameplay in mind.
+  - [Andromeda Engine Docs](https://github.com/nebulazorua/andromeda-engine-legacy/wiki) - Andromeda Engine (LEGACY) Modchart API documentation.
