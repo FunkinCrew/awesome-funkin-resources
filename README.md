@@ -148,6 +148,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 - *Modding+* - An archived engine with HScript support with the intention of easy customization and enhanced gameplay options.
   - [Disappointing Plus](https://github.com/AFunkinDisappointment/DisappointingPlus) - A fork of Modding+ with additional features such as framerate adjustment, camera movement whenever a character sings, and an improved character swap function.
 - [Pop Engine Rewrite](https://github.com/khuonghoanghuy/FNF-Pop-Engine-Rewrite) - A FNF engine build on version v0.2.7.1 with more content added and new menu gameplay looks!
+- - [Funkin' Galaxy](https://github.com/LeonGamerPS1/Funkin-Galaxy) - This FNF Engine/Rewrite aims to recreate the feel and looks of Friday Night Funkin  with modding and customizability in mind.
 
 ### Rewrites and Ports
 
