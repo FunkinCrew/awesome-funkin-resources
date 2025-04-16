@@ -146,9 +146,9 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 - [Altronix Engine](https://github.com/Altronix-Team/FNF-AltronixEngine) - An engine that provides the support for creating localizations into different languages and HScript modding support with Polymod HScript classes and small script files. Also, engine has integration with GameJolt with achievements.
 - [Crow Engine](https://github.com/EyeDaleHim/Crow-Engine) - A 1:1 recreation of Base Game, introduces extreme performance upgrades, source code easier to work with.
 - *Modding+* - An archived engine with HScript support with the intention of easy customization and enhanced gameplay options.
-  - [Disappointing Plus](https://github.com/AFunkinDisappointment/DisappointingPlus) - A fork of Modding+ with additional features such as framerate adjustment, camera movement whenever a character sings, and an improved character swap function.
+- [Disappointing Plus](https://github.com/AFunkinDisappointment/DisappointingPlus) - A fork of Modding+ with additional features such as framerate adjustment, camera movement whenever a character sings, and an improved character swap function.
 - [Pop Engine Rewrite](https://github.com/khuonghoanghuy/FNF-Pop-Engine-Rewrite) - A FNF engine build on version v0.2.7.1 with more content added and new menu gameplay looks!
-- - [Funkin' Galaxy](https://github.com/LeonGamerPS1/Funkin-Galaxy) - This FNF Engine/Rewrite aims to recreate the feel and looks of Friday Night Funkin  with modding and customizability in mind.
+- [Funkin' Galaxy](https://github.com/LeonGamerPS1/Funkin-Galaxy) - This FNF Engine/Rewrite aims to recreate the feel and looks of Friday Night Funkin  with modding and customizability in mind.
 
 ### Rewrites and Ports
 
@@ -168,7 +168,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 - [FunkiniOS](https://github.com/hadobedo/FunkiniOS) - A port of FNF to iOS devices, requires sideloading.
 - [PSXFunkin](https://github.com/cuckydev/PSXFunkin) - A Playstation 1 de-make in C/C++.
 - [Funkin' Rewritten](https://github.com/HTV04/funkin-rewritten) - A rewrite of FNF in lua that is very focused on optimization. Can also compile for Nintendo Switch homebrew.
-  - [Vanilla Engine](https://github.com/VanillaEngineDevs/Vanilla-Engine) - A fork of Funkin' Rewritten that adds many QOL features and is more focused on modding.
+- [Vanilla Engine](https://github.com/VanillaEngineDevs/Vanilla-Engine) - A fork of Funkin' Rewritten that adds many QOL features and is more focused on modding.
 - [Funkin3D](https://github.com/GuglioIsStupid/Funkin3D) - A 3DS de-make of FNF made in LÖVEPOTION.
 
 
