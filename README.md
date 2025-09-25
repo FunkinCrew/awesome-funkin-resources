@@ -215,8 +215,9 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 
 - [GameBanana](https://gamebanana.com/games/8694) - GameBanana is the largest host for mods and skins for Friday Night Funkin'.
 - [GameJolt](https://gamejolt.com/c/fnf) - Another highly used host for mods.
-- [Funkipedia Mods Wiki](https://fridaynightfunking.fandom.com/wiki/Funkipedia_Mods_Wiki) - Information about most mods for Funkin'.
-- [The /funkg/pedia Wiki](https://funkinchan.club/wiki/Main_Page) - The /funkg/ mod wiki.
+- [Funkipedia](https://fridaynightfunkin.wiki.gg/) - Community-run wiki for information strictly about Friday Night Funkin' itself, no mod or fan-made content.
+- [Funkipedia Mods](https://fridaynightfunking.fandom.com/) - Community-run wiki for information about most Funkin' mods.
+- [Funkinchan](https://funkinchan.fun/) - Information about most Funkin' mods in relation to /funkg/.
 
 ### Modding Tutorials
 
